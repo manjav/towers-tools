@@ -274,7 +274,7 @@
 			function jsonFR_selectHandler (event:Event):void
 			{
 				jsonFR.removeEventListener(Event.SELECT, jsonFR_selectHandler);
-				var hxFile:File = new File("C:\\_projects\\towers-projects\\Towers-core\\source\\src\\com\\gt\\towers\\battle\\fieldes\\"+className+".hx");
+				var hxFile:File = new File("C:\\Users\\Babak\\Documents\\Workspace\\Towers\\Towers-core\\source\\src\\com\\gt\\towers\\battle\\fieldes\\"+className+".hx");
 				var stream:FileStream = new FileStream();
 				stream.open(hxFile, FileMode.WRITE);
 				stream.writeUTFBytes(questClassStr);
