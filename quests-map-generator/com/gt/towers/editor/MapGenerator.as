@@ -92,7 +92,7 @@
 			//questClassStr = '\r\r\r\t\tfield = new FieldData(' + index + ', "' + currentScene.name + '", ' + intro_check.selected + ', ' + final_check.selected + ', "' + times + '" );\r\t\t// create places\r';
 			
 			var className:String = currentScene.name.substr(0,1).toUpperCase()+ currentScene.name.substr(1);
-			trace('\r\t\tshires.set( "' + currentScene.name + '" , new ' + className + '( ' + index + ', "' + currentScene.name + '", ' + (start_check ? start_check.selected : false) + ', ' + intro_check.selected + ', ' + final_check.selected + ' ) );\r')
+			trace('\r\t\tshires.set( "' + currentScene.name + '" , new com.gt.towers.battle.shires.' + className + '( ' + index + ', "' + currentScene.name + ',"", "", "" ) );\r')
 
 			var tutorSteps:String = "";
 			var sceneIndex:int = getSceneIndex();
@@ -103,7 +103,7 @@
 			sceneData.hasIntro = intro_check.selected;
 			sceneData.hasFinal = final_check.selected;
 			
-			questClassStr = 'package com.gt.towers.battle.shires;\rimport com.gt.towers.battle.fieldes.*;\rclass ' + className + ' extends FieldData\r{\r\tpublic function new(index:Int, name:String, hasStart:Bool=false, hasIntro:Bool=false, hasFinal:Bool=false, times:String="")\r\t{\r\t\tsuper(index, name, hasStart, hasIntro, hasFinal);\r\r\t\t// quests';
+			questClassStr = 'package com.gt.towers.battle.shires;\rimport com.gt.towers.battle.fieldes.*;\rclass ' + className + ' extends FieldData\r{\r\tpublic function new(index:Int, name:String, introNum:String="", startNum:String="", endNum:String="", times:String="")\r\t{\r\t\tsuper(index, name, introNum, startNum, endNum, times);\r\r\t\t// quests';
 			for (var i:int=0; i<numChildren; i++)
 			{
 				if( getChildAt(i).name.substr(0, 6) == "quest_" )

@@ -1,13 +1,13 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#FFDF78" width="756" height="560" currentTimeline="3" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" rulerVisible="true" objectsSnapTo="false" viewAngle3D="71.170704764202" nextSceneIdentifier="6" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveHasPrompted="true">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#FFDF78" width="756" height="560" currentTimeline="4" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" rulerVisible="true" objectsSnapTo="false" viewAngle3D="71.170704764202" nextSceneIdentifier="6" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveHasPrompted="true">
      <folders>
           <DOMFolderItem name="Component Assets" itemID="44e488a0-000016d6"/>
           <DOMFolderItem name="Component Assets/_private" itemID="4573a4bc-000003c6"/>
           <DOMFolderItem name="Component Assets/CheckBoxSkins" itemID="44c9141c-00000113"/>
           <DOMFolderItem name="Component Assets/Shared" itemID="44f892ff-0000001e"/>
-          <DOMFolderItem name="images" itemID="59e78886-000003a2"/>
+          <DOMFolderItem name="images" itemID="59e78886-000003a2" isExpanded="true"/>
      </folders>
      <media>
-          <DOMBitmapItem name="images/cols.png" itemID="59e79037-000004bd" sourceExternalFilepath="../quests-map-generator/LIBRARY/images/cols.png" sourceLastImported="1508344673" externalFileSize="27223" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/cols.png" bitmapDataHRef="M 1 1508345971.dat" frameRight="2600" frameBottom="2200"/>
+          <DOMBitmapItem name="images/cols.png" itemID="5a159c46-0000038f" sourceExternalFilepath="./LIBRARY/images/cols.png" sourceLastImported="1511265234" originalCompressionType="lossless" quality="50" href="images/cols.png" bitmapDataHRef="M 32 1511365407.dat" frameRight="2600" frameBottom="2200"/>
           <DOMCompiledClipItem name="Component Assets/_private/ComponentShim" itemID="4d08cfa8-000001ee" linkageExportForAS="true" linkageClassName="fl.core.ComponentShim" sourceLastImported="1292423080" displayAsComponent="false" customIconID="0" actionscriptClass="fl.core.ComponentShim" swfScmHRef="kbx0udh422.swf" swfScmSourceFilename="C:\Users\jkamerer\AppData\Local\Adobe\Flash CS5.5\en_US\Configuration\TMPkavphdh40p..swf" persistLivePreview11="true" livePreview11ScmHRef="kbx0udh4221.swf" livePreview11ScmSourceFilename="C:\Users\jkamerer\AppData\Local\Adobe\Flash CS5.5\en_US\Configuration\TMPkavphdh40p..swf" editFrameIndex="1" requiredMinimumPlayerVersion="0" requiredMinimumASVersion="0" parametersAreLocked="true" swcPath="Component Assets/_private/ComponentShim.xml" rootSymbolLinkageID="fl.core.ComponentShim" playerVersion="9" actionscriptVersion="3" hashKey="k718tUOF1.A1OSpQnqdJJ0">
                <classProperties><![CDATA[<component id="fl/core/ComponentShim" class="fl.core.ComponentShim" modified="1292423059130">
 <movieBounds xmin="0" xmax="0" ymin="0" ymax="0" />
@@ -99,35 +99,45 @@
                </customIcon>
                <SwcItem name="fl.core.ComponentShim" version="1292423059" isTopLevel="true"/>
           </DOMCompiledClipItem>
-          <DOMBitmapItem name="images/house-0.png" itemID="59e79037-000004be" sourceExternalFilepath="../quests-map-generator/LIBRARY/images/house-0.png" sourceLastImported="1508344642" externalFileSize="4749" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/house-0.png" bitmapDataHRef="M 2 1508345971.dat" frameRight="860" frameBottom="780"/>
-          <DOMBitmapItem name="images/house-1.png" itemID="59e79037-000004bf" sourceExternalFilepath="../quests-map-generator/LIBRARY/images/house-1.png" sourceLastImported="1508344644" externalFileSize="12226" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/house-1.png" bitmapDataHRef="M 3 1508345971.dat" frameRight="1440" frameBottom="1720"/>
-          <DOMBitmapItem name="images/house-10.png" itemID="59e79037-000004c0" sourceExternalFilepath="../quests-map-generator/LIBRARY/images/house-10.png" sourceLastImported="1508344663" externalFileSize="4842" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/house-10.png" bitmapDataHRef="M 12 1508345971.dat" frameRight="1140" frameBottom="620"/>
-          <DOMBitmapItem name="images/house-11.png" itemID="59e79037-000004c1" sourceExternalFilepath="../quests-map-generator/LIBRARY/images/house-11.png" sourceLastImported="1508344666" externalFileSize="8841" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/house-11.png" bitmapDataHRef="M 13 1508345971.dat" frameRight="1200" frameBottom="1380"/>
-          <DOMBitmapItem name="images/house-12.png" itemID="59e79037-000004c2" sourceExternalFilepath="../quests-map-generator/LIBRARY/images/house-12.png" sourceLastImported="1508344668" externalFileSize="3417" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/house-12.png" bitmapDataHRef="M 14 1508345971.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
-          <DOMBitmapItem name="images/house-13.png" itemID="59e79037-000004c3" sourceExternalFilepath="../quests-map-generator/LIBRARY/images/house-13.png" sourceLastImported="1508344671" externalFileSize="6157" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/house-13.png" bitmapDataHRef="M 15 1508345971.dat" frameRight="1260" frameBottom="980"/>
-          <DOMBitmapItem name="images/house-2.png" itemID="59e79037-000004c4" sourceExternalFilepath="../quests-map-generator/LIBRARY/images/house-2.png" sourceLastImported="1508344646" externalFileSize="6796" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/house-2.png" bitmapDataHRef="M 4 1508345971.dat" frameRight="1440" frameBottom="1000"/>
-          <DOMBitmapItem name="images/house-3.png" itemID="59e79037-000004c5" sourceExternalFilepath="../quests-map-generator/LIBRARY/images/house-3.png" sourceLastImported="1508344648" externalFileSize="3357" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/house-3.png" bitmapDataHRef="M 5 1508345971.dat" frameRight="580" frameBottom="640"/>
-          <DOMBitmapItem name="images/house-4.png" itemID="59e79037-000004c6" sourceExternalFilepath="../quests-map-generator/LIBRARY/images/house-4.png" sourceLastImported="1508344650" externalFileSize="11938" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/house-4.png" bitmapDataHRef="M 6 1508345971.dat" frameRight="1900" frameBottom="1180"/>
-          <DOMBitmapItem name="images/house-5.png" itemID="59e79037-000004c7" sourceExternalFilepath="../quests-map-generator/LIBRARY/images/house-5.png" sourceLastImported="1508344652" externalFileSize="7583" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/house-5.png" bitmapDataHRef="M 7 1508345971.dat" frameRight="1280" frameBottom="920"/>
-          <DOMBitmapItem name="images/house-6.png" itemID="59e79037-000004c8" sourceExternalFilepath="../quests-map-generator/LIBRARY/images/house-6.png" sourceLastImported="1508344654" externalFileSize="17068" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/house-6.png" bitmapDataHRef="M 8 1508345971.dat" frameRight="2080" frameBottom="1700"/>
-          <DOMBitmapItem name="images/house-7.png" itemID="59e79037-000004c9" sourceExternalFilepath="../quests-map-generator/LIBRARY/images/house-7.png" sourceLastImported="1508344657" externalFileSize="9368" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/house-7.png" bitmapDataHRef="M 9 1508345971.dat" frameRight="1800" frameBottom="900"/>
-          <DOMBitmapItem name="images/house-8.png" itemID="59e79037-000004ca" sourceExternalFilepath="../quests-map-generator/LIBRARY/images/house-8.png" sourceLastImported="1508344659" externalFileSize="6700" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/house-8.png" bitmapDataHRef="M 10 1508345971.dat" frameRight="900" frameBottom="1100"/>
-          <DOMBitmapItem name="images/house-9.png" itemID="59e79037-000004cb" sourceExternalFilepath="../quests-map-generator/LIBRARY/images/house-9.png" sourceLastImported="1508344661" externalFileSize="9323" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/house-9.png" bitmapDataHRef="M 11 1508345971.dat" frameRight="1700" frameBottom="980"/>
-          <DOMBitmapItem name="images/hut-0.png" itemID="59e79037-000004cc" sourceExternalFilepath="../quests-map-generator/LIBRARY/images/hut-0.png" sourceLastImported="1508344675" externalFileSize="28433" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/hut-0.png" bitmapDataHRef="M 16 1508345971.dat" frameRight="3400" frameBottom="2560"/>
-          <DOMBitmapItem name="images/palace-down.png" itemID="59e88734-00000257" sourceExternalFilepath="../quests-map-generator/LIBRARY/images/palace-down.png" sourceLastImported="1508411156" externalFileSize="59518" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/palace-down.png" bitmapDataHRef="M 17 1508345971.dat" frameRight="4400" frameBottom="3680"/>
-          <DOMBitmapItem name="images/palace-up.png" itemID="59e79037-000004ce" sourceExternalFilepath="../quests-map-generator/LIBRARY/images/palace-up.png" sourceLastImported="1508344638" externalFileSize="103592" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/palace-up.png" bitmapDataHRef="M 18 1508345971.dat" frameRight="8280" frameBottom="3600"/>
+          <DOMBitmapItem name="images/house-0.png" itemID="5a159c46-00000390" sourceExternalFilepath="./LIBRARY/images/house-0.png" sourceLastImported="1511265146" originalCompressionType="lossless" quality="50" href="images/house-0.png" bitmapDataHRef="M 33 1511365407.dat" frameRight="860" frameBottom="780"/>
+          <DOMBitmapItem name="images/house-1.png" itemID="5a159c46-00000391" sourceExternalFilepath="./LIBRARY/images/house-1.png" sourceLastImported="1511265152" originalCompressionType="lossless" quality="50" href="images/house-1.png" bitmapDataHRef="M 34 1511365407.dat" frameRight="1440" frameBottom="1720"/>
+          <DOMBitmapItem name="images/house-10.png" itemID="5a159c46-00000392" sourceExternalFilepath="./LIBRARY/images/house-10.png" sourceLastImported="1511265209" originalCompressionType="lossless" quality="50" href="images/house-10.png" bitmapDataHRef="M 43 1511365408.dat" frameRight="1140" frameBottom="620"/>
+          <DOMBitmapItem name="images/house-11.png" itemID="5a159c46-00000393" sourceExternalFilepath="./LIBRARY/images/house-11.png" sourceLastImported="1511265215" originalCompressionType="lossless" quality="50" href="images/house-11.png" bitmapDataHRef="M 44 1511365408.dat" frameRight="1200" frameBottom="1380"/>
+          <DOMBitmapItem name="images/house-12.png" itemID="5a159c46-00000394" sourceExternalFilepath="./LIBRARY/images/house-12.png" sourceLastImported="1511265221" originalCompressionType="lossless" quality="50" href="images/house-12.png" bitmapDataHRef="M 45 1511365408.dat" frameRight="640" frameBottom="640"/>
+          <DOMBitmapItem name="images/house-13.png" itemID="5a159c46-00000395" sourceExternalFilepath="./LIBRARY/images/house-13.png" sourceLastImported="1511265228" originalCompressionType="lossless" quality="50" href="images/house-13.png" bitmapDataHRef="M 46 1511365408.dat" frameRight="1260" frameBottom="980"/>
+          <DOMBitmapItem name="images/house-2.png" itemID="5a159c46-00000396" sourceExternalFilepath="./LIBRARY/images/house-2.png" sourceLastImported="1511265158" originalCompressionType="lossless" quality="50" href="images/house-2.png" bitmapDataHRef="M 35 1511365407.dat" frameRight="1440" frameBottom="1000"/>
+          <DOMBitmapItem name="images/house-3.png" itemID="5a159c46-00000397" sourceExternalFilepath="./LIBRARY/images/house-3.png" sourceLastImported="1511265164" originalCompressionType="lossless" quality="50" href="images/house-3.png" bitmapDataHRef="M 36 1511365407.dat" frameRight="580" frameBottom="640"/>
+          <DOMBitmapItem name="images/house-4.png" itemID="5a159c46-00000398" sourceExternalFilepath="./LIBRARY/images/house-4.png" sourceLastImported="1511265170" originalCompressionType="lossless" quality="50" href="images/house-4.png" bitmapDataHRef="M 37 1511365408.dat" frameRight="1900" frameBottom="1180"/>
+          <DOMBitmapItem name="images/house-5.png" itemID="5a159c46-00000399" sourceExternalFilepath="./LIBRARY/images/house-5.png" sourceLastImported="1511265176" originalCompressionType="lossless" quality="50" href="images/house-5.png" bitmapDataHRef="M 38 1511365408.dat" frameRight="1280" frameBottom="920"/>
+          <DOMBitmapItem name="images/house-6.png" itemID="5a159c46-0000039a" sourceExternalFilepath="./LIBRARY/images/house-6.png" sourceLastImported="1511265183" originalCompressionType="lossless" quality="50" href="images/house-6.png" bitmapDataHRef="M 39 1511365408.dat" frameRight="2080" frameBottom="1700"/>
+          <DOMBitmapItem name="images/house-7.png" itemID="5a159c46-0000039b" sourceExternalFilepath="./LIBRARY/images/house-7.png" sourceLastImported="1511265190" originalCompressionType="lossless" quality="50" href="images/house-7.png" bitmapDataHRef="M 40 1511365408.dat" frameRight="1800" frameBottom="900"/>
+          <DOMBitmapItem name="images/house-8.png" itemID="5a159c46-0000039c" sourceExternalFilepath="./LIBRARY/images/house-8.png" sourceLastImported="1511265197" originalCompressionType="lossless" quality="50" href="images/house-8.png" bitmapDataHRef="M 41 1511365408.dat" frameRight="900" frameBottom="1100"/>
+          <DOMBitmapItem name="images/house-9.png" itemID="5a159c46-0000039d" sourceExternalFilepath="./LIBRARY/images/house-9.png" sourceLastImported="1511265203" originalCompressionType="lossless" quality="50" href="images/house-9.png" bitmapDataHRef="M 42 1511365408.dat" frameRight="1700" frameBottom="980"/>
+          <DOMBitmapItem name="images/hut-0.png" itemID="5a159c46-0000039e" sourceExternalFilepath="./LIBRARY/images/hut-0.png" sourceLastImported="1511265242" originalCompressionType="lossless" quality="50" href="images/hut-0.png" bitmapDataHRef="M 47 1511365408.dat" frameRight="3400" frameBottom="2560"/>
+          <DOMBitmapItem name="images/palace-down.png" itemID="5a159c46-0000039f" sourceExternalFilepath="./LIBRARY/images/palace-down.png" sourceLastImported="1511265140" originalCompressionType="lossless" quality="50" href="images/palace-down.png" bitmapDataHRef="M 48 1511365408.dat" frameRight="4400" frameBottom="3680"/>
+          <DOMBitmapItem name="images/palace-up.png" itemID="5a159c46-000003a0" sourceExternalFilepath="./LIBRARY/images/palace-up.png" sourceLastImported="1511265133" originalCompressionType="lossless" quality="50" href="images/palace-up.png" bitmapDataHRef="M 49 1511365408.dat" frameRight="8280" frameBottom="3600"/>
           <DOMBitmapItem name="images/quest-pin.png" itemID="59e79dcb-0000053d" sourceExternalFilepath="../quests-map-generator/LIBRARY/quest-pin.png" sourceLastImported="1508351314" externalFileSize="11930" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/quest-pin.png" bitmapDataHRef="M 32 1508351320.dat" frameRight="1800" frameBottom="1320"/>
-          <DOMBitmapItem name="images/rock-0.png" itemID="59e79037-000004cf" sourceExternalFilepath="../quests-map-generator/LIBRARY/images/rock-0.png" sourceLastImported="1508344694" externalFileSize="4554" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/rock-0.png" bitmapDataHRef="M 19 1508345971.dat" frameRight="1060" frameBottom="560"/>
-          <DOMBitmapItem name="images/rock-1.png" itemID="59e79037-000004d0" sourceExternalFilepath="../quests-map-generator/LIBRARY/images/rock-1.png" sourceLastImported="1508344691" externalFileSize="4195" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/rock-1.png" bitmapDataHRef="M 20 1508345971.dat" frameRight="1160" frameBottom="600"/>
-          <DOMBitmapItem name="images/skull.png" itemID="59e79037-000004d1" sourceExternalFilepath="../quests-map-generator/LIBRARY/images/skull.png" sourceLastImported="1508344635" externalFileSize="55748" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/skull.png" bitmapDataHRef="M 21 1508345971.dat" frameRight="3980" frameBottom="3760"/>
-          <DOMBitmapItem name="images/statue-0.png" itemID="59e79037-000004d2" sourceExternalFilepath="../quests-map-generator/LIBRARY/images/statue-0.png" sourceLastImported="1508344630" externalFileSize="22086" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/statue-0.png" bitmapDataHRef="M 22 1508345971.dat" frameRight="2540" frameBottom="1860"/>
-          <DOMBitmapItem name="images/statue-1.png" itemID="59e79037-000004d3" sourceExternalFilepath="../quests-map-generator/LIBRARY/images/statue-1.png" sourceLastImported="1508344632" externalFileSize="7752" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/statue-1.png" bitmapDataHRef="M 23 1508345971.dat" frameRight="1500" frameBottom="920"/>
+          <DOMBitmapItem name="images/rock-0.png" itemID="5a159c46-000003a1" sourceExternalFilepath="./LIBRARY/images/rock-0.png" sourceLastImported="1511265331" originalCompressionType="lossless" quality="50" href="images/rock-0.png" bitmapDataHRef="M 50 1511365408.dat" frameRight="1060" frameBottom="560"/>
+          <DOMBitmapItem name="images/rock-1.png" itemID="5a159c46-000003a2" sourceExternalFilepath="./LIBRARY/images/rock-1.png" sourceLastImported="1511265322" originalCompressionType="lossless" quality="50" href="images/rock-1.png" bitmapDataHRef="M 51 1511365408.dat" frameRight="1160" frameBottom="600"/>
+          <DOMBitmapItem name="images/rock-2.png" itemID="5a159c46-000003a3" sourceExternalFilepath="./LIBRARY/images/rock-2.png" sourceLastImported="1511265312" externalFileSize="31472" originalCompressionType="lossless" quality="50" href="images/rock-2.png" bitmapDataHRef="M 52 1511365408.dat" frameRight="3940" frameBottom="2020"/>
+          <DOMBitmapItem name="images/rock-3.png" itemID="5a159c46-000003a4" sourceExternalFilepath="./LIBRARY/images/rock-3.png" sourceLastImported="1511265300" externalFileSize="8464" originalCompressionType="lossless" quality="50" href="images/rock-3.png" bitmapDataHRef="M 53 1511365408.dat" frameRight="1340" frameBottom="1080"/>
+          <DOMBitmapItem name="images/rock-4.png" itemID="5a159c46-000003a5" sourceExternalFilepath="./LIBRARY/images/rock-4.png" sourceLastImported="1511265291" externalFileSize="7042" originalCompressionType="lossless" quality="50" href="images/rock-4.png" bitmapDataHRef="M 54 1511365408.dat" frameRight="880" frameBottom="1240"/>
+          <DOMBitmapItem name="images/rock-5.png" itemID="5a159c46-000003a6" sourceExternalFilepath="./LIBRARY/images/rock-5.png" sourceLastImported="1511265282" externalFileSize="7393" originalCompressionType="lossless" quality="50" href="images/rock-5.png" bitmapDataHRef="M 55 1511365408.dat" frameRight="1180" frameBottom="980"/>
+          <DOMBitmapItem name="images/rock-6.png" itemID="5a159c46-000003a7" sourceExternalFilepath="./LIBRARY/images/rock-6.png" sourceLastImported="1511265274" externalFileSize="7755" originalCompressionType="lossless" quality="50" href="images/rock-6.png" bitmapDataHRef="M 56 1511365408.dat" frameRight="1060" frameBottom="1140"/>
+          <DOMBitmapItem name="images/rock-7.png" itemID="5a159c46-000003a8" sourceExternalFilepath="./LIBRARY/images/rock-7.png" sourceLastImported="1511265266" externalFileSize="9071" originalCompressionType="lossless" quality="50" href="images/rock-7.png" bitmapDataHRef="M 57 1511365408.dat" frameRight="1180" frameBottom="1400"/>
+          <DOMBitmapItem name="images/rock-8.png" itemID="5a159c46-000003a9" sourceExternalFilepath="./LIBRARY/images/rock-8.png" sourceLastImported="1511265257" externalFileSize="8329" originalCompressionType="lossless" quality="50" href="images/rock-8.png" bitmapDataHRef="M 58 1511365408.dat" frameRight="1340" frameBottom="1000"/>
+          <DOMBitmapItem name="images/skull.png" itemID="5a159c46-000003aa" sourceExternalFilepath="./LIBRARY/images/skull.png" sourceLastImported="1511265127" originalCompressionType="lossless" quality="50" href="images/skull.png" bitmapDataHRef="M 59 1511365408.dat" frameRight="3980" frameBottom="3760"/>
+          <DOMBitmapItem name="images/statue-0.png" itemID="5a159c46-000003ab" sourceExternalFilepath="./LIBRARY/images/statue-0.png" sourceLastImported="1511265121" originalCompressionType="lossless" quality="50" href="images/statue-0.png" bitmapDataHRef="M 60 1511365408.dat" frameRight="2540" frameBottom="1860"/>
+          <DOMBitmapItem name="images/statue-1.png" itemID="5a159c46-000003ac" sourceExternalFilepath="./LIBRARY/images/statue-1.png" sourceLastImported="1511265115" originalCompressionType="lossless" quality="50" href="images/statue-1.png" bitmapDataHRef="M 61 1511365408.dat" frameRight="1500" frameBottom="920"/>
+          <DOMBitmapItem name="images/statue-2.png" itemID="5a159c46-000003ad" sourceExternalFilepath="./LIBRARY/images/statue-2.png" sourceLastImported="1511265109" externalFileSize="19913" originalCompressionType="lossless" quality="50" href="images/statue-2.png" bitmapDataHRef="M 62 1511365408.dat" frameRight="1840" frameBottom="2040"/>
+          <DOMBitmapItem name="images/status-3.png" itemID="5a159c46-000003ae" sourceExternalFilepath="./LIBRARY/images/status-3.png" sourceLastImported="1511265103" externalFileSize="44766" originalCompressionType="lossless" quality="50" href="images/status-3.png" bitmapDataHRef="M 63 1511365408.dat" frameRight="3360" frameBottom="2860"/>
+          <DOMBitmapItem name="images/tent.png" itemID="5a159c46-000003af" sourceExternalFilepath="./LIBRARY/images/tent.png" sourceLastImported="1511265341" externalFileSize="10900" originalCompressionType="lossless" quality="50" href="images/tent.png" bitmapDataHRef="M 64 1511365408.dat" frameRight="1340" frameBottom="1440"/>
           <DOMBitmapItem name="images/way-0.png" itemID="59e87e7f-0000020a" sourceExternalFilepath="../quests-map-generator/LIBRARY/images/way-0.png" sourceLastImported="1508408901" externalFileSize="5108" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/way-0.png" bitmapDataHRef="M 24 1508345971.dat" frameRight="3020" frameBottom="3020"/>
           <DOMBitmapItem name="images/way-1.png" itemID="59e87e7f-0000020b" sourceExternalFilepath="../quests-map-generator/LIBRARY/images/way-1.png" sourceLastImported="1508408902" externalFileSize="6461" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/way-1.png" bitmapDataHRef="M 25 1508345971.dat" frameRight="3820" frameBottom="3460"/>
           <DOMBitmapItem name="images/way-2.png" itemID="59e87e7f-0000020c" sourceExternalFilepath="../quests-map-generator/LIBRARY/images/way-2.png" sourceLastImported="1508408902" externalFileSize="4722" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/way-2.png" bitmapDataHRef="M 26 1508345971.dat" frameRight="1960" frameBottom="2700"/>
           <DOMBitmapItem name="images/way-3.png" itemID="59e87e7f-0000020d" sourceExternalFilepath="../quests-map-generator/LIBRARY/images/way-3.png" sourceLastImported="1508408903" externalFileSize="6011" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/way-3.png" bitmapDataHRef="M 28 1508347175.dat" frameRight="4400" frameBottom="5220"/>
           <DOMBitmapItem name="images/way-4.png" itemID="59e8803d-00000223" sourceExternalFilepath="../quests-map-generator/LIBRARY/images/way-4.png" sourceLastImported="1508409210" externalFileSize="5351" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/way-4.png" bitmapDataHRef="M 33 1508355519.dat" frameRight="5620" frameBottom="500"/>
-          <DOMBitmapItem name="images/well-0.png" itemID="59e79037-000004d7" sourceExternalFilepath="../quests-map-generator/LIBRARY/images/well-0.png" sourceLastImported="1508344678" externalFileSize="3555" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/well-0.png" bitmapDataHRef="M 27 1508345971.dat" frameRight="720" frameBottom="480"/>
+          <DOMBitmapItem name="images/well-0.png" itemID="5a159c46-000003b0" sourceExternalFilepath="./LIBRARY/images/well-0.png" sourceLastImported="1511265249" originalCompressionType="lossless" quality="50" href="images/well-0.png" bitmapDataHRef="M 65 1511365408.dat" frameRight="720" frameBottom="480"/>
      </media>
      <symbols>
           <Include href="arrow_btn.xml" loadImmediate="false" itemID="5937b4f1-000001f7" lastModified="1496826979"/>
@@ -273,7 +283,7 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="quests" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+                    <DOMLayer name="quests" color="#FF800A" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
@@ -361,7 +371,7 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="images" color="#4FFF4F" autoNamed="false">
+                    <DOMLayer name="images" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
@@ -447,11 +457,6 @@
                                                   <Matrix tx="460.65" ty="284.55"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/palace-down.png">
-                                             <matrix>
-                                                  <Matrix tx="-0.95" ty="412.55"/>
-                                             </matrix>
-                                        </DOMBitmapInstance>
                                         <DOMBitmapInstance libraryItemName="images/rock-0.png">
                                              <matrix>
                                                   <Matrix tx="620.5" ty="241.45"/>
@@ -472,6 +477,11 @@
                                                   <Matrix tx="325" ty="307.65"/>
                                              </matrix>
                                         </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="images/status-3.png">
+                                             <matrix>
+                                                  <Matrix tx="7.85" ty="412.55"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
                                    </elements>
                               </DOMFrame>
                          </frames>
@@ -480,7 +490,7 @@
           </DOMTimeline>
           <DOMTimeline name="shire_1" guides='&lt;guidelines&gt;&lt;guideline direction="v"&gt;194&lt;/guideline&gt;&lt;guideline direction="v"&gt;556&lt;/guideline&gt;&lt;/guidelines&gt;'>
                <layers>
-                    <DOMLayer name="controls" color="#9933CC" locked="true" autoNamed="false" visible="false">
+                    <DOMLayer name="controls" color="#9933CC" locked="true" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <Actionscript>
@@ -604,7 +614,7 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="quests" color="#FF800A" locked="true" autoNamed="false" visible="false">
+                    <DOMLayer name="quests" color="#FF800A" locked="true" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
@@ -810,14 +820,6 @@
                                                   <Matrix tx="651.85" ty="309.45"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/skull.png">
-                                             <matrix>
-                                                  <Matrix a="0.8377685546875" d="0.8377685546875" tx="221.55" ty="140.25"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point x="99.45" y="93.95"/>
-                                             </transformationPoint>
-                                        </DOMBitmapInstance>
                                         <DOMBitmapInstance libraryItemName="images/house-5.png">
                                              <matrix>
                                                   <Matrix tx="296.75" ty="329.45"/>
@@ -836,6 +838,11 @@
                                         <DOMBitmapInstance libraryItemName="images/house-4.png">
                                              <matrix>
                                                   <Matrix tx="424.4" ty="278.65"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance selected="true" libraryItemName="images/statue-2.png">
+                                             <matrix>
+                                                  <Matrix tx="257.05" ty="149.5"/>
                                              </matrix>
                                         </DOMBitmapInstance>
                                    </elements>
@@ -970,377 +977,11 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="quests" color="#FF800A" autoNamed="false">
-                         <frames>
-                              <DOMFrame index="0" keyMode="9728">
-                                   <elements>
-                                        <DOMSymbolInstance libraryItemName="Quest_mc" name="quest_20" centerPoint3DX="520.9" centerPoint3DY="507.6">
-                                             <matrix>
-                                                  <Matrix tx="520.9" ty="507.6"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Quest_mc" name="quest_21" centerPoint3DX="557.7" centerPoint3DY="366.35">
-                                             <matrix>
-                                                  <Matrix tx="557.7" ty="366.35"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Quest_mc" name="quest_22" centerPoint3DX="274.6" centerPoint3DY="408.9">
-                                             <matrix>
-                                                  <Matrix tx="274.6" ty="408.9"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Quest_mc" name="quest_23" centerPoint3DX="335" centerPoint3DY="509.95">
-                                             <matrix>
-                                                  <Matrix tx="335" ty="509.95"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Quest_mc" name="quest_24" centerPoint3DX="93.4" centerPoint3DY="336.2">
-                                             <matrix>
-                                                  <Matrix tx="93.4" ty="336.2"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Quest_mc" name="quest_25" centerPoint3DX="173.75" centerPoint3DY="244.4">
-                                             <matrix>
-                                                  <Matrix tx="173.75" ty="244.4"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Quest_mc" name="quest_26" centerPoint3DX="173.75" centerPoint3DY="69.35">
-                                             <matrix>
-                                                  <Matrix tx="173.75" ty="69.35"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Quest_mc" name="quest_27" centerPoint3DX="349.5" centerPoint3DY="103.45">
-                                             <matrix>
-                                                  <Matrix tx="349.5" ty="103.45"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Quest_mc" name="quest_28" centerPoint3DX="462.15" centerPoint3DY="149.05">
-                                             <matrix>
-                                                  <Matrix tx="462.15" ty="149.05"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Quest_mc" name="quest_29" centerPoint3DX="642.1" centerPoint3DY="137.9">
-                                             <matrix>
-                                                  <Matrix tx="642.1" ty="137.9"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                   </elements>
-                              </DOMFrame>
-                         </frames>
-                    </DOMLayer>
-                    <DOMLayer name="images" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
-                         <frames>
-                              <DOMFrame index="0" keyMode="9728">
-                                   <elements>
-                                        <DOMBitmapInstance libraryItemName="images/way-4.png">
-                                             <matrix>
-                                                  <Matrix a="1.087646484375" b="0.41180419921875" c="-0.238906860351563" d="0.6309814453125" tx="260.15" ty="62.75"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point x="140.5" y="12.45"/>
-                                             </transformationPoint>
-                                        </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/way-4.png">
-                                             <matrix>
-                                                  <Matrix a="0.398971557617188" b="-0.109024047851563" c="0.14373779296875" d="0.525985717773438" tx="364.85" ty="327.55"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point x="140.45" y="12.6"/>
-                                             </transformationPoint>
-                                        </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/way-1.png">
-                                             <matrix>
-                                                  <Matrix a="-0.92425537109375" b="0.381759643554688" c="-0.381759643554688" d="-0.92425537109375" tx="441.3" ty="481.1"/>
-                                             </matrix>
-                                        </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/way-3.png">
-                                             <matrix>
-                                                  <Matrix a="-0.471237182617188" b="-0.685958862304688" c="0.685958862304688" d="-0.471237182617188" tx="112.6" ty="444.5"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point x="110.25" y="130.45"/>
-                                             </transformationPoint>
-                                        </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/way-3.png">
-                                             <matrix>
-                                                  <Matrix a="0.6976318359375" b="0.393783569335938" c="-0.393783569335938" d="0.6976318359375" tx="495.95" ty="293.55"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point x="110.05" y="130.6"/>
-                                             </transformationPoint>
-                                        </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/way-2.png">
-                                             <matrix>
-                                                  <Matrix a="-0.850509643554688" b="-0.689132690429688" c="0.689132690429688" d="-0.850509643554688" tx="188.15" ty="199.4"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point x="45.9" y="66.6"/>
-                                             </transformationPoint>
-                                        </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/way-2.png">
-                                             <matrix>
-                                                  <Matrix a="0.86602783203125" b="0.499984741210938" c="-0.499984741210938" d="0.86602783203125" tx="595.8" ty="56.95"/>
-                                             </matrix>
-                                        </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/way-4.png">
-                                             <matrix>
-                                                  <Matrix a="0.325958251953125" b="0.2723388671875" c="-0.4591064453125" d="0.5494384765625" tx="134.25" ty="442.5"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point x="140.5" y="12.55"/>
-                                             </transformationPoint>
-                                        </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/house-1.png">
-                                             <matrix>
-                                                  <Matrix tx="520" ty="136.85"/>
-                                             </matrix>
-                                        </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/house-6.png">
-                                             <matrix>
-                                                  <Matrix tx="525.25" ty="-15.5"/>
-                                             </matrix>
-                                        </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/house-13.png">
-                                             <matrix>
-                                                  <Matrix a="-1" tx="756" ty="-6.15"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point x="31.5" y="24.5"/>
-                                             </transformationPoint>
-                                        </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/statue-1.png">
-                                             <matrix>
-                                                  <Matrix a="1.20867919921875" d="1.20867919921875" tx="608.05" ty="430.45"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point x="37.5" y="23"/>
-                                             </transformationPoint>
-                                        </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/house-2.png">
-                                             <matrix>
-                                                  <Matrix tx="205.8" ty="47.8"/>
-                                             </matrix>
-                                        </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/house-3.png">
-                                             <matrix>
-                                                  <Matrix tx="277.8" ty="56.95"/>
-                                             </matrix>
-                                        </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/house-7.png">
-                                             <matrix>
-                                                  <Matrix tx="192.8" ty="507.55"/>
-                                             </matrix>
-                                        </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/house-8.png">
-                                             <matrix>
-                                                  <Matrix tx="160.8" ty="159.45"/>
-                                             </matrix>
-                                        </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/house-11.png">
-                                             <matrix>
-                                                  <Matrix tx="327.25" ty="298.45"/>
-                                             </matrix>
-                                        </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/rock-1.png">
-                                             <matrix>
-                                                  <Matrix tx="651.85" ty="309.45"/>
-                                             </matrix>
-                                        </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/skull.png">
-                                             <matrix>
-                                                  <Matrix a="0.8377685546875" d="0.8377685546875" tx="221.55" ty="140.25"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point x="99.45" y="93.95"/>
-                                             </transformationPoint>
-                                        </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/house-5.png">
-                                             <matrix>
-                                                  <Matrix tx="296.75" ty="329.45"/>
-                                             </matrix>
-                                        </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/house-11.png">
-                                             <matrix>
-                                                  <Matrix tx="117.1" ty="424.95"/>
-                                             </matrix>
-                                        </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/house-10.png">
-                                             <matrix>
-                                                  <Matrix tx="87.35" ty="415.8"/>
-                                             </matrix>
-                                        </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/house-4.png">
-                                             <matrix>
-                                                  <Matrix tx="424.4" ty="278.65"/>
-                                             </matrix>
-                                        </DOMBitmapInstance>
-                                   </elements>
-                              </DOMFrame>
-                         </frames>
-                    </DOMLayer>
-               </layers>
-          </DOMTimeline>
-          <DOMTimeline name="shire_3">
-               <layers>
-                    <DOMLayer name="controls" color="#9933CC" locked="true" autoNamed="false" visible="false">
-                         <frames>
-                              <DOMFrame index="0" keyMode="9728">
-                                   <Actionscript>
-                                        <script><![CDATA[stop();]]></script>
-                                   </Actionscript>
-                                   <elements>
-                                        <DOMDynamicText name="scene_txt" fontRenderingMode="device" width="201.7" height="59.05" isSelectable="false" border="true">
-                                             <matrix>
-                                                  <Matrix tx="58.35" ty="494.55"/>
-                                             </matrix>
-                                             <textRuns>
-                                                  <DOMTextRun>
-                                                       <characters>Shire</characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs aliasText="false" size="48" bitmapSize="960" face="Arial-BoldMT" fillColor="#333333"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                             </textRuns>
-                                        </DOMDynamicText>
-                                        <DOMSymbolInstance libraryItemName="simple_btn" name="save_btn" centerPoint3DX="683.8" centerPoint3DY="520.25">
-                                             <matrix>
-                                                  <Matrix tx="683.8" ty="520.25"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point/>
-                                             </transformationPoint>
-                                             <filters>
-                                                  <DropShadowFilter angle="46.0000011383648"/>
-                                             </filters>
-                                        </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="arrow_btn" name="next_btn" centerPoint3DX="288" centerPoint3DY="523.15">
-                                             <matrix>
-                                                  <Matrix tx="288" ty="523.15"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point/>
-                                             </transformationPoint>
-                                             <filters>
-                                                  <DropShadowFilter angle="46.0000011383648"/>
-                                             </filters>
-                                        </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="arrow_btn" name="prev_btn" centerPoint3DX="30.45" centerPoint3DY="523.15">
-                                             <matrix>
-                                                  <Matrix a="-1" tx="30.45" ty="523.15"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point/>
-                                             </transformationPoint>
-                                             <filters>
-                                                  <DropShadowFilter angle="46.0000011383648"/>
-                                             </filters>
-                                        </DOMSymbolInstance>
-                                        <DOMComponentInstance libraryItemName="CheckBox" name="intro_check" centerPoint3DX="413.5" centerPoint3DY="523.5" uniqueID="4">
-                                             <matrix>
-                                                  <Matrix a="1.26345825195313" d="1.92599487304688" tx="350.35" ty="502.3"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point x="50" y="11"/>
-                                             </transformationPoint>
-                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='shire_2' oldCopiedComponentPath=''>
-</component>
-]]></dataBindingXML>
-                                             <parametersAsXML><![CDATA[   <property id="enabled">
-      <Inspectable name="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
-   </property>
-   <property id="label">
-      <Inspectable name="label" variable="label" category="" verbose="0" defaultValue="Has Intro" type="String"/>
-   </property>
-   <property id="labelPlacement">
-      <Inspectable name="labelPlacement" variable="labelPlacement" category="" verbose="0" defaultValue="right" enumeration="left,right,top,bottom" type="List"/>
-   </property>
-   <property id="selected">
-      <Inspectable name="selected" variable="selected" category="" verbose="0" defaultValue="false" type="Boolean"/>
-   </property>
-   <property id="visible">
-      <Inspectable name="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
-   </property>
-]]></parametersAsXML>
-                                        </DOMComponentInstance>
-                                        <DOMComponentInstance libraryItemName="CheckBox" name="final_check" centerPoint3DX="530.5" centerPoint3DY="523.5" uniqueID="5">
-                                             <matrix>
-                                                  <Matrix a="1.109375" d="1.92599487304688" tx="475.05" ty="502.3"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point x="50" y="11"/>
-                                             </transformationPoint>
-                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='shire_2' oldCopiedComponentPath=''>
-</component>
-]]></dataBindingXML>
-                                             <parametersAsXML><![CDATA[   <property id="enabled">
-      <Inspectable name="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
-   </property>
-   <property id="label">
-      <Inspectable name="label" variable="label" category="" verbose="0" defaultValue="Has Final" type="String"/>
-   </property>
-   <property id="labelPlacement">
-      <Inspectable name="labelPlacement" variable="labelPlacement" category="" verbose="0" defaultValue="right" enumeration="left,right,top,bottom" type="List"/>
-   </property>
-   <property id="selected">
-      <Inspectable name="selected" variable="selected" category="" verbose="0" defaultValue="false" type="Boolean"/>
-   </property>
-   <property id="visible">
-      <Inspectable name="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
-   </property>
-]]></parametersAsXML>
-                                        </DOMComponentInstance>
-                                        <DOMInputText name="scene_txt" fontRenderingMode="device" width="191.35" height="55.85">
-                                             <matrix>
-                                                  <Matrix tx="63.55" ty="495.35"/>
-                                             </matrix>
-                                             <textRuns>
-                                                  <DOMTextRun>
-                                                       <characters>0</characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="right" aliasText="false" size="50" bitmapSize="1000" face="Arial-BoldMT" fillColor="#000033"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                             </textRuns>
-                                        </DOMInputText>
-                                   </elements>
-                              </DOMFrame>
-                         </frames>
-                    </DOMLayer>
                     <DOMLayer name="quests" color="#FF800A" current="true" isSelected="true" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="Quest_mc" name="quest_30" centerPoint3DX="504.2" centerPoint3DY="467.8">
+                                        <DOMSymbolInstance libraryItemName="Quest_mc" name="quest_20" centerPoint3DX="504.2" centerPoint3DY="467.8">
                                              <matrix>
                                                   <Matrix tx="504.2" ty="467.8"/>
                                              </matrix>
@@ -1348,7 +989,7 @@
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Quest_mc" name="quest_31" centerPoint3DX="680.75" centerPoint3DY="393.35">
+                                        <DOMSymbolInstance libraryItemName="Quest_mc" name="quest_21" centerPoint3DX="680.75" centerPoint3DY="393.35">
                                              <matrix>
                                                   <Matrix tx="680.75" ty="393.35"/>
                                              </matrix>
@@ -1356,7 +997,7 @@
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Quest_mc" name="quest_32" centerPoint3DX="605.1" centerPoint3DY="204.7">
+                                        <DOMSymbolInstance libraryItemName="Quest_mc" name="quest_22" centerPoint3DX="605.1" centerPoint3DY="204.7">
                                              <matrix>
                                                   <Matrix tx="605.1" ty="204.7"/>
                                              </matrix>
@@ -1364,7 +1005,7 @@
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Quest_mc" name="quest_33" centerPoint3DX="399" centerPoint3DY="138.5">
+                                        <DOMSymbolInstance libraryItemName="Quest_mc" name="quest_23" centerPoint3DX="399" centerPoint3DY="138.5">
                                              <matrix>
                                                   <Matrix tx="399" ty="138.5"/>
                                              </matrix>
@@ -1372,7 +1013,7 @@
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Quest_mc" name="quest_34" centerPoint3DX="291.9" centerPoint3DY="197.3">
+                                        <DOMSymbolInstance libraryItemName="Quest_mc" name="quest_24" centerPoint3DX="291.9" centerPoint3DY="197.3">
                                              <matrix>
                                                   <Matrix tx="291.9" ty="197.3"/>
                                              </matrix>
@@ -1380,7 +1021,7 @@
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Quest_mc" name="quest_35" centerPoint3DX="383.25" centerPoint3DY="260.9">
+                                        <DOMSymbolInstance libraryItemName="Quest_mc" name="quest_25" centerPoint3DX="383.25" centerPoint3DY="260.9">
                                              <matrix>
                                                   <Matrix tx="383.25" ty="260.9"/>
                                              </matrix>
@@ -1388,7 +1029,7 @@
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Quest_mc" name="quest_36" centerPoint3DX="405.35" centerPoint3DY="365.15">
+                                        <DOMSymbolInstance libraryItemName="Quest_mc" name="quest_26" centerPoint3DX="405.35" centerPoint3DY="365.15">
                                              <matrix>
                                                   <Matrix tx="405.35" ty="365.15"/>
                                              </matrix>
@@ -1396,7 +1037,7 @@
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Quest_mc" name="quest_37" centerPoint3DX="214.55" centerPoint3DY="454.7">
+                                        <DOMSymbolInstance libraryItemName="Quest_mc" name="quest_27" centerPoint3DX="214.55" centerPoint3DY="454.7">
                                              <matrix>
                                                   <Matrix tx="214.55" ty="454.7"/>
                                              </matrix>
@@ -1404,7 +1045,7 @@
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Quest_mc" name="quest_38" centerPoint3DX="77.5" centerPoint3DY="296.3">
+                                        <DOMSymbolInstance libraryItemName="Quest_mc" name="quest_28" centerPoint3DX="77.5" centerPoint3DY="296.3">
                                              <matrix>
                                                   <Matrix tx="77.5" ty="296.3"/>
                                              </matrix>
@@ -1412,7 +1053,7 @@
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Quest_mc" name="quest_39" centerPoint3DX="147.3" centerPoint3DY="181.6">
+                                        <DOMSymbolInstance libraryItemName="Quest_mc" name="quest_29" selected="true" centerPoint3DX="147.3" centerPoint3DY="181.6">
                                              <matrix>
                                                   <Matrix tx="147.3" ty="181.6"/>
                                              </matrix>
@@ -1483,29 +1124,14 @@
                                                   <Matrix tx="440" ty="107.55"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/house-7.png">
-                                             <matrix>
-                                                  <Matrix tx="282.9" ty="-9"/>
-                                             </matrix>
-                                        </DOMBitmapInstance>
                                         <DOMBitmapInstance libraryItemName="images/house-8.png">
                                              <matrix>
                                                   <Matrix tx="299.05" ty="370.05"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/rock-1.png">
-                                             <matrix>
-                                                  <Matrix tx="133.3" ty="352.25"/>
-                                             </matrix>
-                                        </DOMBitmapInstance>
                                         <DOMBitmapInstance libraryItemName="images/well-0.png">
                                              <matrix>
                                                   <Matrix tx="654.8" ty="267.55"/>
-                                             </matrix>
-                                        </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/house-0.png">
-                                             <matrix>
-                                                  <Matrix tx="372.9" ty="6.9"/>
                                              </matrix>
                                         </DOMBitmapInstance>
                                         <DOMBitmapInstance libraryItemName="images/house-5.png">
@@ -1523,11 +1149,6 @@
                                                   <Matrix a="0.845184326171875" d="0.845184326171875" tx="19.3" ty="404.35"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/rock-0.png">
-                                             <matrix>
-                                                  <Matrix tx="525.25" ty="303.5"/>
-                                             </matrix>
-                                        </DOMBitmapInstance>
                                         <DOMBitmapInstance libraryItemName="images/statue-0.png">
                                              <matrix>
                                                   <Matrix a="1.18064880371094" d="1.18064880371094" tx="571.7" ty="28.75"/>
@@ -1536,18 +1157,40 @@
                                                   <Point x="63.5" y="46.5"/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/palace-up.png">
+                                        <DOMBitmapInstance libraryItemName="images/status-3.png">
                                              <matrix>
-                                                  <Matrix tx="-1.6" ty="-46.4"/>
+                                                  <Matrix tx="8.65" ty="-9"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/cols.png">
+                                        <DOMBitmapInstance libraryItemName="images/tent.png">
                                              <matrix>
-                                                  <Matrix a="0.634552001953125" d="0.634552001953125" tx="81.85" ty="52.2"/>
+                                                  <Matrix tx="528.4" ty="263.6"/>
                                              </matrix>
-                                             <transformationPoint>
-                                                  <Point x="65" y="55"/>
-                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="images/rock-8.png">
+                                             <matrix>
+                                                  <Matrix tx="156.35" ty="319.25"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="images/rock-5.png">
+                                             <matrix>
+                                                  <Matrix tx="637.5" ty="446.25"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="images/rock-7.png">
+                                             <matrix>
+                                                  <Matrix tx="592.35" ty="430.3"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="images/rock-2.png">
+                                             <matrix>
+                                                  <Matrix tx="250.75" ty="-4.15"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="images/rock-6.png">
+                                             <matrix>
+                                                  <Matrix tx="223.35" ty="59.95"/>
+                                             </matrix>
                                         </DOMBitmapInstance>
                                    </elements>
                               </DOMFrame>
