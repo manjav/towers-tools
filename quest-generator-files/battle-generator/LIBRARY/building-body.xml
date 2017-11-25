@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="building-body" itemID="59384391-00000463" lastModified="1511284320">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="building-body" itemID="59384391-00000463" lastModified="1511597497">
   <timeline>
-    <DOMTimeline name="building-body" currentFrame="441">
+    <DOMTimeline name="building-body" currentFrame="141">
       <layers>
         <DOMLayer name="Layer 2" color="#9933CC">
           <frames>
@@ -19,20 +19,38 @@
             </DOMFrame>
             <DOMFrame index="1" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-1-0.png">
-                  <matrix>
-                    <Matrix tx="-125.55" ty="-149"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-1-0.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2511 -1396|2609 -1396!2609 -1396|2609 2140!2609 2140|-2511 2140!-2511 2140|-2511 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-1-1.png">
-                  <matrix>
-                    <Matrix tx="-125.55" ty="-149"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-1-1.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2511 -1396|2609 -1396!2609 -1396|2609 2140!2609 2140|-2511 2140!-2511 2140|-2511 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="3" duration="7" keyMode="9728">
@@ -43,20 +61,38 @@
             </DOMFrame>
             <DOMFrame index="11" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-1-0.png">
-                  <matrix>
-                    <Matrix tx="-125.55" ty="-149"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-1-0.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2511 -1396|2609 -1396!2609 -1396|2609 2140!2609 2140|-2511 2140!-2511 2140|-2511 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="12" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-1-1.png">
-                  <matrix>
-                    <Matrix tx="-125.55" ty="-149"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-1-1.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2511 -1396|2609 -1396!2609 -1396|2609 2140!2609 2140|-2511 2140!-2511 2140|-2511 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="13" duration="7" keyMode="9728">
@@ -67,20 +103,38 @@
             </DOMFrame>
             <DOMFrame index="21" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-1-0.png">
-                  <matrix>
-                    <Matrix tx="-125.55" ty="-149"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-1-0.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2511 -1396|2609 -1396!2609 -1396|2609 2140!2609 2140|-2511 2140!-2511 2140|-2511 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="22" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-1-1.png">
-                  <matrix>
-                    <Matrix tx="-125.55" ty="-149"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-1-1.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2511 -1396|2609 -1396!2609 -1396|2609 2140!2609 2140|-2511 2140!-2511 2140|-2511 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="23" duration="7" keyMode="9728">
@@ -91,20 +145,38 @@
             </DOMFrame>
             <DOMFrame index="31" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-1-0.png">
-                  <matrix>
-                    <Matrix tx="-125.55" ty="-149"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-1-0.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2511 -1396|2609 -1396!2609 -1396|2609 2140!2609 2140|-2511 2140!-2511 2140|-2511 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="32" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-1-1.png">
-                  <matrix>
-                    <Matrix tx="-125.55" ty="-149"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-1-1.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2511 -1396|2609 -1396!2609 -1396|2609 2140!2609 2140|-2511 2140!-2511 2140|-2511 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="33" duration="7" keyMode="9728">
@@ -115,20 +187,38 @@
             </DOMFrame>
             <DOMFrame index="41" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-1-0.png">
-                  <matrix>
-                    <Matrix tx="-125.55" ty="-149"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-1-0.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2511 -1396|2609 -1396!2609 -1396|2609 2140!2609 2140|-2511 2140!-2511 2140|-2511 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="42" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-1-1.png">
-                  <matrix>
-                    <Matrix tx="-125.55" ty="-149"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-1-1.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2511 -1396|2609 -1396!2609 -1396|2609 2140!2609 2140|-2511 2140!-2511 2140|-2511 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="43" duration="68" keyMode="9728">
@@ -136,20 +226,38 @@
             </DOMFrame>
             <DOMFrame index="111" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-11-0.png">
-                  <matrix>
-                    <Matrix tx="-127.15" ty="-151.5"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-11-0.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-127.15" ty="-151.5"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2543 -1396|2577 -1396!2577 -1396|2577 2090!2577 2090|-2543 2090!-2543 2090|-2543 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="112" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-11-1.png">
-                  <matrix>
-                    <Matrix tx="-127.15" ty="-151.5"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-11-1.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-127.15" ty="-151.5"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2543 -1396|2577 -1396!2577 -1396|2577 2090!2577 2090|-2543 2090!-2543 2090|-2543 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="113" duration="8" keyMode="9728">
@@ -157,20 +265,38 @@
             </DOMFrame>
             <DOMFrame index="121" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-12-0.png">
-                  <matrix>
-                    <Matrix tx="-127.15" ty="-150"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-12-0.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-127.15" ty="-150"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2543 -1396|2577 -1396!2577 -1396|2577 2120!2577 2120|-2543 2120!-2543 2120|-2543 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="122" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-12-1.png">
-                  <matrix>
-                    <Matrix tx="-127.15" ty="-149.45"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-12-1.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-127.15" ty="-149.45"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2543 -1396|2577 -1396!2577 -1396|2577 2131!2577 2131|-2543 2131!-2543 2131|-2543 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="123" duration="8" keyMode="9728">
@@ -178,20 +304,38 @@
             </DOMFrame>
             <DOMFrame index="131" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="images/buildings/building-13-0.png">
-                  <matrix>
-                    <Matrix tx="-127.65" ty="-149"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-13-0.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-127.65" ty="-149"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2553 -1396|2567 -1396!2567 -1396|2567 2140!2567 2140|-2553 2140!-2553 2140|-2553 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="132" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-13-1.png">
-                  <matrix>
-                    <Matrix tx="-127.65" ty="-149"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-13-1.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-127.65" ty="-149"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2553 -1396|2567 -1396!2567 -1396|2567 2140!2567 2140|-2553 2140!-2553 2140|-2553 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="133" duration="8" keyMode="9728">
@@ -199,20 +343,38 @@
             </DOMFrame>
             <DOMFrame index="141" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="images/buildings/building-14-0.png">
-                  <matrix>
-                    <Matrix tx="-125.1" ty="-138.85"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-14-0.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-125.1" ty="-138.85"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2502 -1396|2618 -1396!2618 -1396|2618 2343!2618 2343|-2502 2343!-2502 2343|-2502 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="142" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-14-1.png">
-                  <matrix>
-                    <Matrix tx="-125.1" ty="-139.1"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-14-1.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-125.1" ty="-139.1"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2502 -1396|2618 -1396!2618 -1396|2618 2338!2618 2338|-2502 2338!-2502 2338|-2502 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="143" duration="68" keyMode="9728">
@@ -220,20 +382,38 @@
             </DOMFrame>
             <DOMFrame index="211" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-21-0.png">
-                  <matrix>
-                    <Matrix tx="-128.15" ty="-147.35"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-21-0.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-128.15" ty="-147.35"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2563 -1396|2557 -1396!2557 -1396|2557 2173!2557 2173|-2563 2173!-2563 2173|-2563 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="212" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-21-1.png">
-                  <matrix>
-                    <Matrix tx="-128.15" ty="-147.35"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-21-1.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-128.15" ty="-147.35"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2563 -1396|2557 -1396!2557 -1396|2557 2173!2557 2173|-2563 2173!-2563 2173|-2563 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="213" duration="8" keyMode="9728">
@@ -241,20 +421,38 @@
             </DOMFrame>
             <DOMFrame index="221" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-22-0.png">
-                  <matrix>
-                    <Matrix tx="-127.65" ty="-139.05"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-22-0.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-127.65" ty="-139.05"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2553 -1396|2567 -1396!2567 -1396|2567 2339!2567 2339|-2553 2339!-2553 2339|-2553 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="222" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-22-1.png">
-                  <matrix>
-                    <Matrix tx="-127.65" ty="-139.05"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-22-1.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-127.65" ty="-139.05"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2553 -1396|2567 -1396!2567 -1396|2567 2339!2567 2339|-2553 2339!-2553 2339|-2553 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="223" duration="8" keyMode="9728">
@@ -262,20 +460,38 @@
             </DOMFrame>
             <DOMFrame index="231" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="images/buildings/building-23-0.png">
-                  <matrix>
-                    <Matrix tx="-127.1" ty="-138.55"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-23-0.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-127.1" ty="-138.55"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2542 -1396|2578 -1396!2578 -1396|2578 2349!2578 2349|-2542 2349!-2542 2349|-2542 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="232" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-23-1.png">
-                  <matrix>
-                    <Matrix tx="-127.1" ty="-138.55"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-23-1.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-127.1" ty="-138.55"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2542 -1396|2578 -1396!2578 -1396|2578 2349!2578 2349|-2542 2349!-2542 2349|-2542 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="233" duration="8" keyMode="9728">
@@ -283,20 +499,38 @@
             </DOMFrame>
             <DOMFrame index="241" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="images/buildings/building-24-0.png">
-                  <matrix>
-                    <Matrix tx="-127.65" ty="-142.15"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-24-0.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-127.65" ty="-142.15"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2553 -1396|2567 -1396!2567 -1396|2567 2277!2567 2277|-2553 2277!-2553 2277|-2553 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="242" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-24-1.png">
-                  <matrix>
-                    <Matrix tx="-127.65" ty="-142.15"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-24-1.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-127.65" ty="-142.15"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2553 -1396|2567 -1396!2567 -1396|2567 2277!2567 2277|-2553 2277!-2553 2277|-2553 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="243" duration="68" keyMode="9728">
@@ -304,20 +538,38 @@
             </DOMFrame>
             <DOMFrame index="311" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-31-0.png">
-                  <matrix>
-                    <Matrix tx="-126.55" ty="-152.5"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-31-0.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-126.55" ty="-152.5"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2531 -1396|2589 -1396!2589 -1396|2589 2070!2589 2070|-2531 2070!-2531 2070|-2531 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="312" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-31-1.png">
-                  <matrix>
-                    <Matrix tx="-126.55" ty="-152.5"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-31-1.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-126.55" ty="-152.5"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2531 -1396|2589 -1396!2589 -1396|2589 2070!2589 2070|-2531 2070!-2531 2070|-2531 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="313" duration="8" keyMode="9728">
@@ -325,20 +577,38 @@
             </DOMFrame>
             <DOMFrame index="321" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="images/buildings/building-32-0.png">
-                  <matrix>
-                    <Matrix tx="-126.1" ty="-152.05"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-32-0.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-126.1" ty="-152.05"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2522 -1396|2598 -1396!2598 -1396|2598 2079!2598 2079|-2522 2079!-2522 2079|-2522 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="322" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-32-1.png">
-                  <matrix>
-                    <Matrix tx="-126.1" ty="-152.05"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-32-1.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-126.1" ty="-152.05"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2522 -1396|2598 -1396!2598 -1396|2598 2079!2598 2079|-2522 2079!-2522 2079|-2522 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="323" duration="8" keyMode="9728">
@@ -346,20 +616,38 @@
             </DOMFrame>
             <DOMFrame index="331" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="images/buildings/building-33-0.png">
-                  <matrix>
-                    <Matrix tx="-127.65" ty="-149"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-33-0.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-127.65" ty="-149"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2553 -1396|2567 -1396!2567 -1396|2567 2140!2567 2140|-2553 2140!-2553 2140|-2553 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="332" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-33-1.png">
-                  <matrix>
-                    <Matrix tx="-127.65" ty="-149"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-33-1.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-127.65" ty="-149"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2553 -1396|2567 -1396!2567 -1396|2567 2140!2567 2140|-2553 2140!-2553 2140|-2553 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="333" duration="8" keyMode="9728">
@@ -367,20 +655,38 @@
             </DOMFrame>
             <DOMFrame index="341" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="images/buildings/building-34-0.png">
-                  <matrix>
-                    <Matrix tx="-127.15" ty="-145.45"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-34-0.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-127.15" ty="-145.45"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2543 -1396|2577 -1396!2577 -1396|2577 2211!2577 2211|-2543 2211!-2543 2211|-2543 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="342" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-34-1.png">
-                  <matrix>
-                    <Matrix tx="-127.15" ty="-145.45"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-34-1.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-127.15" ty="-145.45"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2543 -1396|2577 -1396!2577 -1396|2577 2211!2577 2211|-2543 2211!-2543 2211|-2543 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="343" duration="68" keyMode="9728">
@@ -388,26 +694,38 @@
             </DOMFrame>
             <DOMFrame index="411" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-41-0.png">
-                  <matrix>
-                    <Matrix a="0.79998779296875" d="0.79998779296875" tx="-102.05" ty="-102.05"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="128" y="128"/>
-                  </transformationPoint>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-41-0.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="15.999755859375" d="15.999755859375" tx="-102.05" ty="-102.05"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2041 -1396|2055 -1396!2055 -1396|2055 2055!2055 2055|-2041 2055!-2041 2055|-2041 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="412" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-41-1.png">
-                  <matrix>
-                    <Matrix a="0.79998779296875" d="0.79998779296875" tx="-102.05" ty="-102.05"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="128" y="128"/>
-                  </transformationPoint>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-41-1.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="15.999755859375" d="15.999755859375" tx="-102.05" ty="-102.05"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2041 -1396|2055 -1396!2055 -1396|2055 2055!2055 2055|-2041 2055!-2041 2055|-2041 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="413" duration="7" keyMode="9728">
@@ -418,26 +736,38 @@
             </DOMFrame>
             <DOMFrame index="421" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-41-0.png">
-                  <matrix>
-                    <Matrix a="0.900009155273438" d="0.900009155273438" tx="-114.85" ty="-114.85"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="128" y="128"/>
-                  </transformationPoint>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-41-0.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="18.0001831054688" d="18.0001831054688" tx="-114.85" ty="-114.85"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2297 -1396|2311 -1396!2311 -1396|2311 2311!2311 2311|-2297 2311!-2297 2311|-2297 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="422" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-41-1.png">
-                  <matrix>
-                    <Matrix a="0.900009155273438" d="0.900009155273438" tx="-114.85" ty="-114.85"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="128" y="128"/>
-                  </transformationPoint>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-41-1.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="18.0001831054688" d="18.0001831054688" tx="-114.85" ty="-114.85"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2297 -1396|2311 -1396!2311 -1396|2311 2311!2311 2311|-2297 2311!-2297 2311|-2297 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="423" duration="7" keyMode="9728">
@@ -448,26 +778,38 @@
             </DOMFrame>
             <DOMFrame index="431" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-41-0.png">
-                  <matrix>
-                    <Matrix tx="-127.65" ty="-127.65"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="128" y="128"/>
-                  </transformationPoint>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-41-0.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-127.65" ty="-127.65"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2553 -1396|2567 -1396!2567 -1396|2567 2567!2567 2567|-2553 2567!-2553 2567|-2553 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="432" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-41-1.png">
-                  <matrix>
-                    <Matrix tx="-127.65" ty="-127.65"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="128" y="128"/>
-                  </transformationPoint>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-41-1.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-127.65" ty="-127.65"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2553 -1396|2567 -1396!2567 -1396|2567 2567!2567 2567|-2553 2567!-2553 2567|-2553 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="433" duration="7" keyMode="9728">
@@ -478,26 +820,38 @@
             </DOMFrame>
             <DOMFrame index="441" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-41-0.png">
-                  <matrix>
-                    <Matrix a="1.10000610351563" d="1.10000610351563" tx="-140.45" ty="-140.45"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="128" y="128"/>
-                  </transformationPoint>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-41-0.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="22.0001220703125" d="22.0001220703125" tx="-140.45" ty="-140.45"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2809 -1396|2823 -1396!2823 -1396|2823 2823!2823 2823|-2809 2823!-2809 2823|-2809 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="442" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-41-1.png">
-                  <matrix>
-                    <Matrix a="1.10000610351563" d="1.10000610351563" tx="-140.45" ty="-140.45"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="128" y="128"/>
-                  </transformationPoint>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-41-1.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="22.0001220703125" d="22.0001220703125" tx="-140.45" ty="-140.45"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-2809 -1396|2823 -1396!2823 -1396|2823 2823!2823 2823|-2809 2823!-2809 2823|-2809 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="443" keyMode="9728">
@@ -509,29 +863,56 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-1.png">
-                  <matrix>
-                    <Matrix tx="-125.55" ty="-149"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-1.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-2511 -1396S1|-2511 2140!-2511 2140|2609 2140!2609 2140|2609 -1396!2609 -1396|-2511 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="1" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-1.png">
-                  <matrix>
-                    <Matrix tx="-125.55" ty="-149"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-1.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-2511 -1396S1|-2511 2140!-2511 2140|2609 2140!2609 2140|2609 -1396!2609 -1396|-2511 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-1.png">
-                  <matrix>
-                    <Matrix tx="-125.55" ty="-149"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-1.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-2511 -1396S1|-2511 2140!-2511 2140|2609 2140!2609 2140|2609 -1396!2609 -1396|-2511 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="3" duration="7" keyMode="9728">
@@ -539,29 +920,56 @@
             </DOMFrame>
             <DOMFrame index="10" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-1.png">
-                  <matrix>
-                    <Matrix tx="-125.55" ty="-149"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-1.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-2511 -1396S1|-2511 2140!-2511 2140|2609 2140!2609 2140|2609 -1396!2609 -1396|-2511 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="11" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-1.png">
-                  <matrix>
-                    <Matrix tx="-125.55" ty="-149"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-1.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-2511 -1396S1|-2511 2140!-2511 2140|2609 2140!2609 2140|2609 -1396!2609 -1396|-2511 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="12" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-1.png">
-                  <matrix>
-                    <Matrix tx="-125.55" ty="-149"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-1.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-2511 -1396S1|-2511 2140!-2511 2140|2609 2140!2609 2140|2609 -1396!2609 -1396|-2511 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="13" duration="7" keyMode="9728">
@@ -569,29 +977,56 @@
             </DOMFrame>
             <DOMFrame index="20" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-1.png">
-                  <matrix>
-                    <Matrix tx="-125.55" ty="-149"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-1.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-2511 -1396S1|-2511 2140!-2511 2140|2609 2140!2609 2140|2609 -1396!2609 -1396|-2511 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="21" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-1.png">
-                  <matrix>
-                    <Matrix tx="-125.55" ty="-149"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-1.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-2511 -1396S1|-2511 2140!-2511 2140|2609 2140!2609 2140|2609 -1396!2609 -1396|-2511 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="22" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-1.png">
-                  <matrix>
-                    <Matrix tx="-125.55" ty="-149"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-1.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-2511 -1396S1|-2511 2140!-2511 2140|2609 2140!2609 2140|2609 -1396!2609 -1396|-2511 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="23" duration="7" keyMode="9728">
@@ -599,29 +1034,56 @@
             </DOMFrame>
             <DOMFrame index="30" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-1.png">
-                  <matrix>
-                    <Matrix tx="-125.55" ty="-149"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-1.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-2511 -1396S1|-2511 2140!-2511 2140|2609 2140!2609 2140|2609 -1396!2609 -1396|-2511 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="31" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-1.png">
-                  <matrix>
-                    <Matrix tx="-125.55" ty="-149"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-1.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-2511 -1396S1|-2511 2140!-2511 2140|2609 2140!2609 2140|2609 -1396!2609 -1396|-2511 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="32" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-1.png">
-                  <matrix>
-                    <Matrix tx="-125.55" ty="-149"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-1.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-2511 -1396S1|-2511 2140!-2511 2140|2609 2140!2609 2140|2609 -1396!2609 -1396|-2511 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="33" duration="7" keyMode="9728">
@@ -629,29 +1091,56 @@
             </DOMFrame>
             <DOMFrame index="40" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-1.png">
-                  <matrix>
-                    <Matrix tx="-125.55" ty="-149"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-1.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-2511 -1396S1|-2511 2140!-2511 2140|2609 2140!2609 2140|2609 -1396!2609 -1396|-2511 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="41" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-1.png">
-                  <matrix>
-                    <Matrix tx="-125.55" ty="-149"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-1.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-2511 -1396S1|-2511 2140!-2511 2140|2609 2140!2609 2140|2609 -1396!2609 -1396|-2511 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="42" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-1.png">
-                  <matrix>
-                    <Matrix tx="-125.55" ty="-149"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-1.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-2511 -1396S1|-2511 2140!-2511 2140|2609 2140!2609 2140|2609 -1396!2609 -1396|-2511 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="43" duration="67" keyMode="9728">
@@ -659,29 +1148,56 @@
             </DOMFrame>
             <DOMFrame index="110" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-11.png">
-                  <matrix>
-                    <Matrix tx="-127.15" ty="-151.5"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-11.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-127.15" ty="-151.5"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-2543 -1396S1|-2543 2090!-2543 2090|2577 2090!2577 2090|2577 -1396!2577 -1396|-2543 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="111" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-11.png">
-                  <matrix>
-                    <Matrix tx="-127.15" ty="-151.5"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-11.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-127.15" ty="-151.5"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-2543 -1396S1|-2543 2090!-2543 2090|2577 2090!2577 2090|2577 -1396!2577 -1396|-2543 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="112" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-11.png">
-                  <matrix>
-                    <Matrix tx="-127.15" ty="-151.5"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-11.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-127.15" ty="-151.5"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-2543 -1396S1|-2543 2090!-2543 2090|2577 2090!2577 2090|2577 -1396!2577 -1396|-2543 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="113" duration="7" keyMode="9728">
@@ -689,29 +1205,56 @@
             </DOMFrame>
             <DOMFrame index="120" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-12.png">
-                  <matrix>
-                    <Matrix tx="-127.15" ty="-149"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-12.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-127.15" ty="-149"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-2543 -1396S1|-2543 2140!-2543 2140|2577 2140!2577 2140|2577 -1396!2577 -1396|-2543 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="121" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-12.png">
-                  <matrix>
-                    <Matrix tx="-127.15" ty="-149"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-12.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-127.15" ty="-149"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-2543 -1396S1|-2543 2140!-2543 2140|2577 2140!2577 2140|2577 -1396!2577 -1396|-2543 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="122" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-12.png">
-                  <matrix>
-                    <Matrix tx="-127.15" ty="-149"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-12.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-127.15" ty="-149"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-2543 -1396S1|-2543 2140!-2543 2140|2577 2140!2577 2140|2577 -1396!2577 -1396|-2543 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="123" duration="7" keyMode="9728">
@@ -719,29 +1262,56 @@
             </DOMFrame>
             <DOMFrame index="130" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-13.png">
-                  <matrix>
-                    <Matrix tx="-127.65" ty="-149"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-13.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-127.65" ty="-149"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-2553 -1396S1|-2553 2140!-2553 2140|2567 2140!2567 2140|2567 -1396!2567 -1396|-2553 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="131" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-13.png">
-                  <matrix>
-                    <Matrix tx="-127.65" ty="-149"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-13.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-127.65" ty="-149"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-2553 -1396S1|-2553 2140!-2553 2140|2567 2140!2567 2140|2567 -1396!2567 -1396|-2553 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="132" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-13.png">
-                  <matrix>
-                    <Matrix tx="-127.65" ty="-149"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-13.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-127.65" ty="-149"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-2553 -1396S1|-2553 2140!-2553 2140|2567 2140!2567 2140|2567 -1396!2567 -1396|-2553 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="133" duration="7" keyMode="9728">
@@ -749,29 +1319,56 @@
             </DOMFrame>
             <DOMFrame index="140" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-14.png">
-                  <matrix>
-                    <Matrix tx="-125.1" ty="-138.85"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-14.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-125.1" ty="-138.85"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-2502 -1396S1|-2502 2343!-2502 2343|2618 2343!2618 2343|2618 -1396!2618 -1396|-2502 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="141" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-14.png">
-                  <matrix>
-                    <Matrix tx="-125.1" ty="-138.85"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-14.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-125.1" ty="-138.85"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-2502 -1396|-2502 2343!-2502 2343|2618 2343!2618 2343|2618 -1396!2618 -1396|-2502 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="142" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-14.png">
-                  <matrix>
-                    <Matrix tx="-125.1" ty="-138.85"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-14.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-125.1" ty="-138.85"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-2502 -1396S1|-2502 2343!-2502 2343|2618 2343!2618 2343|2618 -1396!2618 -1396|-2502 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="143" duration="67" keyMode="9728">
@@ -779,29 +1376,56 @@
             </DOMFrame>
             <DOMFrame index="210" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-21.png">
-                  <matrix>
-                    <Matrix tx="-128.15" ty="-147.35"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-21.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-128.15" ty="-147.35"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-2563 -1396S1|-2563 2173!-2563 2173|2557 2173!2557 2173|2557 -1396!2557 -1396|-2563 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="211" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-21.png">
-                  <matrix>
-                    <Matrix tx="-128.15" ty="-147.35"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-21.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-128.15" ty="-147.35"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-2563 -1396S1|-2563 2173!-2563 2173|2557 2173!2557 2173|2557 -1396!2557 -1396|-2563 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="212" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-21.png">
-                  <matrix>
-                    <Matrix tx="-128.15" ty="-147.35"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-21.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-128.15" ty="-147.35"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-2563 -1396S1|-2563 2173!-2563 2173|2557 2173!2557 2173|2557 -1396!2557 -1396|-2563 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="213" duration="7" keyMode="9728">
@@ -809,11 +1433,20 @@
             </DOMFrame>
             <DOMFrame index="220" duration="3" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-22.png">
-                  <matrix>
-                    <Matrix tx="-127.65" ty="-139.05"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-22.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-127.65" ty="-139.05"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-2553 -1396S1|-2553 2339!-2553 2339|2567 2339!2567 2339|2567 -1396!2567 -1396|-2553 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="223" duration="7" keyMode="9728">
@@ -821,11 +1454,20 @@
             </DOMFrame>
             <DOMFrame index="230" duration="3" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-23.png">
-                  <matrix>
-                    <Matrix tx="-127.1" ty="-138.55"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-23.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-127.1" ty="-138.55"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-2542 -1396S1|-2542 2349!-2542 2349|2578 2349!2578 2349|2578 -1396!2578 -1396|-2542 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="233" duration="7" keyMode="9728">
@@ -833,11 +1475,20 @@
             </DOMFrame>
             <DOMFrame index="240" duration="3" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-24.png">
-                  <matrix>
-                    <Matrix tx="-127.65" ty="-142.15"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-24.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-127.65" ty="-142.15"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-2553 -1396S1|-2553 2277!-2553 2277|2567 2277!2567 2277|2567 -1396!2567 -1396|-2553 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="243" duration="67" keyMode="9728">
@@ -845,11 +1496,20 @@
             </DOMFrame>
             <DOMFrame index="310" duration="3" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-31.png">
-                  <matrix>
-                    <Matrix tx="-126.55" ty="-152.5"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-31.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-126.55" ty="-152.5"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-2531 -1396S1|-2531 2070!-2531 2070|2589 2070!2589 2070|2589 -1396!2589 -1396|-2531 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="313" duration="7" keyMode="9728">
@@ -857,11 +1517,20 @@
             </DOMFrame>
             <DOMFrame index="320" duration="3" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-32.png">
-                  <matrix>
-                    <Matrix tx="-126.1" ty="-152.05"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-32.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-126.1" ty="-152.05"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-2522 -1396S1|-2522 2079!-2522 2079|2598 2079!2598 2079|2598 -1396!2598 -1396|-2522 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="323" duration="7" keyMode="9728">
@@ -869,11 +1538,20 @@
             </DOMFrame>
             <DOMFrame index="330" duration="3" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-33.png">
-                  <matrix>
-                    <Matrix tx="-127.65" ty="-149"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-33.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-127.65" ty="-149"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-2553 -1396S1|-2553 2140!-2553 2140|2567 2140!2567 2140|2567 -1396!2567 -1396|-2553 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="333" duration="7" keyMode="9728">
@@ -881,11 +1559,20 @@
             </DOMFrame>
             <DOMFrame index="340" duration="3" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-34.png">
-                  <matrix>
-                    <Matrix tx="-127.15" ty="-145.45"/>
-                  </matrix>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-34.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="-127.15" ty="-145.45"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-2543 -1396S1|-2543 2211!-2543 2211|2577 2211!2577 2211|2577 -1396!2577 -1396|-2543 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="343" duration="67" keyMode="9728">
@@ -893,14 +1580,20 @@
             </DOMFrame>
             <DOMFrame index="410" duration="3" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-41.png">
-                  <matrix>
-                    <Matrix a="0.79998779296875" d="0.79998779296875" tx="-102.05" ty="-102.05"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="128" y="128"/>
-                  </transformationPoint>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-41.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="15.999755859375" d="15.999755859375" tx="-102.05" ty="-102.05"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-2041 -1396S1|-2041 2055!-2041 2055|2055 2055!2055 2055|2055 -1396!2055 -1396|-2041 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="413" duration="7" keyMode="9728">
@@ -908,14 +1601,20 @@
             </DOMFrame>
             <DOMFrame index="420" duration="3" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-41.png">
-                  <matrix>
-                    <Matrix a="0.900009155273438" d="0.900009155273438" tx="-114.85" ty="-114.85"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="128" y="128"/>
-                  </transformationPoint>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-41.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="18.0001831054688" d="18.0001831054688" tx="-114.85" ty="-114.85"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-2297 -1396S1|-2297 2311!-2297 2311|2311 2311!2311 2311|2311 -1396!2311 -1396|-2297 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="423" duration="7" keyMode="9728">
@@ -923,14 +1622,20 @@
             </DOMFrame>
             <DOMFrame index="430" duration="3" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-41.png">
-                  <matrix>
-                    <Matrix a="0.999984741210938" d="0.999984741210938" tx="-127.65" ty="-127.65"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="128" y="128"/>
-                  </transformationPoint>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-41.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="19.9996948242188" d="19.9996948242188" tx="-127.65" ty="-127.65"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-2553 -1396S1|-2553 2567!-2553 2567|2567 2567!2567 2567|2567 -1396!2567 -1396|-2553 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="433" duration="7" keyMode="9728">
@@ -938,14 +1643,20 @@
             </DOMFrame>
             <DOMFrame index="440" duration="3" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/buildings/building-41.png">
-                  <matrix>
-                    <Matrix a="1.10000610351563" d="1.10000610351563" tx="-140.45" ty="-140.45"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="128" y="128"/>
-                  </transformationPoint>
-                </DOMBitmapInstance>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="images/buildings/building-41.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="22.0001220703125" d="22.0001220703125" tx="-140.45" ty="-140.45"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-2809 -1396S1|-2809 2823!-2809 2823|2823 2823!2823 2823|2823 -1396!2823 -1396|-2809 -1396"/>
+                  </edges>
+                </DOMShape>
               </elements>
             </DOMFrame>
             <DOMFrame index="443" duration="3" keyMode="9728">

@@ -83,7 +83,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="building-body" name="body_mc" selected="true" centerPoint3DY="-66.15">
+                <DOMSymbolInstance libraryItemName="building-body" name="body_mc" centerPoint3DY="-66.15">
                   <matrix>
                     <Matrix ty="-66.15"/>
                   </matrix>

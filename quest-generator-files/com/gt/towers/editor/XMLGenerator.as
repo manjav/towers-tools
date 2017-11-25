@@ -262,7 +262,7 @@
 			}
 			
 			sceneData.places = items;
-			sceneData.images = getImagesData(sceneIndex);
+			sceneData.images = getImagesData(currentScene.name);
 			
 			questClassStr += '\t}\r}';
 			//trace(questClassStr)
@@ -291,10 +291,24 @@
 			return 0;
 		}
 		
-		private function getImagesData(t:int):Array
+		private function getImagesData(timelineName:String):Array
 		{
 			var items:Array = new Array();
-			var bitmaps:XMLList = timelines[t].descendants("*");
+			var bitmaps:XMLList ;
+			for (var q:int=0; q<timelines.length(); q++)
+			{
+				if( timelines[q].@name == timelineName )
+				{
+					bitmaps = timelines[q].descendants("*")
+					break;
+				}
+			}
+			if( bitmaps == null )
+			{
+				trace("timeline notfound.");
+				return null;
+			}
+
 			questClassStr += '\r#if flash\r\t\t// images\r';
 			for (var i:int=0; i<bitmaps.length(); i++)
 			{
