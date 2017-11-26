@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="building-body" itemID="59384391-00000463" lastModified="1498913530">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="building-body" itemID="59384391-00000463" lastModified="1511337534">
   <timeline>
-    <DOMTimeline name="building-body" currentFrame="442">
+    <DOMTimeline name="building-body">
       <layers>
         <DOMLayer name="Layer 2" color="#9933CC">
           <frames>
@@ -12,77 +12,142 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Layer 4" color="#FF4FFF">
+        <DOMLayer name="building-plot.png" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
           <frames>
-            <DOMFrame index="0" duration="410" keyMode="9728">
+            <DOMFrame index="0" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="410" duration="3" keyMode="9728">
+            <DOMFrame index="1" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-4-1-1.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-1-0.png">
                   <matrix>
-                    <Matrix tx="-50" ty="-51.15"/>
+                    <Matrix tx="-125.55" ty="-189.6"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="413" duration="7" keyMode="9728">
-              <elements/>
-            </DOMFrame>
-            <DOMFrame index="420" duration="3" keyMode="9728">
+            <DOMFrame index="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-4-1-1.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-1-1.png">
                   <matrix>
-                    <Matrix tx="-50" ty="-131.15"/>
+                    <Matrix tx="-125.55" ty="-189.6"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="423" duration="7" keyMode="9728">
+            <DOMFrame index="3" duration="7" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="430" duration="3" keyMode="9728">
+            <DOMFrame index="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-4-3-1.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-1-0.png">
                   <matrix>
-                    <Matrix tx="-50" ty="-149.55"/>
+                    <Matrix tx="-125.55" ty="-189.6"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="433" duration="7" keyMode="9728">
-              <elements/>
-            </DOMFrame>
-            <DOMFrame index="440" duration="3" keyMode="9728">
+            <DOMFrame index="12" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-4-4-1.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-1-1.png">
                   <matrix>
-                    <Matrix tx="-50" ty="-150.5"/>
+                    <Matrix tx="-125.55" ty="-189.6"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
-          </frames>
-        </DOMLayer>
-        <DOMLayer name="Layer 5" color="#4FFFFF">
-          <frames>
-            <DOMFrame index="0" duration="111" keyMode="9728">
+            <DOMFrame index="13" duration="7" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="20" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="21" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="images/buildings/building-1-0.png">
+                  <matrix>
+                    <Matrix tx="-125.55" ty="-189.6"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="images/buildings/building-1-1.png">
+                  <matrix>
+                    <Matrix tx="-125.55" ty="-189.6"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="23" duration="7" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="30" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="31" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="images/buildings/building-1-0.png">
+                  <matrix>
+                    <Matrix tx="-125.55" ty="-189.6"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="32" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="images/buildings/building-1-1.png">
+                  <matrix>
+                    <Matrix tx="-125.55" ty="-189.6"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" duration="7" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="40" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="41" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="images/buildings/building-1-0.png">
+                  <matrix>
+                    <Matrix tx="-125.55" ty="-189.6"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="42" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="images/buildings/building-1-1.png">
+                  <matrix>
+                    <Matrix tx="-125.55" ty="-189.6"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="43" duration="68" keyMode="9728">
               <elements/>
             </DOMFrame>
             <DOMFrame index="111" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-1-1-0.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-11-0.png">
                   <matrix>
-                    <Matrix tx="-107.3" ty="-107.3"/>
+                    <Matrix tx="-127.15" ty="-192.1"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
             <DOMFrame index="112" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-1-1-1.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-11-1.png">
                   <matrix>
-                    <Matrix tx="-107.3" ty="-108.6"/>
+                    <Matrix tx="-127.15" ty="-192.1"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
@@ -92,18 +157,18 @@
             </DOMFrame>
             <DOMFrame index="121" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-1-2-0.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-12-0.png">
                   <matrix>
-                    <Matrix tx="-107" ty="-107"/>
+                    <Matrix tx="-127.15" ty="-190.6"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
             <DOMFrame index="122" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-1-2-1.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-12-1.png">
                   <matrix>
-                    <Matrix tx="-107" ty="-107"/>
+                    <Matrix tx="-127.15" ty="-190.05"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
@@ -113,18 +178,18 @@
             </DOMFrame>
             <DOMFrame index="131" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-1-3-0.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-13-0.png">
                   <matrix>
-                    <Matrix tx="-107" ty="-107"/>
+                    <Matrix tx="-127.65" ty="-189.6"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
             <DOMFrame index="132" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-1-3-1.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-13-1.png">
                   <matrix>
-                    <Matrix tx="-107" ty="-107"/>
+                    <Matrix tx="-127.65" ty="-189.6"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
@@ -134,18 +199,18 @@
             </DOMFrame>
             <DOMFrame index="141" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-1-4-0.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-14-0.png">
                   <matrix>
-                    <Matrix tx="-106.15" ty="-96.8"/>
+                    <Matrix tx="-125.1" ty="-179.45"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
             <DOMFrame index="142" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-1-4-1.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-14-1.png">
                   <matrix>
-                    <Matrix tx="-106.55" ty="-97.1"/>
+                    <Matrix tx="-125.1" ty="-179.7"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
@@ -155,18 +220,18 @@
             </DOMFrame>
             <DOMFrame index="211" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="images/building-2-1-0.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-21-0.png">
                   <matrix>
-                    <Matrix tx="-114.45" ty="-109.25"/>
+                    <Matrix tx="-128.15" ty="-187.95"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
             <DOMFrame index="212" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-2-1-1.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-21-1.png">
                   <matrix>
-                    <Matrix tx="-114.45" ty="-108.6"/>
+                    <Matrix tx="-128.15" ty="-187.95"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
@@ -176,18 +241,18 @@
             </DOMFrame>
             <DOMFrame index="221" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-2-2-1.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-22-0.png">
                   <matrix>
-                    <Matrix tx="-107" ty="-107"/>
+                    <Matrix tx="-127.65" ty="-179.65"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
             <DOMFrame index="222" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-2-2-0.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-22-1.png">
                   <matrix>
-                    <Matrix tx="-106.75" ty="-106.55"/>
+                    <Matrix tx="-127.65" ty="-179.65"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
@@ -197,18 +262,18 @@
             </DOMFrame>
             <DOMFrame index="231" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-2-3-0.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-23-0.png">
                   <matrix>
-                    <Matrix tx="-103.5" ty="-104.5"/>
+                    <Matrix tx="-127.1" ty="-179.15"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
             <DOMFrame index="232" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-2-3-1.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-23-1.png">
                   <matrix>
-                    <Matrix tx="-105.35" ty="-104.05"/>
+                    <Matrix tx="-127.1" ty="-179.15"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
@@ -218,18 +283,18 @@
             </DOMFrame>
             <DOMFrame index="241" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-2-4-0.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-24-0.png">
                   <matrix>
-                    <Matrix tx="-103.4" ty="-104.1"/>
+                    <Matrix tx="-127.65" ty="-182.75"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
             <DOMFrame index="242" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-2-4-1.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-24-1.png">
                   <matrix>
-                    <Matrix tx="-103.35" ty="-104.15"/>
+                    <Matrix tx="-127.65" ty="-182.75"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
@@ -239,18 +304,18 @@
             </DOMFrame>
             <DOMFrame index="311" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-3-1-0.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-31-0.png">
                   <matrix>
-                    <Matrix tx="-107" ty="-107"/>
+                    <Matrix tx="-126.55" ty="-193.1"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
             <DOMFrame index="312" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-3-1-1.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-31-1.png">
                   <matrix>
-                    <Matrix tx="-107" ty="-107"/>
+                    <Matrix tx="-126.55" ty="-193.1"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
@@ -260,18 +325,18 @@
             </DOMFrame>
             <DOMFrame index="321" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-3-2-0.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-32-0.png">
                   <matrix>
-                    <Matrix tx="-107" ty="-107"/>
+                    <Matrix tx="-126.1" ty="-192.65"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
             <DOMFrame index="322" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-3-2-1.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-32-1.png">
                   <matrix>
-                    <Matrix tx="-107" ty="-107"/>
+                    <Matrix tx="-126.1" ty="-192.65"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
@@ -281,18 +346,18 @@
             </DOMFrame>
             <DOMFrame index="331" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-3-3-0.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-33-0.png">
                   <matrix>
-                    <Matrix tx="-107" ty="-107"/>
+                    <Matrix tx="-127.65" ty="-189.6"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
             <DOMFrame index="332" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-3-3-1.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-33-1.png">
                   <matrix>
-                    <Matrix tx="-107" ty="-107"/>
+                    <Matrix tx="-127.65" ty="-189.6"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
@@ -302,18 +367,18 @@
             </DOMFrame>
             <DOMFrame index="341" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-3-4-0.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-34-0.png">
                   <matrix>
-                    <Matrix tx="-104.75" ty="-103.45"/>
+                    <Matrix tx="-127.15" ty="-186.05"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
             <DOMFrame index="342" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-3-4-1.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-34-1.png">
                   <matrix>
-                    <Matrix tx="-104.75" ty="-102.75"/>
+                    <Matrix tx="-127.15" ty="-186.05"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
@@ -323,112 +388,148 @@
             </DOMFrame>
             <DOMFrame index="411" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-plot-4-1-0.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-41-0.png">
                   <matrix>
-                    <Matrix tx="-107" ty="-107"/>
+                    <Matrix a="0.79998779296875" d="0.79998779296875" tx="-102.05" ty="-142.65"/>
                   </matrix>
+                  <transformationPoint>
+                    <Point x="128" y="128"/>
+                  </transformationPoint>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
             <DOMFrame index="412" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-plot-4-1-1.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-41-1.png">
                   <matrix>
-                    <Matrix tx="-107" ty="-107"/>
+                    <Matrix a="0.79998779296875" d="0.79998779296875" tx="-102.05" ty="-142.65"/>
                   </matrix>
+                  <transformationPoint>
+                    <Point x="128" y="128"/>
+                  </transformationPoint>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="413" duration="8" keyMode="9728">
+            <DOMFrame index="413" duration="7" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="420" keyMode="9728">
               <elements/>
             </DOMFrame>
             <DOMFrame index="421" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-top-4-2-0.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-41-0.png">
                   <matrix>
-                    <Matrix tx="-107" ty="-107"/>
+                    <Matrix a="0.900009155273438" d="0.900009155273438" tx="-114.85" ty="-155.45"/>
                   </matrix>
+                  <transformationPoint>
+                    <Point x="128" y="128"/>
+                  </transformationPoint>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
             <DOMFrame index="422" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-top-4-2-1.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-41-1.png">
                   <matrix>
-                    <Matrix tx="-107" ty="-107"/>
+                    <Matrix a="0.900009155273438" d="0.900009155273438" tx="-114.85" ty="-155.45"/>
                   </matrix>
+                  <transformationPoint>
+                    <Point x="128" y="128"/>
+                  </transformationPoint>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="423" duration="8" keyMode="9728">
+            <DOMFrame index="423" duration="7" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="430" keyMode="9728">
               <elements/>
             </DOMFrame>
             <DOMFrame index="431" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-top-4-3-0.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-41-0.png">
                   <matrix>
-                    <Matrix tx="-107" ty="-107"/>
+                    <Matrix tx="-127.65" ty="-168.25"/>
                   </matrix>
+                  <transformationPoint>
+                    <Point x="128" y="128"/>
+                  </transformationPoint>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
             <DOMFrame index="432" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-top-4-3-1.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-41-1.png">
                   <matrix>
-                    <Matrix tx="-107" ty="-107"/>
+                    <Matrix tx="-127.65" ty="-168.25"/>
                   </matrix>
+                  <transformationPoint>
+                    <Point x="128" y="128"/>
+                  </transformationPoint>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="433" duration="8" keyMode="9728">
+            <DOMFrame index="433" duration="7" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="440" keyMode="9728">
               <elements/>
             </DOMFrame>
             <DOMFrame index="441" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-plot-4-4-0.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-41-0.png">
                   <matrix>
-                    <Matrix tx="-107" ty="-107"/>
+                    <Matrix a="1.10000610351563" d="1.10000610351563" tx="-140.45" ty="-181.05"/>
                   </matrix>
+                  <transformationPoint>
+                    <Point x="128" y="128"/>
+                  </transformationPoint>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
             <DOMFrame index="442" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-plot-4-4-1.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-41-1.png">
                   <matrix>
-                    <Matrix tx="-107" ty="-107"/>
+                    <Matrix a="1.10000610351563" d="1.10000610351563" tx="-140.45" ty="-181.05"/>
                   </matrix>
+                  <transformationPoint>
+                    <Point x="128" y="128"/>
+                  </transformationPoint>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
+            <DOMFrame index="443" keyMode="9728">
+              <elements/>
+            </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+        <DOMLayer name="building-plot.png copy 2" color="#FF4FFF" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-0-1.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-1.png">
                   <matrix>
-                    <Matrix tx="-107" ty="-107"/>
+                    <Matrix tx="-125.55" ty="-189.6"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
             <DOMFrame index="1" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-0-1-0.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-1.png">
                   <matrix>
-                    <Matrix tx="-107" ty="-107"/>
+                    <Matrix tx="-125.55" ty="-189.6"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
             <DOMFrame index="2" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-0-1-1.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-1.png">
                   <matrix>
-                    <Matrix tx="-107" ty="-107"/>
+                    <Matrix tx="-125.55" ty="-189.6"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
@@ -438,27 +539,27 @@
             </DOMFrame>
             <DOMFrame index="10" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-0-1.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-1.png">
                   <matrix>
-                    <Matrix tx="-107" ty="-107"/>
+                    <Matrix tx="-125.55" ty="-189.6"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
             <DOMFrame index="11" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="images/building-0-1-0.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-1.png">
                   <matrix>
-                    <Matrix tx="-107" ty="-107"/>
+                    <Matrix tx="-125.55" ty="-189.6"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
             <DOMFrame index="12" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-0-1-1.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-1.png">
                   <matrix>
-                    <Matrix tx="-107" ty="-107"/>
+                    <Matrix tx="-125.55" ty="-189.6"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
@@ -468,27 +569,27 @@
             </DOMFrame>
             <DOMFrame index="20" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-0-1.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-1.png">
                   <matrix>
-                    <Matrix tx="-107" ty="-107"/>
+                    <Matrix tx="-125.55" ty="-189.6"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
             <DOMFrame index="21" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="images/building-0-1-0.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-1.png">
                   <matrix>
-                    <Matrix tx="-107" ty="-107"/>
+                    <Matrix tx="-125.55" ty="-189.6"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
             <DOMFrame index="22" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-0-1-1.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-1.png">
                   <matrix>
-                    <Matrix tx="-107" ty="-107"/>
+                    <Matrix tx="-125.55" ty="-189.6"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
@@ -498,27 +599,27 @@
             </DOMFrame>
             <DOMFrame index="30" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-0-1.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-1.png">
                   <matrix>
-                    <Matrix tx="-107" ty="-107"/>
+                    <Matrix tx="-125.55" ty="-189.6"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
             <DOMFrame index="31" keyMode="9728">
               <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="images/building-0-1-0.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-1.png">
                   <matrix>
-                    <Matrix tx="-107" ty="-107"/>
+                    <Matrix tx="-125.55" ty="-189.6"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
             <DOMFrame index="32" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-0-1-1.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-1.png">
                   <matrix>
-                    <Matrix tx="-107" ty="-107"/>
+                    <Matrix tx="-125.55" ty="-189.6"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
@@ -528,27 +629,27 @@
             </DOMFrame>
             <DOMFrame index="40" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-0-1.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-1.png">
                   <matrix>
-                    <Matrix tx="-107" ty="-107"/>
+                    <Matrix tx="-125.55" ty="-189.6"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
             <DOMFrame index="41" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-0-1-0.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-1.png">
                   <matrix>
-                    <Matrix tx="-107" ty="-107"/>
+                    <Matrix tx="-125.55" ty="-189.6"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
             <DOMFrame index="42" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-0-1-1.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-1.png">
                   <matrix>
-                    <Matrix tx="-107" ty="-107"/>
+                    <Matrix tx="-125.55" ty="-189.6"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
@@ -556,11 +657,29 @@
             <DOMFrame index="43" duration="67" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="110" duration="3" keyMode="9728">
+            <DOMFrame index="110" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-1-1.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-11.png">
                   <matrix>
-                    <Matrix tx="-107" ty="-107"/>
+                    <Matrix tx="-127.15" ty="-192.1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="111" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="images/buildings/building-11.png">
+                  <matrix>
+                    <Matrix tx="-127.15" ty="-192.1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="112" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="images/buildings/building-11.png">
+                  <matrix>
+                    <Matrix tx="-127.15" ty="-192.1"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
@@ -568,11 +687,29 @@
             <DOMFrame index="113" duration="7" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="120" duration="3" keyMode="9728">
+            <DOMFrame index="120" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-1-2.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-12.png">
                   <matrix>
-                    <Matrix tx="-107" ty="-107"/>
+                    <Matrix tx="-127.15" ty="-189.6"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="121" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="images/buildings/building-12.png">
+                  <matrix>
+                    <Matrix tx="-127.15" ty="-189.6"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="122" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="images/buildings/building-12.png">
+                  <matrix>
+                    <Matrix tx="-127.15" ty="-189.6"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
@@ -580,11 +717,29 @@
             <DOMFrame index="123" duration="7" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="130" duration="3" keyMode="9728">
+            <DOMFrame index="130" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-1-3.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-13.png">
                   <matrix>
-                    <Matrix tx="-107" ty="-107"/>
+                    <Matrix tx="-127.65" ty="-189.6"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="131" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="images/buildings/building-13.png">
+                  <matrix>
+                    <Matrix tx="-127.65" ty="-189.6"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="132" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="images/buildings/building-13.png">
+                  <matrix>
+                    <Matrix tx="-127.65" ty="-189.6"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
@@ -592,11 +747,29 @@
             <DOMFrame index="133" duration="7" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="140" duration="3" keyMode="9728">
+            <DOMFrame index="140" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-1-4.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-14.png">
                   <matrix>
-                    <Matrix tx="-106.65" ty="-96.85"/>
+                    <Matrix tx="-125.1" ty="-179.45"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="141" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="images/buildings/building-14.png">
+                  <matrix>
+                    <Matrix tx="-125.1" ty="-179.45"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="142" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="images/buildings/building-14.png">
+                  <matrix>
+                    <Matrix tx="-125.1" ty="-179.45"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
@@ -604,11 +777,29 @@
             <DOMFrame index="143" duration="67" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="210" duration="3" keyMode="9728">
+            <DOMFrame index="210" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-2-1.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-21.png">
                   <matrix>
-                    <Matrix tx="-114.45" ty="-109.25"/>
+                    <Matrix tx="-128.15" ty="-187.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="211" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="images/buildings/building-21.png">
+                  <matrix>
+                    <Matrix tx="-128.15" ty="-187.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="212" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="images/buildings/building-21.png">
+                  <matrix>
+                    <Matrix tx="-128.15" ty="-187.95"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
@@ -616,29 +807,11 @@
             <DOMFrame index="213" duration="7" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="220" keyMode="9728">
+            <DOMFrame index="220" duration="3" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-2-2.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-22.png">
                   <matrix>
-                    <Matrix tx="-106.55" ty="-106.6"/>
-                  </matrix>
-                </DOMBitmapInstance>
-              </elements>
-            </DOMFrame>
-            <DOMFrame index="221" keyMode="9728">
-              <elements>
-                <DOMBitmapInstance libraryItemName="images/building-2-2.png">
-                  <matrix>
-                    <Matrix tx="-107" ty="-107"/>
-                  </matrix>
-                </DOMBitmapInstance>
-              </elements>
-            </DOMFrame>
-            <DOMFrame index="222" keyMode="9728">
-              <elements>
-                <DOMBitmapInstance libraryItemName="images/building-2-2.png">
-                  <matrix>
-                    <Matrix tx="-106.65" ty="-107"/>
+                    <Matrix tx="-127.65" ty="-179.65"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
@@ -646,29 +819,11 @@
             <DOMFrame index="223" duration="7" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="230" keyMode="9728">
+            <DOMFrame index="230" duration="3" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-2-3.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-23.png">
                   <matrix>
-                    <Matrix tx="-105.45" ty="-105.15"/>
-                  </matrix>
-                </DOMBitmapInstance>
-              </elements>
-            </DOMFrame>
-            <DOMFrame index="231" keyMode="9728">
-              <elements>
-                <DOMBitmapInstance libraryItemName="images/building-2-3.png">
-                  <matrix>
-                    <Matrix tx="-103.5" ty="-104.5"/>
-                  </matrix>
-                </DOMBitmapInstance>
-              </elements>
-            </DOMFrame>
-            <DOMFrame index="232" keyMode="9728">
-              <elements>
-                <DOMBitmapInstance libraryItemName="images/building-2-3.png">
-                  <matrix>
-                    <Matrix tx="-105.35" ty="-104.7"/>
+                    <Matrix tx="-127.1" ty="-179.15"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
@@ -676,29 +831,11 @@
             <DOMFrame index="233" duration="7" keyMode="9728">
               <elements/>
             </DOMFrame>
-            <DOMFrame index="240" keyMode="9728">
+            <DOMFrame index="240" duration="3" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-2-4.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-24.png">
                   <matrix>
-                    <Matrix tx="-103.5" ty="-103.85"/>
-                  </matrix>
-                </DOMBitmapInstance>
-              </elements>
-            </DOMFrame>
-            <DOMFrame index="241" keyMode="9728">
-              <elements>
-                <DOMBitmapInstance libraryItemName="images/building-2-4.png">
-                  <matrix>
-                    <Matrix tx="-103.5" ty="-103.85"/>
-                  </matrix>
-                </DOMBitmapInstance>
-              </elements>
-            </DOMFrame>
-            <DOMFrame index="242" keyMode="9728">
-              <elements>
-                <DOMBitmapInstance libraryItemName="images/building-2-4.png">
-                  <matrix>
-                    <Matrix tx="-103.35" ty="-104.15"/>
+                    <Matrix tx="-127.65" ty="-182.75"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
@@ -708,9 +845,9 @@
             </DOMFrame>
             <DOMFrame index="310" duration="3" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-3-1.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-31.png">
                   <matrix>
-                    <Matrix tx="-107" ty="-107"/>
+                    <Matrix tx="-126.55" ty="-193.1"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
@@ -720,9 +857,9 @@
             </DOMFrame>
             <DOMFrame index="320" duration="3" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-3-2.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-32.png">
                   <matrix>
-                    <Matrix tx="-107" ty="-107"/>
+                    <Matrix tx="-126.1" ty="-192.65"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
@@ -732,9 +869,9 @@
             </DOMFrame>
             <DOMFrame index="330" duration="3" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-3-3.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-33.png">
                   <matrix>
-                    <Matrix tx="-107" ty="-107"/>
+                    <Matrix tx="-127.65" ty="-189.6"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
@@ -744,9 +881,9 @@
             </DOMFrame>
             <DOMFrame index="340" duration="3" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-3-4.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-34.png">
                   <matrix>
-                    <Matrix tx="-104.75" ty="-103.45"/>
+                    <Matrix tx="-127.15" ty="-186.05"/>
                   </matrix>
                 </DOMBitmapInstance>
               </elements>
@@ -756,10 +893,13 @@
             </DOMFrame>
             <DOMFrame index="410" duration="3" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-plot-4-1.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-41.png">
                   <matrix>
-                    <Matrix tx="-107" ty="-107"/>
+                    <Matrix a="0.79998779296875" d="0.79998779296875" tx="-102.05" ty="-142.65"/>
                   </matrix>
+                  <transformationPoint>
+                    <Point x="128" y="128"/>
+                  </transformationPoint>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
@@ -768,15 +908,13 @@
             </DOMFrame>
             <DOMFrame index="420" duration="3" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-plot-4-2.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-41.png">
                   <matrix>
-                    <Matrix tx="-72.5" ty="-158.75"/>
+                    <Matrix a="0.900009155273438" d="0.900009155273438" tx="-114.85" ty="-155.45"/>
                   </matrix>
-                </DOMBitmapInstance>
-                <DOMBitmapInstance libraryItemName="images/building-top-4-2.png">
-                  <matrix>
-                    <Matrix tx="-107" ty="-107"/>
-                  </matrix>
+                  <transformationPoint>
+                    <Point x="128" y="128"/>
+                  </transformationPoint>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
@@ -785,15 +923,13 @@
             </DOMFrame>
             <DOMFrame index="430" duration="3" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-plot-4-3.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-41.png">
                   <matrix>
-                    <Matrix tx="-72.5" ty="-152"/>
+                    <Matrix a="0.999984741210938" d="0.999984741210938" tx="-127.65" ty="-168.25"/>
                   </matrix>
-                </DOMBitmapInstance>
-                <DOMBitmapInstance libraryItemName="images/building-top-4-3.png">
-                  <matrix>
-                    <Matrix tx="-107" ty="-107"/>
-                  </matrix>
+                  <transformationPoint>
+                    <Point x="128" y="128"/>
+                  </transformationPoint>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
@@ -802,18 +938,17 @@
             </DOMFrame>
             <DOMFrame index="440" duration="3" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/building-plot-4-4.png">
+                <DOMBitmapInstance libraryItemName="images/buildings/building-41.png">
                   <matrix>
-                    <Matrix tx="-107" ty="-107"/>
+                    <Matrix a="1.10000610351563" d="1.10000610351563" tx="-140.45" ty="-181.05"/>
                   </matrix>
+                  <transformationPoint>
+                    <Point x="128" y="128"/>
+                  </transformationPoint>
                 </DOMBitmapInstance>
               </elements>
             </DOMFrame>
-          </frames>
-        </DOMLayer>
-        <DOMLayer name="building-plot.png" color="#FF4FFF" autoNamed="false">
-          <frames>
-            <DOMFrame index="0" duration="443" keyMode="9728">
+            <DOMFrame index="443" duration="3" keyMode="9728">
               <elements/>
             </DOMFrame>
           </frames>

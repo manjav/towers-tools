@@ -100,7 +100,7 @@
     <IncludeXMP>1</IncludeXMP>
     <HardwareAcceleration>0</HardwareAcceleration>
     <AS3Flags>4102</AS3Flags>
-    <DefaultLibraryLinkage>rsl</DefaultLibraryLinkage>
+    <DefaultLibraryLinkage>merge</DefaultLibraryLinkage>
     <RSLPreloaderMethod>wrap</RSLPreloaderMethod>
     <RSLPreloaderSWF>$(AppConfig)/ActionScript 3.0/rsls/loader_animation.swf</RSLPreloaderSWF>
     <LibraryPath>
@@ -110,13 +110,13 @@
       </library-path-entry>
       <library-path-entry>
         <swc-path>$(AppConfig)/ActionScript 3.0/libs/11.0/textLayout.swc</swc-path>
-        <linkage usesDefault="true">rsl</linkage>
+        <linkage usesDefault="true">merge</linkage>
         <rsl-url>http://fpdownload.adobe.com/pub/swz/tlf/2.0.0.232/textLayout_2.0.0.232.swz</rsl-url>
         <policy-file-url>http://fpdownload.adobe.com/pub/swz/crossdomain.xml</policy-file-url>
         <rsl-url>textLayout_2.0.0.232.swz</rsl-url>
       </library-path-entry>
       <library-path-entry>
-        <swc-path>C:\_projects\towers-projects\Towers-core\source\bin\flash\core.swc</swc-path>
+        <swc-path>C:\Users\Babak\Documents\Workspace\Towers\Towers-core\source\bin\flash\core.swc</swc-path>
         <linkage>merge</linkage>
       </library-path-entry>
     </LibraryPath>
