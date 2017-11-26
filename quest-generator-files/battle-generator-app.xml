@@ -16,8 +16,8 @@
     <fullScreen>false</fullScreen>
     <aspectRatio>portrait</aspectRatio>
     <renderMode>auto</renderMode>
-    <width>640</width>
-    <height>1050</height>
+    <width>400</width>
+    <height>700</height>
     <y>0</y>
     <maximizable>true</maximizable>
     <minimizable>true</minimizable>
