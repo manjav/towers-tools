@@ -1,8 +1,8 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="place_mc" itemID="5936f750-00000ae9" linkageExportForAS="true" linkageClassName="com.gt.towers.editor.PlaceComponent" lastModified="1511279429" lastUniqueIdentifier="12">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="place_mc" itemID="5936f750-00000ae9" linkageExportForAS="true" linkageClassName="com.gt.towers.editor.PlaceComponent" lastModified="1513155668" lastUniqueIdentifier="13">
   <timeline>
     <DOMTimeline name="place_mc">
       <layers>
-        <DOMLayer name="tutor_btn" color="#9933CC" autoNamed="false">
+        <DOMLayer name="tutor_btn" color="#9933CC" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -22,6 +22,14 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="num_input" name="type_input" selected="true" centerPoint3DX="106.45" centerPoint3DY="-8.35">
+                  <matrix>
+                    <Matrix tx="92.1" ty="-22.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
               </elements>
             </DOMFrame>
           </frames>
@@ -29,16 +37,7 @@
         <DOMLayer name="type_btn" color="#FF800A" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="num_btn" name="type_btn" centerPoint3DX="115.2" centerPoint3DY="-4.55">
-                  <matrix>
-                    <Matrix tx="100.85" ty="-18.8"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-              </elements>
+              <elements/>
             </DOMFrame>
           </frames>
         </DOMLayer>
@@ -79,7 +78,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="body" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="body" color="#4FFF4F" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
