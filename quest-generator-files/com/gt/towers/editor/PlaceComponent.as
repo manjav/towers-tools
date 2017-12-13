@@ -93,7 +93,7 @@
 			level_btn.txt.text = "L:" + improveLevel;
 			//tutor_input.txt.text = "S:" + tutorIndex;
 			enabled_btn.txt.text = enabled ? "E" : "D";
-			//body_mc.gotoAndStop(type*10 + (troopType+2));
+			body_mc.gotoAndStop((troopType+2));
 			tutor_input.alpha = tutorIndex == -3 ? 0.3 : 1;
 			var isDefensive:Boolean = (CardTypes.get_category(type) == CardTypes.C500);
 			radius_mc.visible = isDefensive;

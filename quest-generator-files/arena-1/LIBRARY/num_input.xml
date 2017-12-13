@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="num_input" itemID="595a2711-000002b2" lastModified="1499755959">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="num_input" itemID="595a2711-000002b2" lastModified="1513155656">
   <timeline>
     <DOMTimeline name="num_input">
       <layers>
@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMInputText name="txt" fontRenderingMode="device" width="43.05" height="24.55" border="true">
+                <DOMInputText name="txt" fontRenderingMode="device" width="51.8" height="24.55" border="true">
                   <matrix>
                     <Matrix tx="-20.15" ty="-12.25"/>
                   </matrix>

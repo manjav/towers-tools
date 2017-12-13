@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMBitmapInstance libraryItemName="images/damage-range.png">
+                <DOMBitmapInstance libraryItemName="images/damage-range.png copy">
                   <matrix>
                     <Matrix d="0.699996948242188" tx="-100" ty="-70"/>
                   </matrix>

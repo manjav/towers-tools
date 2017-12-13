@@ -1,6 +1,6 @@
 <DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="building-body" itemID="59384391-00000463" lastModified="1511597497">
   <timeline>
-    <DOMTimeline name="building-body" currentFrame="141">
+    <DOMTimeline name="building-body">
       <layers>
         <DOMLayer name="Layer 2" color="#9933CC">
           <frames>
@@ -22,7 +22,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-1-0.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-1-0.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
                         </matrix>
@@ -40,7 +40,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-1-1.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-1-1.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
                         </matrix>
@@ -64,7 +64,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-1-0.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-1-0.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
                         </matrix>
@@ -82,7 +82,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-1-1.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-1-1.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
                         </matrix>
@@ -106,7 +106,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-1-0.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-1-0.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
                         </matrix>
@@ -124,7 +124,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-1-1.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-1-1.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
                         </matrix>
@@ -148,7 +148,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-1-0.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-1-0.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
                         </matrix>
@@ -166,7 +166,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-1-1.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-1-1.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
                         </matrix>
@@ -190,7 +190,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-1-0.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-1-0.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
                         </matrix>
@@ -208,7 +208,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-1-1.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-1-1.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
                         </matrix>
@@ -229,7 +229,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-11-0.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-11-0.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-127.15" ty="-151.5"/>
                         </matrix>
@@ -247,7 +247,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-11-1.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-11-1.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-127.15" ty="-151.5"/>
                         </matrix>
@@ -268,7 +268,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-12-0.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-12-0.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-127.15" ty="-150"/>
                         </matrix>
@@ -286,7 +286,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-12-1.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-12-1.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-127.15" ty="-149.45"/>
                         </matrix>
@@ -307,7 +307,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-13-0.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-13-0.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-127.65" ty="-149"/>
                         </matrix>
@@ -325,7 +325,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-13-1.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-13-1.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-127.65" ty="-149"/>
                         </matrix>
@@ -346,7 +346,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-14-0.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-14-0.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-125.1" ty="-138.85"/>
                         </matrix>
@@ -364,7 +364,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-14-1.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-14-1.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-125.1" ty="-139.1"/>
                         </matrix>
@@ -385,7 +385,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-21-0.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-21-0.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-128.15" ty="-147.35"/>
                         </matrix>
@@ -403,7 +403,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-21-1.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-21-1.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-128.15" ty="-147.35"/>
                         </matrix>
@@ -424,7 +424,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-22-0.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-22-0.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-127.65" ty="-139.05"/>
                         </matrix>
@@ -442,7 +442,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-22-1.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-22-1.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-127.65" ty="-139.05"/>
                         </matrix>
@@ -463,7 +463,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-23-0.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-23-0.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-127.1" ty="-138.55"/>
                         </matrix>
@@ -481,7 +481,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-23-1.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-23-1.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-127.1" ty="-138.55"/>
                         </matrix>
@@ -502,7 +502,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-24-0.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-24-0.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-127.65" ty="-142.15"/>
                         </matrix>
@@ -520,7 +520,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-24-1.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-24-1.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-127.65" ty="-142.15"/>
                         </matrix>
@@ -541,7 +541,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-31-0.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-31-0.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-126.55" ty="-152.5"/>
                         </matrix>
@@ -559,7 +559,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-31-1.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-31-1.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-126.55" ty="-152.5"/>
                         </matrix>
@@ -580,7 +580,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-32-0.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-32-0.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-126.1" ty="-152.05"/>
                         </matrix>
@@ -598,7 +598,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-32-1.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-32-1.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-126.1" ty="-152.05"/>
                         </matrix>
@@ -619,7 +619,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-33-0.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-33-0.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-127.65" ty="-149"/>
                         </matrix>
@@ -637,7 +637,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-33-1.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-33-1.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-127.65" ty="-149"/>
                         </matrix>
@@ -658,7 +658,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-34-0.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-34-0.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-127.15" ty="-145.45"/>
                         </matrix>
@@ -676,7 +676,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-34-1.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-34-1.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-127.15" ty="-145.45"/>
                         </matrix>
@@ -697,7 +697,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-41-0.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-41-0.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="15.999755859375" d="15.999755859375" tx="-102.05" ty="-102.05"/>
                         </matrix>
@@ -715,7 +715,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-41-1.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-41-1.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="15.999755859375" d="15.999755859375" tx="-102.05" ty="-102.05"/>
                         </matrix>
@@ -739,7 +739,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-41-0.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-41-0.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="18.0001831054688" d="18.0001831054688" tx="-114.85" ty="-114.85"/>
                         </matrix>
@@ -757,7 +757,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-41-1.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-41-1.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="18.0001831054688" d="18.0001831054688" tx="-114.85" ty="-114.85"/>
                         </matrix>
@@ -781,7 +781,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-41-0.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-41-0.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-127.65" ty="-127.65"/>
                         </matrix>
@@ -799,7 +799,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-41-1.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-41-1.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-127.65" ty="-127.65"/>
                         </matrix>
@@ -823,7 +823,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-41-0.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-41-0.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="22.0001220703125" d="22.0001220703125" tx="-140.45" ty="-140.45"/>
                         </matrix>
@@ -841,7 +841,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-41-1.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-41-1.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="22.0001220703125" d="22.0001220703125" tx="-140.45" ty="-140.45"/>
                         </matrix>
@@ -866,7 +866,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-1.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-1.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
                         </matrix>
@@ -874,7 +874,7 @@
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle0="1" edges="!-2511 -1396S1|-2511 2140!-2511 2140|2609 2140!2609 2140|2609 -1396!2609 -1396|-2511 -1396"/>
+                    <Edge fillStyle0="1" edges="!2609 2140S1|2609 -1396!2609 -1396|-2511 -1396!-2511 -1396|-2511 2140!-2511 2140|2609 2140"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -884,7 +884,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-1.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-1.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
                         </matrix>
@@ -902,7 +902,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-1.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-1.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
                         </matrix>
@@ -923,7 +923,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-1.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-1.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
                         </matrix>
@@ -941,7 +941,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-1.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-1.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
                         </matrix>
@@ -959,7 +959,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-1.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-1.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
                         </matrix>
@@ -980,7 +980,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-1.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-1.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
                         </matrix>
@@ -998,7 +998,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-1.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-1.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
                         </matrix>
@@ -1016,7 +1016,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-1.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-1.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
                         </matrix>
@@ -1037,7 +1037,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-1.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-1.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
                         </matrix>
@@ -1055,7 +1055,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-1.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-1.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
                         </matrix>
@@ -1073,7 +1073,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-1.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-1.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
                         </matrix>
@@ -1094,7 +1094,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-1.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-1.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
                         </matrix>
@@ -1112,7 +1112,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-1.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-1.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
                         </matrix>
@@ -1130,7 +1130,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-1.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-1.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
                         </matrix>
@@ -1151,7 +1151,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-11.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-11.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-127.15" ty="-151.5"/>
                         </matrix>
@@ -1169,7 +1169,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-11.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-11.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-127.15" ty="-151.5"/>
                         </matrix>
@@ -1187,7 +1187,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-11.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-11.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-127.15" ty="-151.5"/>
                         </matrix>
@@ -1208,7 +1208,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-12.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-12.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-127.15" ty="-149"/>
                         </matrix>
@@ -1226,7 +1226,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-12.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-12.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-127.15" ty="-149"/>
                         </matrix>
@@ -1244,7 +1244,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-12.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-12.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-127.15" ty="-149"/>
                         </matrix>
@@ -1265,7 +1265,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-13.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-13.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-127.65" ty="-149"/>
                         </matrix>
@@ -1283,7 +1283,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-13.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-13.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-127.65" ty="-149"/>
                         </matrix>
@@ -1301,7 +1301,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-13.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-13.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-127.65" ty="-149"/>
                         </matrix>
@@ -1322,7 +1322,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-14.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-14.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-125.1" ty="-138.85"/>
                         </matrix>
@@ -1340,7 +1340,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-14.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-14.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-125.1" ty="-138.85"/>
                         </matrix>
@@ -1358,7 +1358,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-14.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-14.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-125.1" ty="-138.85"/>
                         </matrix>
@@ -1379,7 +1379,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-21.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-21.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-128.15" ty="-147.35"/>
                         </matrix>
@@ -1397,7 +1397,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-21.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-21.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-128.15" ty="-147.35"/>
                         </matrix>
@@ -1415,7 +1415,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-21.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-21.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-128.15" ty="-147.35"/>
                         </matrix>
@@ -1436,7 +1436,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-22.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-22.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-127.65" ty="-139.05"/>
                         </matrix>
@@ -1457,7 +1457,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-23.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-23.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-127.1" ty="-138.55"/>
                         </matrix>
@@ -1478,7 +1478,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-24.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-24.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-127.65" ty="-142.15"/>
                         </matrix>
@@ -1499,7 +1499,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-31.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-31.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-126.55" ty="-152.5"/>
                         </matrix>
@@ -1520,7 +1520,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-32.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-32.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-126.1" ty="-152.05"/>
                         </matrix>
@@ -1541,7 +1541,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-33.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-33.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-127.65" ty="-149"/>
                         </matrix>
@@ -1562,7 +1562,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-34.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-34.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="20" d="20" tx="-127.15" ty="-145.45"/>
                         </matrix>
@@ -1583,7 +1583,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-41.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-41.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="15.999755859375" d="15.999755859375" tx="-102.05" ty="-102.05"/>
                         </matrix>
@@ -1604,7 +1604,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-41.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-41.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="18.0001831054688" d="18.0001831054688" tx="-114.85" ty="-114.85"/>
                         </matrix>
@@ -1625,7 +1625,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-41.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-41.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="19.9996948242188" d="19.9996948242188" tx="-127.65" ty="-127.65"/>
                         </matrix>
@@ -1646,7 +1646,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="images/buildings/building-41.png" bitmapIsClipped="false">
+                      <BitmapFill bitmapPath="images/buildings/building-41.png copy" bitmapIsClipped="false">
                         <matrix>
                           <Matrix a="22.0001220703125" d="22.0001220703125" tx="-140.45" ty="-140.45"/>
                         </matrix>
