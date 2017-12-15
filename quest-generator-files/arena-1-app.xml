@@ -17,11 +17,11 @@
     <aspectRatio>portrait</aspectRatio>
     <renderMode>auto</renderMode>
     <width>400</width>
-    <height>700</height>
+    <height>722</height>
     <maximizable>true</maximizable>
     <minimizable>true</minimizable>
     <resizable>true</resizable>
-  </initialWindow>
+    <y>12</y></initialWindow>
   <icon/>
   <customUpdateUI>false</customUpdateUI>
   <allowBrowserInvocation>false</allowBrowserInvocation>
