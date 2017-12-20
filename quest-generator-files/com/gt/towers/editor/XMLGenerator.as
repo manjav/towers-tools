@@ -26,9 +26,9 @@
 		private var linksContainer:Sprite;
 		private var questClassStr:String;
 		
-		public var start_check:CheckBox;
-		public var intro_check:CheckBox;
-		public var final_check:CheckBox;
+		//public var start_check:CheckBox;
+		//public var intro_check:CheckBox;
+		//public var final_check:CheckBox;
 		
 		public function XMLGenerator()
 		{
@@ -66,14 +66,14 @@
 		private function scene_btn_clickHandler(event:MouseEvent):void
 		{
 			var sceneIndex:int = getSceneIndex();
-			if(event.currentTarget == next_btn)
+			if( event.currentTarget == next_btn )
 			{
-				if(sceneIndex < scenes.length-1)
+				if( sceneIndex < scenes.length-1 )
 					nextScene();
 			}
 			else
 			{
-				if(sceneIndex > 0)
+				if( sceneIndex > 0 )
 					prevScene();
 			}
 			resetPlaces();
@@ -136,10 +136,10 @@
 			
 			resetPlaces();
 			
-			if(start_check)
-				start_check.selected = json.hasStart;
-			intro_check.selected = json.hasIntro;
-			final_check.selected = json.hasFinal;
+			//if(start_check)
+			//	start_check.selected = json.hasStart;
+			//intro_check.selected = json.hasIntro;
+			//final_check.selected = json.hasFinal;
 			
 			if(json.times)
 			for (var t:int=0; t < json.times.length; t++)
@@ -246,10 +246,10 @@
 			var sceneIndex:int = getSceneIndex();
 			var sceneData:Object = new Object();
 			sceneData.name = currentScene.name;
-			if (start_check)
-				sceneData.hasStart = start_check.selected;
-			sceneData.hasIntro = intro_check.selected;
-			sceneData.hasFinal = final_check.selected;
+			//if (start_check)
+			//	sceneData.hasStart = start_check.selected;
+			//sceneData.hasIntro = intro_check.selected;
+			//sceneData.hasFinal = final_check.selected;
 			
 			sceneData.times = times;
 			
