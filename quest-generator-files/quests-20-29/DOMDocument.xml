@@ -1,4 +1,4 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1080" height="1920" currentTimeline="7" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" objectsSnapTo="false" viewAngle3D="91.258197287559" nextSceneIdentifier="14" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1080" height="1920" currentTimeline="10" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" objectsSnapTo="false" viewAngle3D="91.258197287559" nextSceneIdentifier="14" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false">
      <folders>
           <DOMFolderItem name="Component Assets" itemID="44e488a0-000016d6"/>
           <DOMFolderItem name="Component Assets/_private" itemID="4573a4bc-000003c6"/>
@@ -52,10 +52,10 @@
           <DOMBitmapItem name="images/buildings/building-41-1.png" itemID="5a145954-00000800" sourceExternalFilepath="Desktop/building-41/building-41/building-41-1.png" sourceLastImported="1511195330" originalCompressionType="lossless" quality="50" href="images/buildings/building-41-1.png" bitmapDataHRef="M 28 1511950417.dat" frameRight="5120" frameBottom="5120"/>
           <DOMBitmapItem name="images/building-plot.png" itemID="5a14403e-00000379" sourceExternalFilepath="../battle-generator/LIBRARY/images/building-plot.png" sourceLastImported="1510074888" originalCompressionType="lossless" quality="50" href="images/building-plot.png" bitmapDataHRef="M 52 1511943993.dat" frameRight="4440" frameBottom="3320"/>
           <DOMBitmapItem name="images/bush-0.png" itemID="5a324912-00000651" sourceExternalFilepath="./LIBRARY/images/bush-0.png" sourceLastImported="1511275569" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/bush-0.png" bitmapDataHRef="M 89 1513244696.dat" frameRight="1720" frameBottom="1060"/>
-          <DOMBitmapItem name="images/bush-2.png" itemID="5a14403e-0000037d" sourceExternalFilepath="../battle-generator/LIBRARY/images/bush-2.png" sourceLastImported="1511275577" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/bush-2.png" bitmapDataHRef="M 63 1511950207.dat" frameRight="700" frameBottom="740"/>
+          <DOMBitmapItem name="images/bush-2.png" itemID="5a14403e-0000037d" sourceExternalFilepath="../battle-generator/LIBRARY/images/bush-2.png" sourceLastImported="1511275577" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/bush-2.png" bitmapDataHRef="M 63 1511950207.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
           <DOMBitmapItem name="images/bush-3.png" itemID="5a153101-0000070d" sourceExternalFilepath="../quest-generator/LIBRARY/bush-3.png" sourceLastImported="1511338000" originalCompressionType="lossless" quality="50" href="images/bush-3.png" bitmapDataHRef="M 53 1511950417.dat" frameRight="980" frameBottom="860"/>
           <DOMBitmapItem name="images/bush-4.png" itemID="5a324912-00000655" sourceExternalFilepath="./LIBRARY/images/bush-4.png" sourceLastImported="1511275427" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/bush-4.png" bitmapDataHRef="M 93 1513244696.dat" frameRight="1120" frameBottom="1280"/>
-          <DOMBitmapItem name="images/bush-5.png" itemID="5a14403e-0000037f" sourceExternalFilepath="../battle-generator/LIBRARY/images/bush-5.png" sourceLastImported="1511275535" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/bush-5.png" bitmapDataHRef="M 59 1511950503.dat" frameRight="700" frameBottom="760"/>
+          <DOMBitmapItem name="images/bush-5.png" itemID="5a14403e-0000037f" sourceExternalFilepath="../battle-generator/LIBRARY/images/bush-5.png" sourceLastImported="1511275535" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/bush-5.png" bitmapDataHRef="M 59 1511950503.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
           <DOMBitmapItem name="images/bush-6.png" itemID="5a14403e-00000380" sourceExternalFilepath="../battle-generator/LIBRARY/images/bush-6.png" sourceLastImported="1511275552" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/bush-6.png" bitmapDataHRef="M 56 1511950417.dat" frameRight="1020" frameBottom="840"/>
           <DOMBitmapItem name="images/bush-7.png" itemID="5a324912-00000658" sourceExternalFilepath="./LIBRARY/images/bush-7.png" sourceLastImported="1511275543" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/bush-7.png" bitmapDataHRef="M 96 1513244696.dat" frameRight="620" frameBottom="560"/>
           <DOMBitmapItem name="images/chair-0.png" itemID="5a14403e-00000382" sourceExternalFilepath="../battle-generator/LIBRARY/images/chair-0.png" sourceLastImported="1511275310" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/chair-0.png" bitmapDataHRef="M 49 1511950417.dat" frameRight="800" frameBottom="740"/>
@@ -153,21 +153,21 @@
           </DOMCompiledClipItem>
           <DOMBitmapItem name="images/damage-range.png" itemID="5a324913-0000065b" sourceExternalFilepath="./LIBRARY/images/damage-range.png" sourceLastImported="1496590666" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/damage-range.png" bitmapDataHRef="M 104 1513244696.dat" frameRight="4000" frameBottom="4000"/>
           <DOMBitmapItem name="images/ground-228.png" itemID="5939b72c-00000337" sourceExternalFilepath="../quest-generator/LIBRARY/images/ground-228.png" sourceLastImported="1496651187" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/ground-228.png" bitmapDataHRef="M 57 1511950417.dat" frameRight="4560" frameBottom="4560"/>
-          <DOMBitmapItem name="images/hole-0.png" itemID="5a14403e-00000388" sourceExternalFilepath="../battle-generator/LIBRARY/images/hole-0.png" sourceLastImported="1511275560" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/hole-0.png" bitmapDataHRef="M 53 1511950021.dat" frameRight="2800" frameBottom="2740"/>
-          <DOMBitmapItem name="images/hole-1.png" itemID="5a14403e-00000389" sourceExternalFilepath="../battle-generator/LIBRARY/images/hole-1.png" sourceLastImported="1511275370" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/hole-1.png" bitmapDataHRef="M 61 1511950584.dat" frameRight="1940" frameBottom="700"/>
-          <DOMBitmapItem name="images/hole-2.png" itemID="5a14403e-0000038a" sourceExternalFilepath="../battle-generator/LIBRARY/images/hole-2.png" sourceLastImported="1511275300" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/hole-2.png" bitmapDataHRef="M 58 1511950503.dat" frameRight="1660" frameBottom="1580"/>
-          <DOMBitmapItem name="images/hut-0.png" itemID="5a14403e-0000038b" sourceExternalFilepath="../battle-generator/LIBRARY/images/hut-0.png" sourceLastImported="1511275380" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/hut-0.png" bitmapDataHRef="M 60 1511944339.dat" frameRight="3340" frameBottom="2060"/>
+          <DOMBitmapItem name="images/hole-0.png" itemID="5a14403e-00000388" sourceExternalFilepath="../battle-generator/LIBRARY/images/hole-0.png" sourceLastImported="1511275560" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/hole-0.png" bitmapDataHRef="M 53 1511950021.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="images/hole-1.png" itemID="5a14403e-00000389" sourceExternalFilepath="../battle-generator/LIBRARY/images/hole-1.png" sourceLastImported="1511275370" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/hole-1.png" bitmapDataHRef="M 61 1511950584.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="images/hole-2.png" itemID="5a14403e-0000038a" sourceExternalFilepath="../battle-generator/LIBRARY/images/hole-2.png" sourceLastImported="1511275300" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/hole-2.png" bitmapDataHRef="M 58 1511950503.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="images/hut-0.png" itemID="5a14403e-0000038b" sourceExternalFilepath="../battle-generator/LIBRARY/images/hut-0.png" sourceLastImported="1511275380" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/hut-0.png" bitmapDataHRef="M 60 1511944339.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
           <DOMBitmapItem name="images/road-h.png" itemID="5a324913-00000664" sourceExternalFilepath="./LIBRARY/images/road-h.png" sourceLastImported="1497024148" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/road-h.png" bitmapDataHRef="M 118 1513244697.dat" frameRight="8300" frameBottom="1580"/>
           <DOMBitmapItem name="images/road-v.png" itemID="5a324913-00000665" sourceExternalFilepath="./LIBRARY/images/road-v.png" sourceLastImported="1513243288" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/road-v.png" bitmapDataHRef="M 119 1513244697.dat" frameRight="1780" frameBottom="8060"/>
           <DOMBitmapItem name="images/rock-0.png" itemID="5a324913-00000666" sourceExternalFilepath="./LIBRARY/images/rock-0.png" sourceLastImported="1511275479" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/rock-0.png" bitmapDataHRef="M 72 1513351068.dat" frameRight="1700" frameBottom="1320"/>
-          <DOMBitmapItem name="images/rock-1.png" itemID="5a14403e-00000395" sourceExternalFilepath="../battle-generator/LIBRARY/images/rock-1.png" sourceLastImported="1511275445" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/rock-1.png" bitmapDataHRef="M 62 1511950631.dat" frameRight="1300" frameBottom="1160"/>
-          <DOMBitmapItem name="images/rock-4.png" itemID="5a14403e-00000396" sourceExternalFilepath="../battle-generator/LIBRARY/images/rock-4.png" sourceLastImported="1511275471" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/rock-4.png" bitmapDataHRef="M 59 1511950048.dat" frameRight="1720" frameBottom="1860"/>
-          <DOMBitmapItem name="images/rock-5.png" itemID="5a14403e-00000397" sourceExternalFilepath="../battle-generator/LIBRARY/images/rock-5.png" sourceLastImported="1511275462" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/rock-5.png" bitmapDataHRef="M 60 1511950561.dat" frameRight="1520" frameBottom="1700"/>
+          <DOMBitmapItem name="images/rock-1.png" itemID="5a14403e-00000395" sourceExternalFilepath="../battle-generator/LIBRARY/images/rock-1.png" sourceLastImported="1511275445" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/rock-1.png" bitmapDataHRef="M 62 1511950631.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="images/rock-4.png" itemID="5a14403e-00000396" sourceExternalFilepath="../battle-generator/LIBRARY/images/rock-4.png" sourceLastImported="1511275471" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/rock-4.png" bitmapDataHRef="M 59 1511950048.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="images/rock-5.png" itemID="5a14403e-00000397" sourceExternalFilepath="../battle-generator/LIBRARY/images/rock-5.png" sourceLastImported="1511275462" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/rock-5.png" bitmapDataHRef="M 60 1511950561.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
           <DOMBitmapItem name="images/tree-0.png" itemID="5a324913-0000066e" sourceExternalFilepath="./LIBRARY/images/tree-0.png" sourceLastImported="1513244563" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/tree-0.png" bitmapDataHRef="M 84 1513244696.dat" frameRight="2180" frameBottom="2240"/>
-          <DOMBitmapItem name="images/tree-1.png" itemID="5a324913-0000066f" sourceExternalFilepath="./LIBRARY/images/tree-1.png" sourceLastImported="1513244564" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/tree-1.png" bitmapDataHRef="M 85 1513244696.dat" frameRight="1780" frameBottom="1820"/>
-          <DOMBitmapItem name="images/tree-2.png" itemID="5a324913-00000670" sourceExternalFilepath="./LIBRARY/images/tree-2.png" sourceLastImported="1513244564" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/tree-2.png" bitmapDataHRef="M 86 1513244696.dat" frameRight="1260" frameBottom="1260"/>
-          <DOMBitmapItem name="images/tree-3.png" itemID="5a324c05-000006d2" sourceExternalFilepath="./LIBRARY/images/tree-3.png" sourceLastImported="1513245572" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/tree-3.png" bitmapDataHRef="M 124 1513245586.dat" frameRight="1940" frameBottom="1860"/>
-          <DOMBitmapItem name="images/tree-4.png" itemID="5a324c05-000006d3" sourceExternalFilepath="./LIBRARY/images/tree-4.png" sourceLastImported="1513245572" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/tree-4.png" bitmapDataHRef="M 123 1513245586.dat" frameRight="1760" frameBottom="1720"/>
+          <DOMBitmapItem name="images/tree-1.png" itemID="5a324913-0000066f" sourceExternalFilepath="./LIBRARY/images/tree-1.png" sourceLastImported="1513244564" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/tree-1.png" bitmapDataHRef="M 85 1513244696.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="images/tree-2.png" itemID="5a324913-00000670" sourceExternalFilepath="./LIBRARY/images/tree-2.png" sourceLastImported="1513244564" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/tree-2.png" bitmapDataHRef="M 86 1513244696.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="images/tree-3.png" itemID="5a324c05-000006d2" sourceExternalFilepath="./LIBRARY/images/tree-3.png" sourceLastImported="1513245572" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/tree-3.png" bitmapDataHRef="M 124 1513245586.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="images/tree-4.png" itemID="5a324c05-000006d3" sourceExternalFilepath="./LIBRARY/images/tree-4.png" sourceLastImported="1513245572" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/tree-4.png" bitmapDataHRef="M 123 1513245586.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
      </media>
      <symbols>
           <Include href="arrow_btn.xml" loadImmediate="false" itemID="5937b4f1-000001f7" lastModified="1496826979"/>
@@ -348,7 +348,7 @@
                                              <transformationPoint>
                                                   <Point x="50" y="11"/>
                                              </transformationPoint>
-                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='quest_26' oldCopiedComponentPath=''>
+                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='quest_29' oldCopiedComponentPath=''>
 </component>
 ]]></dataBindingXML>
                                              <parametersAsXML><![CDATA[   <property id="enabled">
@@ -375,7 +375,7 @@
                                              <transformationPoint>
                                                   <Point x="50" y="11"/>
                                              </transformationPoint>
-                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='quest_26' oldCopiedComponentPath=''>
+                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='quest_29' oldCopiedComponentPath=''>
 </component>
 ]]></dataBindingXML>
                                              <parametersAsXML><![CDATA[   <property id="enabled">
@@ -496,7 +496,7 @@
                                    <elements>
                                         <DOMBitmapInstance libraryItemName="images/road-v.png">
                                              <matrix>
-                                                  <Matrix d="2.46711730957031" tx="225.75" ty="489.15"/>
+                                                  <Matrix d="2.46710205078125" tx="225.75" ty="489.15"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="44.5" y="201.5"/>
@@ -804,7 +804,7 @@
                                         </DOMBitmapInstance>
                                         <DOMBitmapInstance libraryItemName="images/chair-1.png">
                                              <matrix>
-                                                  <Matrix a="1.09254455566406" d="1.09254455566406" tx="480.65" ty="436.7"/>
+                                                  <Matrix a="1.092529296875" d="1.092529296875" tx="480.65" ty="436.7"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="45.05" y="25.05"/>
@@ -894,7 +894,7 @@
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="place_mc" selected="true" centerPoint3DX="345.65" centerPoint3DY="683.25">
+                                        <DOMSymbolInstance libraryItemName="place_mc" centerPoint3DX="345.65" centerPoint3DY="683.25">
                                              <matrix>
                                                   <Matrix tx="295.65" ty="633.25"/>
                                              </matrix>
@@ -995,7 +995,7 @@
                                              <transformationPoint>
                                                   <Point x="50" y="11"/>
                                              </transformationPoint>
-                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='quest_26' oldCopiedComponentPath=''>
+                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='quest_29' oldCopiedComponentPath=''>
 </component>
 ]]></dataBindingXML>
                                              <parametersAsXML><![CDATA[   <property id="enabled">
@@ -1022,7 +1022,7 @@
                                              <transformationPoint>
                                                   <Point x="50" y="11"/>
                                              </transformationPoint>
-                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='quest_26' oldCopiedComponentPath=''>
+                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='quest_29' oldCopiedComponentPath=''>
 </component>
 ]]></dataBindingXML>
                                              <parametersAsXML><![CDATA[   <property id="enabled">
@@ -1282,7 +1282,7 @@
                                         </DOMBitmapInstance>
                                         <DOMBitmapInstance libraryItemName="images/chair-1.png">
                                              <matrix>
-                                                  <Matrix a="1.12568664550781" d="1.12568664550781" tx="611.2" ty="330.4"/>
+                                                  <Matrix a="1.12567138671875" d="1.12567138671875" tx="611.2" ty="330.4"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="45.05" y="25"/>
@@ -1298,7 +1298,7 @@
                                         </DOMBitmapInstance>
                                         <DOMBitmapInstance libraryItemName="images/chair-0.png">
                                              <matrix>
-                                                  <Matrix a="1.12568664550781" d="1.12568664550781" tx="571.1" ty="301.6"/>
+                                                  <Matrix a="1.12567138671875" d="1.12567138671875" tx="571.1" ty="301.6"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="19.55" y="14.5"/>
@@ -1537,7 +1537,7 @@
                                                   <Point x="-1.15" y="-46.25"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="place_mc" selected="true" centerPoint3DX="538.85" centerPoint3DY="362.75">
+                                        <DOMSymbolInstance libraryItemName="place_mc" centerPoint3DX="538.85" centerPoint3DY="362.75">
                                              <matrix>
                                                   <Matrix tx="540" ty="409"/>
                                              </matrix>
@@ -1678,7 +1678,7 @@
                                              <transformationPoint>
                                                   <Point x="50" y="11"/>
                                              </transformationPoint>
-                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='quest_26' oldCopiedComponentPath=''>
+                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='quest_29' oldCopiedComponentPath=''>
 </component>
 ]]></dataBindingXML>
                                              <parametersAsXML><![CDATA[   <property id="enabled">
@@ -1705,7 +1705,7 @@
                                              <transformationPoint>
                                                   <Point x="50" y="11"/>
                                              </transformationPoint>
-                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='quest_26' oldCopiedComponentPath=''>
+                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='quest_29' oldCopiedComponentPath=''>
 </component>
 ]]></dataBindingXML>
                                              <parametersAsXML><![CDATA[   <property id="enabled">
@@ -1853,7 +1853,7 @@
                                                   <Matrix a="0.707305908203125" b="0.706878662109375" c="-0.427764892578125" d="0.427993774414063" tx="724.3" ty="1274.45"/>
                                              </matrix>
                                              <transformationPoint>
-                                                  <Point x="44.6" y="201.4"/>
+                                                  <Point x="44.6" y="201.35"/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
                                         <DOMBitmapInstance libraryItemName="images/road-v.png">
@@ -2117,7 +2117,7 @@
                                              <transformationPoint>
                                                   <Point x="50" y="11"/>
                                              </transformationPoint>
-                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='quest_26' oldCopiedComponentPath=''>
+                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='quest_29' oldCopiedComponentPath=''>
 </component>
 ]]></dataBindingXML>
                                              <parametersAsXML><![CDATA[   <property id="enabled">
@@ -2144,7 +2144,7 @@
                                              <transformationPoint>
                                                   <Point x="50" y="11"/>
                                              </transformationPoint>
-                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='quest_26' oldCopiedComponentPath=''>
+                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='quest_29' oldCopiedComponentPath=''>
 </component>
 ]]></dataBindingXML>
                                              <parametersAsXML><![CDATA[   <property id="enabled">
@@ -2265,7 +2265,7 @@
                                    <elements>
                                         <DOMBitmapInstance libraryItemName="images/road-v.png">
                                              <matrix>
-                                                  <Matrix d="2.05567932128906" tx="775.35" ty="566.55"/>
+                                                  <Matrix d="2.0556640625" tx="775.35" ty="566.55"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="44.5" y="201.5"/>
@@ -2273,7 +2273,7 @@
                                         </DOMBitmapInstance>
                                         <DOMBitmapInstance libraryItemName="images/road-v.png">
                                              <matrix>
-                                                  <Matrix d="2.03053283691406" tx="217.85" ty="575.95"/>
+                                                  <Matrix d="2.030517578125" tx="217.85" ty="575.95"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="44.5" y="201.5"/>
@@ -2431,7 +2431,7 @@
                                                   <Point x="-1.15" y="-46.25"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="place_mc" selected="true" centerPoint3DX="538.85" centerPoint3DY="1454.85">
+                                        <DOMSymbolInstance libraryItemName="place_mc" centerPoint3DX="538.85" centerPoint3DY="1454.85">
                                              <matrix>
                                                   <Matrix tx="540" ty="1501.1"/>
                                              </matrix>
@@ -2564,7 +2564,7 @@
                                              <transformationPoint>
                                                   <Point x="50" y="11"/>
                                              </transformationPoint>
-                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='quest_26' oldCopiedComponentPath=''>
+                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='quest_29' oldCopiedComponentPath=''>
 </component>
 ]]></dataBindingXML>
                                              <parametersAsXML><![CDATA[   <property id="enabled">
@@ -2591,7 +2591,7 @@
                                              <transformationPoint>
                                                   <Point x="50" y="11"/>
                                              </transformationPoint>
-                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='quest_26' oldCopiedComponentPath=''>
+                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='quest_29' oldCopiedComponentPath=''>
 </component>
 ]]></dataBindingXML>
                                              <parametersAsXML><![CDATA[   <property id="enabled">
@@ -3116,7 +3116,7 @@
                                              <transformationPoint>
                                                   <Point x="50" y="11"/>
                                              </transformationPoint>
-                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='quest_26' oldCopiedComponentPath=''>
+                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='quest_29' oldCopiedComponentPath=''>
 </component>
 ]]></dataBindingXML>
                                              <parametersAsXML><![CDATA[   <property id="enabled">
@@ -3143,7 +3143,7 @@
                                              <transformationPoint>
                                                   <Point x="50" y="11"/>
                                              </transformationPoint>
-                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='quest_26' oldCopiedComponentPath=''>
+                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='quest_29' oldCopiedComponentPath=''>
 </component>
 ]]></dataBindingXML>
                                              <parametersAsXML><![CDATA[   <property id="enabled">
@@ -3443,7 +3443,7 @@
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="place_mc" selected="true" centerPoint3DX="590" centerPoint3DY="1263.85">
+                                        <DOMSymbolInstance libraryItemName="place_mc" centerPoint3DX="590" centerPoint3DY="1263.85">
                                              <matrix>
                                                   <Matrix tx="540" ty="1213.85"/>
                                              </matrix>
@@ -3451,7 +3451,7 @@
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="place_mc" selected="true" centerPoint3DX="590" centerPoint3DY="1558.35">
+                                        <DOMSymbolInstance libraryItemName="place_mc" centerPoint3DX="590" centerPoint3DY="1558.35">
                                              <matrix>
                                                   <Matrix tx="540" ty="1508.35"/>
                                              </matrix>
@@ -3475,7 +3475,7 @@
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="place_mc" selected="true" centerPoint3DX="590" centerPoint3DY="915.75">
+                                        <DOMSymbolInstance libraryItemName="place_mc" centerPoint3DX="590" centerPoint3DY="915.75">
                                              <matrix>
                                                   <Matrix tx="540" ty="865.75"/>
                                              </matrix>
@@ -3483,7 +3483,7 @@
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="place_mc" selected="true" centerPoint3DX="590" centerPoint3DY="666.95">
+                                        <DOMSymbolInstance libraryItemName="place_mc" centerPoint3DX="590" centerPoint3DY="666.95">
                                              <matrix>
                                                   <Matrix tx="540" ty="616.95"/>
                                              </matrix>
@@ -3631,7 +3631,7 @@
                                              <transformationPoint>
                                                   <Point x="50" y="11"/>
                                              </transformationPoint>
-                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='quest_26' oldCopiedComponentPath='1'>
+                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='quest_29' oldCopiedComponentPath=''>
 </component>
 ]]></dataBindingXML>
                                              <parametersAsXML><![CDATA[   <property id="enabled">
@@ -3658,7 +3658,7 @@
                                              <transformationPoint>
                                                   <Point x="50" y="11"/>
                                              </transformationPoint>
-                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='quest_26' oldCopiedComponentPath='2'>
+                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='quest_29' oldCopiedComponentPath=''>
 </component>
 ]]></dataBindingXML>
                                              <parametersAsXML><![CDATA[   <property id="enabled">
@@ -4038,7 +4038,7 @@
                                              <transformationPoint>
                                                   <Point x="50" y="11"/>
                                              </transformationPoint>
-                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='quest_26' oldCopiedComponentPath=''>
+                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='quest_29' oldCopiedComponentPath=''>
 </component>
 ]]></dataBindingXML>
                                              <parametersAsXML><![CDATA[   <property id="enabled">
@@ -4065,7 +4065,7 @@
                                              <transformationPoint>
                                                   <Point x="50" y="11"/>
                                              </transformationPoint>
-                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='quest_26' oldCopiedComponentPath=''>
+                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='quest_29' oldCopiedComponentPath=''>
 </component>
 ]]></dataBindingXML>
                                              <parametersAsXML><![CDATA[   <property id="enabled">
@@ -4533,7 +4533,7 @@
                                              <transformationPoint>
                                                   <Point x="50" y="11"/>
                                              </transformationPoint>
-                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='quest_26' oldCopiedComponentPath=''>
+                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='quest_29' oldCopiedComponentPath=''>
 </component>
 ]]></dataBindingXML>
                                              <parametersAsXML><![CDATA[   <property id="enabled">
@@ -4560,7 +4560,7 @@
                                              <transformationPoint>
                                                   <Point x="50" y="11"/>
                                              </transformationPoint>
-                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='quest_26' oldCopiedComponentPath=''>
+                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='quest_29' oldCopiedComponentPath=''>
 </component>
 ]]></dataBindingXML>
                                              <parametersAsXML><![CDATA[   <property id="enabled">
@@ -5044,7 +5044,7 @@
                                              <transformationPoint>
                                                   <Point x="50" y="11"/>
                                              </transformationPoint>
-                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='quest_26' oldCopiedComponentPath=''>
+                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='quest_29' oldCopiedComponentPath='4'>
 </component>
 ]]></dataBindingXML>
                                              <parametersAsXML><![CDATA[   <property id="enabled">
@@ -5071,7 +5071,7 @@
                                              <transformationPoint>
                                                   <Point x="50" y="11"/>
                                              </transformationPoint>
-                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='quest_26' oldCopiedComponentPath=''>
+                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='quest_29' oldCopiedComponentPath='5'>
 </component>
 ]]></dataBindingXML>
                                              <parametersAsXML><![CDATA[   <property id="enabled">
@@ -5359,9 +5359,9 @@
                                                   <Matrix tx="668.15" ty="261.05"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/building-plot.png">
+                                        <DOMBitmapInstance selected="true" libraryItemName="images/building-plot.png">
                                              <matrix>
-                                                  <Matrix a="1.03466796875" tx="425.15" ty="786.6"/>
+                                                  <Matrix a="1.03466796875" tx="425.15" ty="781.95"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="111" y="63"/>
@@ -5397,19 +5397,20 @@
           </DOMTimeline>
      </timelines>
      <persistentData>
-          <PD n="TestMovieChecked" v="ADLDesktop"/>
           <PD n="flash.fla.filepath" v="C:/_projects/towers-projects/Towers-tools/quest-generator-files/quests-20-29/quests-20-29.xfl"/>
+          <PD n="TestMovieChecked" v="ADLDesktop"/>
           <PD n="swf.folder.path" v="C:/_projects/towers-projects/Towers-tools/quest-generator-files/"/>
-          <PD n="com.air.artemis.pubipa" v="false"/>
           <PD n="com.air.artemis.pubcaptive" v="false"/>
+          <PD n="com.air.artemis.pubipa" v="false"/>
           <PD n="com.air.artemis.pubair" v="true"/>
           <PD n="flash.swf.basename" v="quests-20-29"/>
-          <PD n="com.air.artemis.pubexe" v="false"/>
           <PD n="com.air.sdk.path"/>
+          <PD n="com.air.artemis.pubexe" v="false"/>
           <PD n="com.air.artemis.airdest" v="quests-20-29.air"/>
      </persistentData>
      <PrinterSettings/>
      <publishHistory>
+          <PublishItem publishSize="542155" publishTime="1513512019"/>
           <PublishItem publishSize="541669" publishTime="1513437309"/>
           <PublishItem publishSize="562397" publishTime="1513436989"/>
           <PublishItem publishSize="574894" publishTime="1513436917"/>
@@ -5429,7 +5430,6 @@
           <PublishItem publishSize="584501" publishTime="1513432865"/>
           <PublishItem publishSize="584357" publishTime="1513432797"/>
           <PublishItem publishSize="584410" publishTime="1513432702"/>
-          <PublishItem publishSize="584411" publishTime="1513432613"/>
      </publishHistory>
      <swcCache>
           <Swc hashKey="k718tUOF1.A1OSpQnqdJJ0" href="fo41q6cfo.swc">
