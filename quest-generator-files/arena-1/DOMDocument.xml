@@ -164,7 +164,7 @@
      </media>
      <symbols>
           <Include href="arrow_btn.xml" loadImmediate="false" itemID="5937b4f1-000001f7" lastModified="1496826979"/>
-          <Include href="building-body.xml" loadImmediate="false" itemID="59384391-00000463" lastModified="1513354255"/>
+          <Include href="building-body.xml" loadImmediate="false" itemID="59384391-00000463" lastModified="1514048063"/>
           <Include href="CheckBox.xml" itemID="44b19f0d-00000018" lastModified="1497084291"/>
           <Include href="Component Assets/_private/Component_avatar.xml" loadImmediate="false" itemID="44f89322-00000020" lastModified="1168286780"/>
           <Include href="Component Assets/CheckBoxSkins/CheckBox_disabledIcon.xml" itemID="43970702-00000af1" lastModified="1168287061"/>
@@ -179,7 +179,7 @@
           <Include href="Component Assets/Shared/focusRectSkin.xml" itemID="44d8b6f8-00000055" lastModified="1168290361"/>
           <Include href="num_btn.xml" loadImmediate="false" itemID="5936f75d-00000aea" lastModified="1497456646"/>
           <Include href="num_input.xml" loadImmediate="false" itemID="595a2711-000002b2" lastModified="1499755959"/>
-          <Include href="place_mc.xml" itemID="5936f750-00000ae9" lastModified="1513354357"/>
+          <Include href="place_mc.xml" itemID="5936f750-00000ae9" lastModified="1514048099"/>
           <Include href="radius_mc.xml" loadImmediate="false" itemID="5959ff74-000002aa" lastModified="1513251243"/>
           <Include href="simple_btn.xml" loadImmediate="false" itemID="5937c230-00000210" lastModified="1496827068"/>
      </symbols>
@@ -1620,7 +1620,7 @@
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="place_mc" selected="true" centerPoint3DX="789" centerPoint3DY="790">
+                                        <DOMSymbolInstance libraryItemName="place_mc" centerPoint3DX="789" centerPoint3DY="790">
                                              <matrix>
                                                   <Matrix tx="739" ty="740"/>
                                              </matrix>
@@ -3964,7 +3964,7 @@
                                         </DOMBitmapInstance>
                                         <DOMBitmapInstance libraryItemName="images/tree-3.png">
                                              <matrix>
-                                                  <Matrix a="1.24067687988281" d="1.24067687988281" tx="128.05" ty="83.6"/>
+                                                  <Matrix a="1.24066162109375" d="1.24066162109375" tx="128.05" ty="83.6"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="40.5" y="39"/>
@@ -3980,7 +3980,7 @@
                                         </DOMBitmapInstance>
                                         <DOMBitmapInstance libraryItemName="images/tree-3.png">
                                              <matrix>
-                                                  <Matrix a="1.24067687988281" d="1.24067687988281" tx="769.8" ty="129.85"/>
+                                                  <Matrix a="1.24066162109375" d="1.24066162109375" tx="769.8" ty="129.85"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="40.5" y="39"/>
@@ -3988,7 +3988,7 @@
                                         </DOMBitmapInstance>
                                         <DOMBitmapInstance libraryItemName="images/tree-3.png">
                                              <matrix>
-                                                  <Matrix a="1.24067687988281" d="1.24067687988281" tx="920.6" ty="110.25"/>
+                                                  <Matrix a="1.24066162109375" d="1.24066162109375" tx="920.6" ty="110.25"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="40.55" y="38.95"/>
@@ -9113,15 +9113,15 @@
           </DOMTimeline>
      </timelines>
      <persistentData>
-          <PD n="TestMovieChecked" v="ADLDesktop"/>
           <PD n="flash.fla.filepath" v="C:/_projects/towers-projects/Towers-tools/quest-generator-files/arena-1/arena-1.xfl"/>
+          <PD n="TestMovieChecked" v="ADLDesktop"/>
           <PD n="swf.folder.path" v="C:/_projects/towers-projects/Towers-tools/quest-generator-files/"/>
-          <PD n="com.air.artemis.pubipa" v="false"/>
           <PD n="com.air.artemis.pubcaptive" v="false"/>
+          <PD n="com.air.artemis.pubipa" v="false"/>
           <PD n="com.air.artemis.pubair" v="true"/>
           <PD n="flash.swf.basename" v="arena-1"/>
-          <PD n="com.air.artemis.pubexe" v="false"/>
           <PD n="com.air.sdk.path"/>
+          <PD n="com.air.artemis.pubexe" v="false"/>
           <PD n="com.air.artemis.airdest" v="arena-1.air"/>
      </persistentData>
      <PrinterSettings/>

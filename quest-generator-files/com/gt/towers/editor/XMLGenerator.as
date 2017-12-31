@@ -32,6 +32,7 @@
 		
 		public function XMLGenerator()
 		{
+			stop();
 			linksContainer = new Sprite();
 			
 			var dom:File = File.applicationDirectory.resolvePath(loaderInfo.url.substr(5).split(".swf")[0] + "/DOMDocument.xml");
@@ -101,6 +102,7 @@
 		}
 		private function resetPlaces():void
 		{
+			stop();
 			linksContainer.removeChildren();
 			addChildAt(linksContainer, 1);
 			addButtonsListener();

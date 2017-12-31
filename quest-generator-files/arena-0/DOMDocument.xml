@@ -4,7 +4,7 @@
           <DOMFolderItem name="Component Assets/_private" itemID="4573a4bc-000003c6"/>
           <DOMFolderItem name="Component Assets/CheckBoxSkins" itemID="44c9141c-00000113"/>
           <DOMFolderItem name="Component Assets/Shared" itemID="44f892ff-0000001e"/>
-          <DOMFolderItem name="images" itemID="5937cf25-0000023b" isExpanded="true"/>
+          <DOMFolderItem name="images" itemID="5937cf25-0000023b"/>
           <DOMFolderItem name="images/buildings" itemID="5a1e6b88-000002d4"/>
      </folders>
      <media>
@@ -180,7 +180,7 @@
      </media>
      <symbols>
           <Include href="arrow_btn.xml" loadImmediate="false" itemID="5937b4f1-000001f7" lastModified="1496826979"/>
-          <Include href="building-body.xml" loadImmediate="false" itemID="59384391-00000463" lastModified="1511597497"/>
+          <Include href="building-body.xml" loadImmediate="false" itemID="59384391-00000463" lastModified="1514048063"/>
           <Include href="CheckBox.xml" itemID="44b19f0d-00000018" lastModified="1497084291"/>
           <Include href="Component Assets/_private/Component_avatar.xml" loadImmediate="false" itemID="44f89322-00000020" lastModified="1168286780"/>
           <Include href="Component Assets/CheckBoxSkins/CheckBox_disabledIcon.xml" itemID="43970702-00000af1" lastModified="1168287061"/>
@@ -195,7 +195,7 @@
           <Include href="Component Assets/Shared/focusRectSkin.xml" itemID="44d8b6f8-00000055" lastModified="1168290361"/>
           <Include href="num_btn.xml" loadImmediate="false" itemID="5936f75d-00000aea" lastModified="1497456646"/>
           <Include href="num_input.xml" loadImmediate="false" itemID="595a2711-000002b2" lastModified="1499755959"/>
-          <Include href="place_mc.xml" itemID="5936f750-00000ae9" lastModified="1511279429"/>
+          <Include href="place_mc.xml" itemID="5936f750-00000ae9" lastModified="1514048099"/>
           <Include href="radius_mc.xml" loadImmediate="false" itemID="5959ff74-000002aa" lastModified="1513251243"/>
           <Include href="simple_btn.xml" loadImmediate="false" itemID="5937c230-00000210" lastModified="1496827068"/>
      </symbols>
@@ -506,7 +506,7 @@
                                         </DOMBitmapInstance>
                                         <DOMBitmapInstance libraryItemName="images/rock-0.png">
                                              <matrix>
-                                                  <Matrix a="1.17105102539063" b="-0.460311889648438" c="0.539093017578125" d="1.37147521972656" tx="334.05" ty="1399.2"/>
+                                                  <Matrix a="1.17105102539063" b="-0.460311889648438" c="0.539093017578125" d="1.3714599609375" tx="334.05" ty="1399.2"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="39.5" y="17.5"/>
@@ -1414,15 +1414,15 @@
           </DOMTimeline>
      </timelines>
      <persistentData>
-          <PD n="flash.fla.filepath" v="C:/_projects/towers-projects/Towers-tools/quest-generator-files/arena-0/arena-0.xfl"/>
           <PD n="TestMovieChecked" v="ADLDesktop"/>
+          <PD n="flash.fla.filepath" v="C:/_projects/towers-projects/Towers-tools/quest-generator-files/arena-0/arena-0.xfl"/>
           <PD n="swf.folder.path" v="C:/_projects/towers-projects/Towers-tools/quest-generator-files/"/>
-          <PD n="com.air.artemis.pubcaptive" v="false"/>
           <PD n="com.air.artemis.pubipa" v="false"/>
+          <PD n="com.air.artemis.pubcaptive" v="false"/>
           <PD n="com.air.artemis.pubair" v="true"/>
           <PD n="flash.swf.basename" v="arena-0"/>
-          <PD n="com.air.artemis.pubexe" v="false"/>
           <PD n="com.air.sdk.path"/>
+          <PD n="com.air.artemis.pubexe" v="false"/>
           <PD n="com.air.artemis.airdest" v="arena-0.air"/>
      </persistentData>
      <PrinterSettings/>

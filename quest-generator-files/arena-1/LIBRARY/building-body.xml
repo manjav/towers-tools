@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="building-body" itemID="59384391-00000463" lastModified="1513354255">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="building-body" itemID="59384391-00000463" lastModified="1514048063">
   <timeline>
     <DOMTimeline name="building-body">
       <layers>
@@ -868,21 +868,13 @@
                     <FillStyle index="1">
                       <BitmapFill bitmapPath="images/buildings/building-1.png" bitmapIsClipped="false">
                         <matrix>
-                          <Matrix a="19.8141479492188" d="20" tx="-125.65" ty="-149"/>
+                          <Matrix a="20" d="20" tx="-125.55" ty="-149"/>
                         </matrix>
                       </BitmapFill>
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle0="1" edges="!1447 1759|1447 -628!1447 -628|-1214 -628!-1214 -628|-1214 1759!-1214 1759|1447 1759"/>
-                    <Edge cubics="!2560 -1396(;2560,-1396 1447,-1396 1447,-1396q2560 -1396 1447 -1396);"/>
-                    <Edge cubics="!1447 -1396(1447,-1396;1447,-1396 -2560,-1396 -2560,-1396q1447 -1396 -2560 -1396);"/>
-                    <Edge cubics="!2560 2140(;2560,2140 2560,-1396 2560,-1396q2560 2140 2560 -1396);"/>
-                    <Edge cubics="!-2560 2140(;-2560,2140 -1214,2140 -1214,2140q-2560 2140 -1214 2140);"/>
-                    <Edge cubics="!-1214 2140(-1214,2140;-1214,2140 1447,2140 1447,2140q-1214 2140 1447 2140);"/>
-                    <Edge cubics="!1447 2140(;1447,2140 2560,2140 2560,2140q1447 2140 2560 2140);"/>
-                    <Edge cubics="!-2560 -1396(-2560,-1396;-2560,-1396 -2560,-628 -2560,-628q-2560 -1396 -2560 -628);"/>
-                    <Edge cubics="!-2560 -628(;-2560,-628 -2560,2140 -2560,2140q-2560 -628 -2560 2140);"/>
+                    <Edge fillStyle0="1" edges="!-1226 -519|-1226 2140!-1226 2140|1277 2140!1277 2140|1277 -519!1277 -519|-1226 -519"/>
                   </edges>
                 </DOMShape>
               </elements>
@@ -900,7 +892,7 @@
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle0="1" edges="!-2511 2140|2609 2140!2609 2140|2609 -1396!2609 -1396|-2511 -1396!-2511 -1396|-2511 2140"/>
+                    <Edge fillStyle0="1" edges="!-2511 -1396S1|-2511 2140!-2511 2140|2609 2140!2609 2140|2609 -1396!2609 -1396|-2511 -1396"/>
                   </edges>
                 </DOMShape>
               </elements>

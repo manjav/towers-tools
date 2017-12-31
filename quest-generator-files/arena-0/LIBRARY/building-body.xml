@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="building-body" itemID="59384391-00000463" lastModified="1511597497">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="building-body" itemID="59384391-00000463" lastModified="1514048063">
   <timeline>
-    <DOMTimeline name="building-body" currentFrame="141">
+    <DOMTimeline name="building-body">
       <layers>
         <DOMLayer name="Layer 2" color="#9933CC">
           <frames>
@@ -874,7 +874,7 @@
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle0="1" edges="!-2511 -1396S1|-2511 2140!-2511 2140|2609 2140!2609 2140|2609 -1396!2609 -1396|-2511 -1396"/>
+                    <Edge fillStyle0="1" edges="!-1226 -519|-1226 2140!-1226 2140|1277 2140!1277 2140|1277 -519!1277 -519|-1226 -519"/>
                   </edges>
                 </DOMShape>
               </elements>
