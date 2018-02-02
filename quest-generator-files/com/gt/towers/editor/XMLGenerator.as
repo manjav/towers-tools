@@ -26,10 +26,6 @@
 		private var linksContainer:Sprite;
 		private var questClassStr:String;
 		
-		//public var start_check:CheckBox;
-		//public var intro_check:CheckBox;
-		//public var final_check:CheckBox;
-		
 		public function XMLGenerator()
 		{
 			stop();
@@ -130,22 +126,13 @@
 		private function sceneJson_completeHandler(event:Event):void
 		{
 			var json:Object = JSON.parse(event.currentTarget.data);
-			if(json.name != currentScene.name || places.length!=json.places.length)
+			if( json.name != currentScene.name || places.length != json.places.length )
 			{
 				trace("Incompatiple data.");
 				return;
 			}
 			
 			resetPlaces();
-			
-			//if(start_check)
-			//	start_check.selected = json.hasStart;
-			//intro_check.selected = json.hasIntro;
-			//final_check.selected = json.hasFinal;
-			
-			if(json.times)
-			for (var t:int=0; t < json.times.length; t++)
-				this["time_"+t+"_txt"].text = json.times[t];
 
 			for (var p:int=0; p < places.length; p++)
 			{
@@ -232,17 +219,11 @@
 		
 		private function save_btn_clickHandler(event:MouseEvent):void
 		{
-			var times:Array = new Array();
-			var intro_num:int = int(this["intro_num"].text);
-			var start_num:int = int(this["start_num"].text);
-			var end_num:int = int(this["end_num"].text);
-			for (var t:int=0; t < 4; t++)
-				times[t] = int(this["time_"+t+"_txt"].text);
 			var index:int = int(currentScene.name.split('_')[1]);
 			//questClassStr = '\r\r\r\t\tfield = new FieldData(' + index + ', "' + currentScene.name + '", ' + intro_check.selected + ', ' + final_check.selected + ', "' + times + '" );\r\t\t// create places\r';
 			
 			var className:String = currentScene.name.substr(0,1).toUpperCase()+ currentScene.name.substr(1);
-			trace('\t\tquests.set( "' + currentScene.name + '" , new ' + className + '( ' + index + ', "' + currentScene.name + '", "", "", "", "' + times + '" ) );')
+			trace('\t\tquests.set( "' + currentScene.name + '" , new ' + className + '( ' + index + ', "' + currentScene.name + '", "-1,-1,-1,-1" ) );')
 
 			var tutorSteps:String = "";
 			var sceneIndex:int = getSceneIndex();
@@ -253,9 +234,7 @@
 			//sceneData.hasIntro = intro_check.selected;
 			//sceneData.hasFinal = final_check.selected;
 			
-			sceneData.times = times;
-			
-			questClassStr = 'package com.gt.towers.battle.fieldes;\rclass ' + className + ' extends FieldData\r{\r\tpublic function new(index:Int, name:String, introNum:String="", startNum:String="", endNum:String="", times:String="")\r\t{\r\t\tsuper(index, name, introNum, startNum, endNum, times);\r\t\t// places\r';
+			questClassStr = 'package com.gt.towers.battle.fieldes;\rclass ' + className + ' extends FieldData\r{\r\tpublic function new(index:Int, name:String, times:String="", introNum:String="", startNum:String="", endNum:String="")\r\t{\r\t\tsuper(index, name, times, introNum, startNum, endNum);\r\t\t// places\r';
 			var items:Array = new Array();
 			for (var i:int=0; i<places.length; i++)
 			{

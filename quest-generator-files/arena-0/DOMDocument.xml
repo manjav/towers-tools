@@ -1,4 +1,4 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1080" height="1920" currentTimeline="1" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" objectsSnapTo="false" viewAngle3D="91.258197287559" nextSceneIdentifier="8" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1080" height="1920" currentTimeline="2" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" objectsSnapTo="false" viewAngle3D="91.258197287559" nextSceneIdentifier="8" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false">
      <folders>
           <DOMFolderItem name="Component Assets" itemID="44e488a0-000016d6"/>
           <DOMFolderItem name="Component Assets/_private" itemID="4573a4bc-000003c6"/>
@@ -51,16 +51,16 @@
           <DOMBitmapItem name="images/buildings/building-41-0.png" itemID="5a14594d-000007fb" sourceExternalFilepath="./LIBRARY/images/buildings/building-41-0.png" sourceLastImported="1511195300" originalCompressionType="lossless" quality="50" href="images/buildings/building-41-0.png" bitmapDataHRef="M 27 1511943049.dat" frameRight="5120" frameBottom="5120"/>
           <DOMBitmapItem name="images/buildings/building-41-1.png" itemID="5a145954-00000800" sourceExternalFilepath="./LIBRARY/images/buildings/building-41-1.png" sourceLastImported="1511195330" originalCompressionType="lossless" quality="50" href="images/buildings/building-41-1.png" bitmapDataHRef="M 28 1511943049.dat" frameRight="5120" frameBottom="5120"/>
           <DOMBitmapItem name="images/building-plot.png" itemID="5a14403e-00000379" sourceExternalFilepath="./LIBRARY/images/building-plot.png" sourceLastImported="1510074888" originalCompressionType="lossless" quality="50" href="images/building-plot.png" bitmapDataHRef="M 52 1511943049.dat" frameRight="4440" frameBottom="3320"/>
-          <DOMBitmapItem name="images/bush-0.png" itemID="5a324912-00000651" sourceExternalFilepath="./LIBRARY/images/bush-0.png" sourceLastImported="1511275569" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/bush-0.png" bitmapDataHRef="M 89 1513244696.dat" frameRight="1720" frameBottom="1060"/>
-          <DOMBitmapItem name="images/bush-1.png" itemID="5a324912-00000652" sourceExternalFilepath="./LIBRARY/images/bush-1.png" sourceLastImported="1511275454" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/bush-1.png" bitmapDataHRef="M 90 1513244696.dat" frameRight="580" frameBottom="680"/>
+          <DOMBitmapItem name="images/bush-0.png" itemID="5a324912-00000651" sourceExternalFilepath="./LIBRARY/images/bush-0.png" sourceLastImported="1511275569" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/bush-0.png" bitmapDataHRef="M 89 1513244696.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="images/bush-1.png" itemID="5a324912-00000652" sourceExternalFilepath="./LIBRARY/images/bush-1.png" sourceLastImported="1511275454" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/bush-1.png" bitmapDataHRef="M 90 1513244696.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
           <DOMBitmapItem name="images/bush-2.png" itemID="5a324912-00000653" sourceExternalFilepath="./LIBRARY/images/bush-2.png" sourceLastImported="1511275577" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/bush-2.png" bitmapDataHRef="M 91 1513244696.dat" frameRight="700" frameBottom="740"/>
-          <DOMBitmapItem name="images/bush-3.png" itemID="5a324912-00000654" sourceExternalFilepath="./LIBRARY/images/bush-3.png" sourceLastImported="1511338000" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/bush-3.png" bitmapDataHRef="M 92 1513244696.dat" frameRight="980" frameBottom="860"/>
-          <DOMBitmapItem name="images/bush-4.png" itemID="5a324912-00000655" sourceExternalFilepath="./LIBRARY/images/bush-4.png" sourceLastImported="1511275427" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/bush-4.png" bitmapDataHRef="M 93 1513244696.dat" frameRight="1120" frameBottom="1280"/>
-          <DOMBitmapItem name="images/bush-5.png" itemID="5a324912-00000656" sourceExternalFilepath="./LIBRARY/images/bush-5.png" sourceLastImported="1511275535" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/bush-5.png" bitmapDataHRef="M 94 1513244696.dat" frameRight="700" frameBottom="760"/>
-          <DOMBitmapItem name="images/bush-6.png" itemID="5a324912-00000657" sourceExternalFilepath="./LIBRARY/images/bush-6.png" sourceLastImported="1511275552" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/bush-6.png" bitmapDataHRef="M 95 1513244696.dat" frameRight="1020" frameBottom="840"/>
+          <DOMBitmapItem name="images/bush-3.png" itemID="5a324912-00000654" sourceExternalFilepath="./LIBRARY/images/bush-3.png" sourceLastImported="1511338000" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/bush-3.png" bitmapDataHRef="M 92 1513244696.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="images/bush-4.png" itemID="5a324912-00000655" sourceExternalFilepath="./LIBRARY/images/bush-4.png" sourceLastImported="1511275427" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/bush-4.png" bitmapDataHRef="M 93 1513244696.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="images/bush-5.png" itemID="5a324912-00000656" sourceExternalFilepath="./LIBRARY/images/bush-5.png" sourceLastImported="1511275535" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/bush-5.png" bitmapDataHRef="M 94 1513244696.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="images/bush-6.png" itemID="5a324912-00000657" sourceExternalFilepath="./LIBRARY/images/bush-6.png" sourceLastImported="1511275552" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/bush-6.png" bitmapDataHRef="M 95 1513244696.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
           <DOMBitmapItem name="images/bush-7.png" itemID="5a324912-00000658" sourceExternalFilepath="./LIBRARY/images/bush-7.png" sourceLastImported="1511275543" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/bush-7.png" bitmapDataHRef="M 96 1513244696.dat" frameRight="620" frameBottom="560"/>
-          <DOMBitmapItem name="images/chair-0.png" itemID="5a324912-00000659" sourceExternalFilepath="./LIBRARY/images/chair-0.png" sourceLastImported="1511275310" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/chair-0.png" bitmapDataHRef="M 97 1513244696.dat" frameRight="800" frameBottom="740"/>
-          <DOMBitmapItem name="images/chair-1.png" itemID="5a324913-0000065a" sourceExternalFilepath="./LIBRARY/images/chair-1.png" sourceLastImported="1511275321" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/chair-1.png" bitmapDataHRef="M 98 1513244696.dat" frameRight="1340" frameBottom="960"/>
+          <DOMBitmapItem name="images/chair-0.png" itemID="5a324912-00000659" sourceExternalFilepath="./LIBRARY/images/chair-0.png" sourceLastImported="1511275310" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/chair-0.png" bitmapDataHRef="M 97 1513244696.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="images/chair-1.png" itemID="5a324913-0000065a" sourceExternalFilepath="./LIBRARY/images/chair-1.png" sourceLastImported="1511275321" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/chair-1.png" bitmapDataHRef="M 98 1513244696.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
           <DOMCompiledClipItem name="Component Assets/_private/ComponentShim" itemID="4d08cfa8-000001ee" linkageExportForAS="true" linkageClassName="fl.core.ComponentShim" sourceExternalFilepath="./LIBRARY/Component Assets/_private/ComponentShim" sourceLastImported="1292423080" displayAsComponent="false" customIconID="0" actionscriptClass="fl.core.ComponentShim" swfScmHRef="kbx0udh422.swf" swfScmSourceFilename="C:\Users\jkamerer\AppData\Local\Adobe\Flash CS5.5\en_US\Configuration\TMPkavphdh40p..swf" persistLivePreview11="true" livePreview11ScmHRef="kbx0udh4221.swf" livePreview11ScmSourceFilename="C:\Users\jkamerer\AppData\Local\Adobe\Flash CS5.5\en_US\Configuration\TMPkavphdh40p..swf" editFrameIndex="1" requiredMinimumPlayerVersion="0" requiredMinimumASVersion="0" parametersAreLocked="true" swcPath="Component Assets/_private/ComponentShim.xml" rootSymbolLinkageID="fl.core.ComponentShim" playerVersion="9" actionscriptVersion="3" hashKey="k718tUOF1.A1OSpQnqdJJ0">
                <classProperties><![CDATA[<component id="fl/core/ComponentShim" class="fl.core.ComponentShim" modified="1292423059130">
 <movieBounds xmin="0" xmax="0" ymin="0" ymax="0" />
@@ -153,30 +153,30 @@
                <SwcItem name="fl.core.ComponentShim" version="1292423059" isTopLevel="true"/>
           </DOMCompiledClipItem>
           <DOMBitmapItem name="images/damage-range.png" itemID="5a324913-0000065b" sourceExternalFilepath="./LIBRARY/images/damage-range.png" sourceLastImported="1496590666" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/damage-range.png" bitmapDataHRef="M 104 1513244696.dat" frameRight="4000" frameBottom="4000"/>
-          <DOMBitmapItem name="images/fence-0.png" itemID="5a324913-0000065c" sourceExternalFilepath="./LIBRARY/images/fence-0.png" sourceLastImported="1511275388" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/fence-0.png" bitmapDataHRef="M 105 1513244696.dat" frameRight="3860" frameBottom="1760"/>
-          <DOMBitmapItem name="images/fence-1.png" itemID="5a324913-0000065d" sourceExternalFilepath="./LIBRARY/images/fence-1.png" sourceLastImported="1511275398" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/fence-1.png" bitmapDataHRef="M 106 1513244696.dat" frameRight="2940" frameBottom="1840"/>
-          <DOMBitmapItem name="images/fence-2.png" itemID="5a324913-0000065e" sourceExternalFilepath="./LIBRARY/images/fence-2.png" sourceLastImported="1511275408" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/fence-2.png" bitmapDataHRef="M 107 1513244696.dat" frameRight="1140" frameBottom="2520"/>
-          <DOMBitmapItem name="images/fence-3.png" itemID="5a324913-0000065f" sourceExternalFilepath="./LIBRARY/images/fence-3.png" sourceLastImported="1511275417" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/fence-3.png" bitmapDataHRef="M 108 1513244696.dat" frameRight="2980" frameBottom="2320"/>
+          <DOMBitmapItem name="images/fence-0.png" itemID="5a324913-0000065c" sourceExternalFilepath="./LIBRARY/images/fence-0.png" sourceLastImported="1511275388" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/fence-0.png" bitmapDataHRef="M 105 1513244696.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="images/fence-1.png" itemID="5a324913-0000065d" sourceExternalFilepath="./LIBRARY/images/fence-1.png" sourceLastImported="1511275398" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/fence-1.png" bitmapDataHRef="M 106 1513244696.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="images/fence-2.png" itemID="5a324913-0000065e" sourceExternalFilepath="./LIBRARY/images/fence-2.png" sourceLastImported="1511275408" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/fence-2.png" bitmapDataHRef="M 107 1513244696.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="images/fence-3.png" itemID="5a324913-0000065f" sourceExternalFilepath="./LIBRARY/images/fence-3.png" sourceLastImported="1511275417" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/fence-3.png" bitmapDataHRef="M 108 1513244696.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
           <DOMBitmapItem name="images/ground-228.png" itemID="5939b72c-00000337" sourceExternalFilepath="./LIBRARY/images/ground-228.png" sourceLastImported="1496651187" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/ground-228.png" bitmapDataHRef="M 53 1511943049.dat" frameRight="4560" frameBottom="4560"/>
-          <DOMBitmapItem name="images/hole-0.png" itemID="5a324913-00000660" sourceExternalFilepath="./LIBRARY/images/hole-0.png" sourceLastImported="1511275560" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/hole-0.png" bitmapDataHRef="M 110 1513244697.dat" frameRight="2800" frameBottom="2740"/>
-          <DOMBitmapItem name="images/hole-1.png" itemID="5a324913-00000661" sourceExternalFilepath="./LIBRARY/images/hole-1.png" sourceLastImported="1511275370" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/hole-1.png" bitmapDataHRef="M 111 1513244697.dat" frameRight="1940" frameBottom="700"/>
-          <DOMBitmapItem name="images/hole-2.png" itemID="5a324913-00000662" sourceExternalFilepath="./LIBRARY/images/hole-2.png" sourceLastImported="1511275300" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/hole-2.png" bitmapDataHRef="M 112 1513244697.dat" frameRight="1660" frameBottom="1580"/>
-          <DOMBitmapItem name="images/hut-0.png" itemID="5a324913-00000663" sourceExternalFilepath="./LIBRARY/images/hut-0.png" sourceLastImported="1511275380" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/hut-0.png" bitmapDataHRef="M 113 1513244697.dat" frameRight="3340" frameBottom="2060"/>
+          <DOMBitmapItem name="images/hole-0.png" itemID="5a324913-00000660" sourceExternalFilepath="./LIBRARY/images/hole-0.png" sourceLastImported="1511275560" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/hole-0.png" bitmapDataHRef="M 110 1513244697.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="images/hole-1.png" itemID="5a324913-00000661" sourceExternalFilepath="./LIBRARY/images/hole-1.png" sourceLastImported="1511275370" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/hole-1.png" bitmapDataHRef="M 111 1513244697.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="images/hole-2.png" itemID="5a324913-00000662" sourceExternalFilepath="./LIBRARY/images/hole-2.png" sourceLastImported="1511275300" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/hole-2.png" bitmapDataHRef="M 112 1513244697.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="images/hut-0.png" itemID="5a324913-00000663" sourceExternalFilepath="./LIBRARY/images/hut-0.png" sourceLastImported="1511275380" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/hut-0.png" bitmapDataHRef="M 113 1513244697.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
           <DOMBitmapItem name="images/road-h.png" itemID="5a324913-00000664" sourceExternalFilepath="./LIBRARY/images/road-h.png" sourceLastImported="1497024148" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/road-h.png" bitmapDataHRef="M 118 1513244697.dat" frameRight="8300" frameBottom="1580"/>
           <DOMBitmapItem name="images/road-v.png" itemID="5a324913-00000665" sourceExternalFilepath="./LIBRARY/images/road-v.png" sourceLastImported="1513243288" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/road-v.png" bitmapDataHRef="M 119 1513244697.dat" frameRight="1780" frameBottom="8060"/>
           <DOMBitmapItem name="images/rock-0.png" itemID="5a324913-00000666" sourceExternalFilepath="./LIBRARY/images/rock-0.png" sourceLastImported="1511275479" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/rock-0.png" bitmapDataHRef="M 120 1513244697.dat" frameRight="1700" frameBottom="1320"/>
-          <DOMBitmapItem name="images/rock-1.png" itemID="5a324913-00000667" sourceExternalFilepath="./LIBRARY/images/rock-1.png" sourceLastImported="1511275445" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/rock-1.png" bitmapDataHRef="M 121 1513244697.dat" frameRight="1300" frameBottom="1160"/>
-          <DOMBitmapItem name="images/rock-2.png" itemID="5a324913-00000668" sourceExternalFilepath="./LIBRARY/images/rock-2.png" sourceLastImported="1511338000" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/rock-2.png" bitmapDataHRef="M 122 1513244697.dat" frameRight="1120" frameBottom="780"/>
-          <DOMBitmapItem name="images/rock-3.png" itemID="5a324913-00000669" sourceExternalFilepath="./LIBRARY/images/rock-3.png" sourceLastImported="1511337999" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/rock-3.png" bitmapDataHRef="M 79 1513244696.dat" frameRight="1020" frameBottom="1160"/>
-          <DOMBitmapItem name="images/rock-4.png" itemID="5a324913-0000066a" sourceExternalFilepath="./LIBRARY/images/rock-4.png" sourceLastImported="1511275471" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/rock-4.png" bitmapDataHRef="M 80 1513244696.dat" frameRight="1720" frameBottom="1860"/>
-          <DOMBitmapItem name="images/rock-5.png" itemID="5a324913-0000066b" sourceExternalFilepath="./LIBRARY/images/rock-5.png" sourceLastImported="1511275462" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/rock-5.png" bitmapDataHRef="M 81 1513244696.dat" frameRight="1520" frameBottom="1700"/>
-          <DOMBitmapItem name="images/rock-6-.png" itemID="5a324913-0000066c" sourceExternalFilepath="./LIBRARY/images/rock-6-.png" sourceLastImported="1511275435" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/rock-6-.png" bitmapDataHRef="M 82 1513244696.dat" frameRight="2180" frameBottom="1820"/>
-          <DOMBitmapItem name="images/tanker-0.png" itemID="5a324913-0000066d" sourceExternalFilepath="./LIBRARY/images/tanker-0.png" sourceLastImported="1511338001" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/tanker-0.png" bitmapDataHRef="M 83 1513244696.dat" frameRight="1340" frameBottom="1180"/>
+          <DOMBitmapItem name="images/rock-1.png" itemID="5a324913-00000667" sourceExternalFilepath="./LIBRARY/images/rock-1.png" sourceLastImported="1511275445" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/rock-1.png" bitmapDataHRef="M 121 1513244697.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="images/rock-2.png" itemID="5a324913-00000668" sourceExternalFilepath="./LIBRARY/images/rock-2.png" sourceLastImported="1511338000" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/rock-2.png" bitmapDataHRef="M 122 1513244697.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="images/rock-3.png" itemID="5a324913-00000669" sourceExternalFilepath="./LIBRARY/images/rock-3.png" sourceLastImported="1511337999" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/rock-3.png" bitmapDataHRef="M 79 1513244696.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="images/rock-4.png" itemID="5a324913-0000066a" sourceExternalFilepath="./LIBRARY/images/rock-4.png" sourceLastImported="1511275471" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/rock-4.png" bitmapDataHRef="M 80 1513244696.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="images/rock-5.png" itemID="5a324913-0000066b" sourceExternalFilepath="./LIBRARY/images/rock-5.png" sourceLastImported="1511275462" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/rock-5.png" bitmapDataHRef="M 81 1513244696.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="images/rock-6-.png" itemID="5a324913-0000066c" sourceExternalFilepath="./LIBRARY/images/rock-6-.png" sourceLastImported="1511275435" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/rock-6-.png" bitmapDataHRef="M 82 1513244696.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="images/tanker-0.png" itemID="5a324913-0000066d" sourceExternalFilepath="./LIBRARY/images/tanker-0.png" sourceLastImported="1511338001" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/tanker-0.png" bitmapDataHRef="M 83 1513244696.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
           <DOMBitmapItem name="images/tree-0.png" itemID="5a324913-0000066e" sourceExternalFilepath="./LIBRARY/images/tree-0.png" sourceLastImported="1513244563" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/tree-0.png" bitmapDataHRef="M 84 1513244696.dat" frameRight="2180" frameBottom="2240"/>
           <DOMBitmapItem name="images/tree-1.png" itemID="5a324913-0000066f" sourceExternalFilepath="./LIBRARY/images/tree-1.png" sourceLastImported="1513244564" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/tree-1.png" bitmapDataHRef="M 85 1513244696.dat" frameRight="1780" frameBottom="1820"/>
           <DOMBitmapItem name="images/tree-2.png" itemID="5a324913-00000670" sourceExternalFilepath="./LIBRARY/images/tree-2.png" sourceLastImported="1513244564" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/tree-2.png" bitmapDataHRef="M 86 1513244696.dat" frameRight="1260" frameBottom="1260"/>
-          <DOMBitmapItem name="images/tree-3.png" itemID="5a324c05-000006d2" sourceExternalFilepath="./LIBRARY/images/tree-3.png" sourceLastImported="1513245572" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/tree-3.png" bitmapDataHRef="M 124 1513245586.dat" frameRight="1940" frameBottom="1860"/>
-          <DOMBitmapItem name="images/tree-4.png" itemID="5a324c05-000006d3" sourceExternalFilepath="./LIBRARY/images/tree-4.png" sourceLastImported="1513245572" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/tree-4.png" bitmapDataHRef="M 123 1513245586.dat" frameRight="1760" frameBottom="1720"/>
+          <DOMBitmapItem name="images/tree-3.png" itemID="5a324c05-000006d2" sourceExternalFilepath="./LIBRARY/images/tree-3.png" sourceLastImported="1513245572" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/tree-3.png" bitmapDataHRef="M 124 1513245586.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="images/tree-4.png" itemID="5a324c05-000006d3" sourceExternalFilepath="./LIBRARY/images/tree-4.png" sourceLastImported="1513245572" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/tree-4.png" bitmapDataHRef="M 123 1513245586.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
      </media>
      <symbols>
           <Include href="arrow_btn.xml" loadImmediate="false" itemID="5937b4f1-000001f7" lastModified="1496826979"/>
@@ -252,7 +252,7 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="controls" color="#FF800A" autoNamed="false">
+                    <DOMLayer name="controls" color="#FF800A" current="true" isSelected="true" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
@@ -326,168 +326,11 @@
                                                   <DropShadowFilter angle="46.0000011383648"/>
                                              </filters>
                                         </DOMSymbolInstance>
-                                        <DOMComponentInstance libraryItemName="CheckBox" name="intro_check" centerPoint3DX="983.7" centerPoint3DY="1779.05" uniqueID="4">
-                                             <matrix>
-                                                  <Matrix a="1.92599487304688" d="1.92599487304688" tx="887.4" ty="1757.85"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point x="50" y="11"/>
-                                             </transformationPoint>
-                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='battle_1' oldCopiedComponentPath='4'>
-</component>
-]]></dataBindingXML>
-                                             <parametersAsXML><![CDATA[   <property id="enabled">
-      <Inspectable name="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
-   </property>
-   <property id="label">
-      <Inspectable name="label" variable="label" category="" verbose="0" defaultValue="Has Intro" type="String"/>
-   </property>
-   <property id="labelPlacement">
-      <Inspectable name="labelPlacement" variable="labelPlacement" category="" verbose="0" defaultValue="right" enumeration="left,right,top,bottom" type="List"/>
-   </property>
-   <property id="selected">
-      <Inspectable name="selected" variable="selected" category="" verbose="0" defaultValue="false" type="Boolean"/>
-   </property>
-   <property id="visible">
-      <Inspectable name="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
-   </property>
-]]></parametersAsXML>
-                                        </DOMComponentInstance>
-                                        <DOMComponentInstance libraryItemName="CheckBox" name="final_check" centerPoint3DX="983.7" centerPoint3DY="1823.3" uniqueID="5">
-                                             <matrix>
-                                                  <Matrix a="1.92599487304688" d="1.92599487304688" tx="887.4" ty="1802.1"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point x="50" y="11"/>
-                                             </transformationPoint>
-                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='battle_1' oldCopiedComponentPath='5'>
-</component>
-]]></dataBindingXML>
-                                             <parametersAsXML><![CDATA[   <property id="enabled">
-      <Inspectable name="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
-   </property>
-   <property id="label">
-      <Inspectable name="label" variable="label" category="" verbose="0" defaultValue="Has Final" type="String"/>
-   </property>
-   <property id="labelPlacement">
-      <Inspectable name="labelPlacement" variable="labelPlacement" category="" verbose="0" defaultValue="right" enumeration="left,right,top,bottom" type="List"/>
-   </property>
-   <property id="selected">
-      <Inspectable name="selected" variable="selected" category="" verbose="0" defaultValue="false" type="Boolean"/>
-   </property>
-   <property id="visible">
-      <Inspectable name="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
-   </property>
-]]></parametersAsXML>
-                                        </DOMComponentInstance>
-                                        <DOMInputText name="time_0_txt" fontRenderingMode="device" width="155.95" height="55.85" border="true">
-                                             <matrix>
-                                                  <Matrix a="0.535934448242188" tx="342.95" ty="1848.75"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point x="78" y="27.9"/>
-                                             </transformationPoint>
-                                             <textRuns>
-                                                  <DOMTextRun>
-                                                       <characters>100</characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" size="50" bitmapSize="1000" face="ArialMT" fillColor="#000033"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                             </textRuns>
-                                        </DOMInputText>
-                                        <DOMInputText name="time_1_txt" fontRenderingMode="device" width="155.95" height="55.85" border="true">
-                                             <matrix>
-                                                  <Matrix a="0.5050048828125" tx="451.55" ty="1850.55"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point x="77.9" y="27.9"/>
-                                             </transformationPoint>
-                                             <textRuns>
-                                                  <DOMTextRun>
-                                                       <characters>100</characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" size="50" bitmapSize="1000" face="ArialMT" fillColor="#000033"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                             </textRuns>
-                                        </DOMInputText>
-                                        <DOMInputText name="time_2_txt" fontRenderingMode="device" width="155.95" height="55.85" border="true">
-                                             <matrix>
-                                                  <Matrix a="0.535934448242188" tx="550" ty="1850.55"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point x="78" y="27.9"/>
-                                             </transformationPoint>
-                                             <textRuns>
-                                                  <DOMTextRun>
-                                                       <characters>100</characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" size="50" bitmapSize="1000" face="ArialMT" fillColor="#000033"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                             </textRuns>
-                                        </DOMInputText>
-                                        <DOMInputText name="time_3_txt" fontRenderingMode="device" width="155.35" height="55.85" border="true">
-                                             <matrix>
-                                                  <Matrix a="0.56549072265625" tx="652.8" ty="1847.35"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point x="77.7" y="27.9"/>
-                                             </transformationPoint>
-                                             <textRuns>
-                                                  <DOMTextRun>
-                                                       <characters>100</characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" size="50" bitmapSize="1000" face="ArialMT" fillColor="#000033"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                             </textRuns>
-                                        </DOMInputText>
-                                        <DOMInputText name="end_num" fontRenderingMode="device" width="87.2" height="60" border="true">
-                                             <matrix>
-                                                  <Matrix a="0.750228881835938" tx="974.05" ty="1737.7"/>
-                                             </matrix>
-                                             <textRuns>
-                                                  <DOMTextRun>
-                                                       <characters>0</characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" size="50" bitmapSize="1000" face="ArialMT" fillColor="#000033"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                             </textRuns>
-                                        </DOMInputText>
-                                        <DOMInputText name="start_num" fontRenderingMode="device" width="87.2" height="60" border="true">
-                                             <matrix>
-                                                  <Matrix a="0.750228881835938" tx="974.05" ty="1652.1"/>
-                                             </matrix>
-                                             <textRuns>
-                                                  <DOMTextRun>
-                                                       <characters>0</characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" size="50" bitmapSize="1000" face="ArialMT" fillColor="#000033"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                             </textRuns>
-                                        </DOMInputText>
-                                        <DOMInputText name="intro_num" fontRenderingMode="device" width="87.2" height="60" border="true">
-                                             <matrix>
-                                                  <Matrix a="0.750228881835938" tx="975.75" ty="1568.3"/>
-                                             </matrix>
-                                             <textRuns>
-                                                  <DOMTextRun>
-                                                       <characters>0</characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" size="50" bitmapSize="1000" face="ArialMT" fillColor="#000033"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                             </textRuns>
-                                        </DOMInputText>
                                    </elements>
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="images" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+                    <DOMLayer name="images" color="#FF4FFF" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
@@ -694,7 +537,7 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="controls" color="#FF800A" autoNamed="false">
+                    <DOMLayer name="controls" color="#FF800A" current="true" isSelected="true" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
@@ -768,168 +611,11 @@
                                                   <DropShadowFilter angle="46.0000011383648"/>
                                              </filters>
                                         </DOMSymbolInstance>
-                                        <DOMComponentInstance libraryItemName="CheckBox" name="intro_check" centerPoint3DX="983.7" centerPoint3DY="1779.05" uniqueID="4">
-                                             <matrix>
-                                                  <Matrix a="1.92599487304688" d="1.92599487304688" tx="887.4" ty="1757.85"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point x="50" y="11"/>
-                                             </transformationPoint>
-                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='battle_1' oldCopiedComponentPath=''>
-</component>
-]]></dataBindingXML>
-                                             <parametersAsXML><![CDATA[   <property id="enabled">
-      <Inspectable name="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
-   </property>
-   <property id="label">
-      <Inspectable name="label" variable="label" category="" verbose="0" defaultValue="Has Intro" type="String"/>
-   </property>
-   <property id="labelPlacement">
-      <Inspectable name="labelPlacement" variable="labelPlacement" category="" verbose="0" defaultValue="right" enumeration="left,right,top,bottom" type="List"/>
-   </property>
-   <property id="selected">
-      <Inspectable name="selected" variable="selected" category="" verbose="0" defaultValue="false" type="Boolean"/>
-   </property>
-   <property id="visible">
-      <Inspectable name="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
-   </property>
-]]></parametersAsXML>
-                                        </DOMComponentInstance>
-                                        <DOMComponentInstance libraryItemName="CheckBox" name="final_check" centerPoint3DX="983.7" centerPoint3DY="1823.3" uniqueID="5">
-                                             <matrix>
-                                                  <Matrix a="1.92599487304688" d="1.92599487304688" tx="887.4" ty="1802.1"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point x="50" y="11"/>
-                                             </transformationPoint>
-                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='battle_1' oldCopiedComponentPath=''>
-</component>
-]]></dataBindingXML>
-                                             <parametersAsXML><![CDATA[   <property id="enabled">
-      <Inspectable name="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
-   </property>
-   <property id="label">
-      <Inspectable name="label" variable="label" category="" verbose="0" defaultValue="Has Final" type="String"/>
-   </property>
-   <property id="labelPlacement">
-      <Inspectable name="labelPlacement" variable="labelPlacement" category="" verbose="0" defaultValue="right" enumeration="left,right,top,bottom" type="List"/>
-   </property>
-   <property id="selected">
-      <Inspectable name="selected" variable="selected" category="" verbose="0" defaultValue="false" type="Boolean"/>
-   </property>
-   <property id="visible">
-      <Inspectable name="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
-   </property>
-]]></parametersAsXML>
-                                        </DOMComponentInstance>
-                                        <DOMInputText name="time_0_txt" fontRenderingMode="device" width="155.95" height="55.85" border="true">
-                                             <matrix>
-                                                  <Matrix a="0.535934448242188" tx="342.95" ty="1848.75"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point x="78" y="27.9"/>
-                                             </transformationPoint>
-                                             <textRuns>
-                                                  <DOMTextRun>
-                                                       <characters>100</characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" size="50" bitmapSize="1000" face="ArialMT" fillColor="#000033"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                             </textRuns>
-                                        </DOMInputText>
-                                        <DOMInputText name="time_1_txt" fontRenderingMode="device" width="155.95" height="55.85" border="true">
-                                             <matrix>
-                                                  <Matrix a="0.5050048828125" tx="451.55" ty="1850.55"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point x="77.9" y="27.9"/>
-                                             </transformationPoint>
-                                             <textRuns>
-                                                  <DOMTextRun>
-                                                       <characters>100</characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" size="50" bitmapSize="1000" face="ArialMT" fillColor="#000033"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                             </textRuns>
-                                        </DOMInputText>
-                                        <DOMInputText name="time_2_txt" fontRenderingMode="device" width="155.95" height="55.85" border="true">
-                                             <matrix>
-                                                  <Matrix a="0.535934448242188" tx="550" ty="1850.55"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point x="78" y="27.9"/>
-                                             </transformationPoint>
-                                             <textRuns>
-                                                  <DOMTextRun>
-                                                       <characters>100</characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" size="50" bitmapSize="1000" face="ArialMT" fillColor="#000033"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                             </textRuns>
-                                        </DOMInputText>
-                                        <DOMInputText name="time_3_txt" fontRenderingMode="device" width="155.35" height="55.85" border="true">
-                                             <matrix>
-                                                  <Matrix a="0.56549072265625" tx="652.8" ty="1847.35"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point x="77.7" y="27.9"/>
-                                             </transformationPoint>
-                                             <textRuns>
-                                                  <DOMTextRun>
-                                                       <characters>100</characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" size="50" bitmapSize="1000" face="ArialMT" fillColor="#000033"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                             </textRuns>
-                                        </DOMInputText>
-                                        <DOMInputText name="end_num" fontRenderingMode="device" width="87.2" height="60" border="true">
-                                             <matrix>
-                                                  <Matrix a="0.750228881835938" tx="974.05" ty="1737.7"/>
-                                             </matrix>
-                                             <textRuns>
-                                                  <DOMTextRun>
-                                                       <characters>0</characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" size="50" bitmapSize="1000" face="ArialMT" fillColor="#000033"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                             </textRuns>
-                                        </DOMInputText>
-                                        <DOMInputText name="start_num" fontRenderingMode="device" width="87.2" height="60" border="true">
-                                             <matrix>
-                                                  <Matrix a="0.750228881835938" tx="974.05" ty="1652.1"/>
-                                             </matrix>
-                                             <textRuns>
-                                                  <DOMTextRun>
-                                                       <characters>0</characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" size="50" bitmapSize="1000" face="ArialMT" fillColor="#000033"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                             </textRuns>
-                                        </DOMInputText>
-                                        <DOMInputText name="intro_num" fontRenderingMode="device" width="87.2" height="60" border="true">
-                                             <matrix>
-                                                  <Matrix a="0.750228881835938" tx="975.75" ty="1568.3"/>
-                                             </matrix>
-                                             <textRuns>
-                                                  <DOMTextRun>
-                                                       <characters>0</characters>
-                                                       <textAttrs>
-                                                            <DOMTextAttrs alignment="center" aliasText="false" size="50" bitmapSize="1000" face="ArialMT" fillColor="#000033"/>
-                                                       </textAttrs>
-                                                  </DOMTextRun>
-                                             </textRuns>
-                                        </DOMInputText>
                                    </elements>
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="images" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+                    <DOMLayer name="images" color="#FF4FFF" locked="true" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
@@ -996,7 +682,7 @@
                                                   <Point x="61" y="71.5"/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/building-plot.png">
+                                        <DOMBitmapInstance selected="true" libraryItemName="images/building-plot.png">
                                              <matrix>
                                                   <Matrix tx="734.5" ty="1416.45"/>
                                              </matrix>
@@ -1414,19 +1100,28 @@
           </DOMTimeline>
      </timelines>
      <persistentData>
-          <PD n="TestMovieChecked" v="ADLDesktop"/>
           <PD n="flash.fla.filepath" v="C:/_projects/towers-projects/Towers-tools/quest-generator-files/arena-0/arena-0.xfl"/>
+          <PD n="TestMovieChecked" v="ADLDesktop"/>
           <PD n="swf.folder.path" v="C:/_projects/towers-projects/Towers-tools/quest-generator-files/"/>
-          <PD n="com.air.artemis.pubipa" v="false"/>
+          <PD n="DebugMovieChecked" v="ADLDesktop"/>
           <PD n="com.air.artemis.pubcaptive" v="false"/>
+          <PD n="com.air.artemis.pubipa" v="false"/>
           <PD n="com.air.artemis.pubair" v="true"/>
           <PD n="flash.swf.basename" v="arena-0"/>
-          <PD n="com.air.sdk.path"/>
           <PD n="com.air.artemis.pubexe" v="false"/>
+          <PD n="com.air.sdk.path"/>
           <PD n="com.air.artemis.airdest" v="arena-0.air"/>
      </persistentData>
      <PrinterSettings/>
      <publishHistory>
+          <PublishItem publishSize="529451" publishTime="1517572854"/>
+          <PublishItem publishSize="529509" publishTime="1517572810"/>
+          <PublishItem publishSize="448482" publishTime="1517572793"/>
+          <PublishItem publishSize="448483" publishTime="1517572775"/>
+          <PublishItem publishSize="529643" publishTime="1517572517" publishDebug="true"/>
+          <PublishItem publishSize="529640" publishTime="1517572501"/>
+          <PublishItem publishSize="529634" publishTime="1517572488"/>
+          <PublishItem publishSize="529685" publishTime="1517571467"/>
           <PublishItem publishSize="630026" publishTime="1513350172"/>
           <PublishItem publishSize="630026" publishTime="1513350128"/>
           <PublishItem publishSize="631846" publishTime="1513348791"/>
@@ -1439,14 +1134,6 @@
           <PublishItem publishSize="628626" publishTime="1513255780"/>
           <PublishItem publishSize="628619" publishTime="1513255527"/>
           <PublishItem publishSize="628571" publishTime="1513255510"/>
-          <PublishItem publishSize="628477" publishTime="1513255361"/>
-          <PublishItem publishSize="628442" publishTime="1513255326"/>
-          <PublishItem publishSize="628435" publishTime="1513255265"/>
-          <PublishItem publishSize="628390" publishTime="1513255221"/>
-          <PublishItem publishSize="628235" publishTime="1513254922"/>
-          <PublishItem publishSize="628201" publishTime="1513254846"/>
-          <PublishItem publishSize="628095" publishTime="1513254673"/>
-          <PublishItem publishSize="628095" publishTime="1513254604"/>
      </publishHistory>
      <swcCache>
           <Swc hashKey="k718tUOF1.A1OSpQnqdJJ0" href="bay4e66s0.swc">
