@@ -1,4 +1,4 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1080" height="1920" currentTimeline="1" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" objectsSnapTo="false" viewAngle3D="91.258197287559" nextSceneIdentifier="23" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1080" height="1920" currentTimeline="13" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" objectsSnapTo="false" viewAngle3D="91.258197287559" nextSceneIdentifier="23" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false">
      <folders>
           <DOMFolderItem name="Component Assets" itemID="44e488a0-000016d6"/>
           <DOMFolderItem name="Component Assets/_private" itemID="4573a4bc-000003c6"/>
@@ -425,7 +425,7 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="roads" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+                    <DOMLayer name="roads" color="#4FFF4F" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
@@ -495,7 +495,7 @@
                                                   <Matrix tx="429.55" ty="468.55"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/building-plot.png">
+                                        <DOMBitmapInstance libraryItemName="images/building-plot.png">
                                              <matrix>
                                                   <Matrix tx="730.95" ty="1286.25"/>
                                              </matrix>
@@ -537,7 +537,7 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="Layer 5" color="#4FFFFF" locked="true">
+                    <DOMLayer name="Layer 5" color="#4FFFFF" locked="true" current="true" isSelected="true">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
@@ -5037,66 +5037,66 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="images" color="#FF4FFF" autoNamed="false">
+                    <DOMLayer name="images" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="31.55" ty="1176.95"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="31.55" ty="602.4"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="31.55" ty="767.45"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="31.55" ty="1030.85"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="912.05" ty="1176.95"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="912.05" ty="602.4"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="912.05" ty="767.45"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="912.05" ty="1030.85"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="645.4" ty="320.05"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="324.75" ty="320.05"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="645.85" ty="1470.05"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="325.2" ty="1470.05"/>
                                              </matrix>
@@ -5105,7 +5105,7 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="roads" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+                    <DOMLayer name="roads" color="#4FFF4F" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
@@ -5244,16 +5244,18 @@
      <persistentData>
           <PD n="flash.fla.filepath" v="C:/_projects/towers-projects/Towers-tools/quest-generator-files/arena-4/arena-4.xfl"/>
           <PD n="swf.folder.path" v="C:/_projects/towers-projects/Towers-tools/quest-generator-files/"/>
-          <PD n="com.air.artemis.pubcaptive" v="false"/>
           <PD n="com.air.artemis.pubipa" v="false"/>
+          <PD n="com.air.artemis.pubcaptive" v="false"/>
           <PD n="com.air.artemis.pubair" v="true"/>
           <PD n="flash.swf.basename" v="arena-4"/>
-          <PD n="com.air.sdk.path"/>
           <PD n="com.air.artemis.pubexe" v="false"/>
+          <PD n="com.air.sdk.path"/>
           <PD n="com.air.artemis.airdest" v="arena-4.air"/>
      </persistentData>
      <PrinterSettings/>
      <publishHistory>
+          <PublishItem publishSize="450811" publishTime="1517669558"/>
+          <PublishItem publishSize="450813" publishTime="1517669525"/>
           <PublishItem publishSize="443281" publishTime="1517667348"/>
           <PublishItem publishSize="444470" publishTime="1511946492"/>
      </publishHistory>
