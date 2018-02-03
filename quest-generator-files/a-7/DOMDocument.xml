@@ -1,4 +1,4 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1080" height="1920" currentTimeline="3" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" objectsSnapTo="false" viewAngle3D="91.258197287559" nextSceneIdentifier="23" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1080" height="1920" currentTimeline="1" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" objectsSnapTo="false" viewAngle3D="91.258197287559" nextSceneIdentifier="23" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false">
      <folders>
           <DOMFolderItem name="Component Assets" itemID="44e488a0-000016d6"/>
           <DOMFolderItem name="Component Assets/_private" itemID="4573a4bc-000003c6"/>
@@ -146,14 +146,14 @@
           <DOMBitmapItem name="images/ground-228.png" itemID="5939b72c-00000337" sourceExternalFilepath="../../quest-generator/LIBRARY/images/ground-228.png" sourceLastImported="1496651187" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/ground-228.png" bitmapDataHRef="M 52 1511946381.dat" frameRight="4560" frameBottom="4560"/>
           <DOMBitmapItem name="images/road-h.png" itemID="5a14403e-00000390" sourceExternalFilepath="../../battle-generator/LIBRARY/images/road-h.png" sourceLastImported="1497024148" originalCompressionType="lossless" quality="50" href="images/road-h.png" bitmapDataHRef="M 45 1511946381.dat" frameRight="8300" frameBottom="1580"/>
           <DOMBitmapItem name="images/road-v.png" itemID="5a14403e-00000392" sourceExternalFilepath="../../battle-generator/LIBRARY/images/road-v.png" sourceLastImported="1497024150" originalCompressionType="lossless" quality="50" href="images/road-v.png" bitmapDataHRef="M 46 1511946381.dat" frameRight="1780" frameBottom="8060"/>
-          <DOMBitmapItem name="images/rock-1.png" itemID="5a14403e-00000395" sourceExternalFilepath="../../battle-generator/LIBRARY/images/rock-1.png" sourceLastImported="1511275445" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/rock-1.png" bitmapDataHRef="M 50 1511946381.dat" frameRight="1300" frameBottom="1160"/>
-          <DOMBitmapItem name="images/rock-5.png" itemID="5a14403e-00000397" sourceExternalFilepath="../../battle-generator/LIBRARY/images/rock-5.png" sourceLastImported="1511275462" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/rock-5.png" bitmapDataHRef="M 49 1511946381.dat" frameRight="1520" frameBottom="1700"/>
-          <DOMBitmapItem name="images/rock-6-.png" itemID="5a14403e-00000398" sourceExternalFilepath="../../battle-generator/LIBRARY/images/rock-6-.png" sourceLastImported="1511276362" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/rock-6-.png" bitmapDataHRef="M 51 1511946381.dat" frameRight="2180" frameBottom="1820"/>
+          <DOMBitmapItem name="images/rock-1.png" itemID="5a14403e-00000395" sourceExternalFilepath="../../battle-generator/LIBRARY/images/rock-1.png" sourceLastImported="1511275445" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/rock-1.png" bitmapDataHRef="M 50 1511946381.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="images/rock-5.png" itemID="5a14403e-00000397" sourceExternalFilepath="../../battle-generator/LIBRARY/images/rock-5.png" sourceLastImported="1511275462" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/rock-5.png" bitmapDataHRef="M 49 1511946381.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="images/rock-6-.png" itemID="5a14403e-00000398" sourceExternalFilepath="../../battle-generator/LIBRARY/images/rock-6-.png" sourceLastImported="1511276362" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/rock-6-.png" bitmapDataHRef="M 51 1511946381.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
           <DOMBitmapItem name="images/tree-0.png" itemID="5a324913-0000066e" sourceExternalFilepath="../../arena-1/LIBRARY/images/tree-0.png" sourceLastImported="1513244563" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/tree-0.png" bitmapDataHRef="M 84 1513244696.dat" frameRight="2180" frameBottom="2240"/>
           <DOMBitmapItem name="images/tree-1.png" itemID="5a324913-0000066f" sourceExternalFilepath="../../arena-1/LIBRARY/images/tree-1.png" sourceLastImported="1513244564" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/tree-1.png" bitmapDataHRef="M 85 1513244696.dat" frameRight="1780" frameBottom="1820"/>
           <DOMBitmapItem name="images/tree-2.png" itemID="5a324913-00000670" sourceExternalFilepath="../../arena-1/LIBRARY/images/tree-2.png" sourceLastImported="1513244564" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/tree-2.png" bitmapDataHRef="M 86 1513244696.dat" frameRight="1260" frameBottom="1260"/>
-          <DOMBitmapItem name="images/tree-3.png" itemID="5a324c05-000006d2" sourceExternalFilepath="../../arena-1/LIBRARY/images/tree-3.png" sourceLastImported="1513245572" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/tree-3.png" bitmapDataHRef="M 124 1513245586.dat" frameRight="1940" frameBottom="1860"/>
-          <DOMBitmapItem name="images/tree-4.png" itemID="5a324c05-000006d3" sourceExternalFilepath="../../arena-1/LIBRARY/images/tree-4.png" sourceLastImported="1513245572" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/tree-4.png" bitmapDataHRef="M 123 1513245586.dat" frameRight="1760" frameBottom="1720"/>
+          <DOMBitmapItem name="images/tree-3.png" itemID="5a324c05-000006d2" sourceExternalFilepath="../../arena-1/LIBRARY/images/tree-3.png" sourceLastImported="1513245572" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/tree-3.png" bitmapDataHRef="M 124 1513245586.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="images/tree-4.png" itemID="5a324c05-000006d3" sourceExternalFilepath="../../arena-1/LIBRARY/images/tree-4.png" sourceLastImported="1513245572" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/tree-4.png" bitmapDataHRef="M 123 1513245586.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
      </media>
      <symbols>
           <Include href="arrow_btn.xml" loadImmediate="false" itemID="5937b4f1-000001f7" lastModified="1496826979"/>
@@ -189,7 +189,7 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="places" color="#9933CC" locked="true" current="true" isSelected="true" autoNamed="false">
+                    <DOMLayer name="places" color="#9933CC" locked="true" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
@@ -257,7 +257,7 @@
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="place_mc" selected="true" centerPoint3DX="290" centerPoint3DY="600">
+                                        <DOMSymbolInstance libraryItemName="place_mc" centerPoint3DX="290" centerPoint3DY="600">
                                              <matrix>
                                                   <Matrix tx="240" ty="550"/>
                                              </matrix>
@@ -425,7 +425,7 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="roads" color="#4FFF4F" autoNamed="false">
+                    <DOMLayer name="roads" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
@@ -495,7 +495,7 @@
                                                   <Matrix tx="429.55" ty="468.55"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/building-plot.png">
+                                        <DOMBitmapInstance selected="true" libraryItemName="images/building-plot.png">
                                              <matrix>
                                                   <Matrix tx="730.95" ty="1286.25"/>
                                              </matrix>
@@ -815,7 +815,7 @@
                                    <elements>
                                         <DOMBitmapInstance libraryItemName="images/road-v.png">
                                              <matrix>
-                                                  <Matrix d="1.82283020019531" tx="495.5" ty="592.7"/>
+                                                  <Matrix d="1.82281494140625" tx="495.5" ty="592.7"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="44.5" y="201.5"/>
@@ -2603,7 +2603,7 @@
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="place_mc" selected="true" centerPoint3DX="290" centerPoint3DY="600">
+                                        <DOMSymbolInstance libraryItemName="place_mc" centerPoint3DX="290" centerPoint3DY="600">
                                              <matrix>
                                                   <Matrix tx="240" ty="550"/>
                                              </matrix>
@@ -2797,7 +2797,7 @@
                                    <elements>
                                         <DOMBitmapInstance libraryItemName="images/road-v.png">
                                              <matrix>
-                                                  <Matrix a="0.812042236328125" b="-0.583602905273438" c="1.36964416503906" d="1.90574645996094" tx="237.25" ty="594"/>
+                                                  <Matrix a="0.812042236328125" b="-0.583602905273438" c="1.36962890625" d="1.90574645996094" tx="237.25" ty="594"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="44.5" y="201.45"/>
@@ -3790,7 +3790,7 @@
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="place_mc" selected="true" centerPoint3DX="890" centerPoint3DY="1010">
+                                        <DOMSymbolInstance libraryItemName="place_mc" centerPoint3DX="890" centerPoint3DY="1010">
                                              <matrix>
                                                   <Matrix tx="840" ty="960"/>
                                              </matrix>
@@ -4748,7 +4748,7 @@
                                    <elements>
                                         <DOMBitmapInstance libraryItemName="images/road-v.png">
                                              <matrix>
-                                                  <Matrix a="0.816696166992188" b="0.577056884765625" c="-1.43582153320313" d="2.03211975097656" tx="791.15" ty="528.2"/>
+                                                  <Matrix a="0.816696166992188" b="0.577056884765625" c="-1.43582153320313" d="2.0321044921875" tx="791.15" ty="528.2"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="44.55" y="201.45"/>
@@ -5244,16 +5244,17 @@
      <persistentData>
           <PD n="flash.fla.filepath" v="C:/_projects/towers-projects/Towers-tools/quest-generator-files/arena-4/arena-4.xfl"/>
           <PD n="swf.folder.path" v="C:/_projects/towers-projects/Towers-tools/quest-generator-files/"/>
-          <PD n="com.air.artemis.pubipa" v="false"/>
           <PD n="com.air.artemis.pubcaptive" v="false"/>
+          <PD n="com.air.artemis.pubipa" v="false"/>
           <PD n="com.air.artemis.pubair" v="true"/>
           <PD n="flash.swf.basename" v="arena-4"/>
-          <PD n="com.air.artemis.pubexe" v="false"/>
           <PD n="com.air.sdk.path"/>
+          <PD n="com.air.artemis.pubexe" v="false"/>
           <PD n="com.air.artemis.airdest" v="arena-4.air"/>
      </persistentData>
      <PrinterSettings/>
      <publishHistory>
+          <PublishItem publishSize="443281" publishTime="1517667348"/>
           <PublishItem publishSize="444470" publishTime="1511946492"/>
      </publishHistory>
      <swcCache>

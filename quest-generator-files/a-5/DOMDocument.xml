@@ -1,4 +1,4 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1080" height="1920" currentTimeline="5" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" objectsSnapTo="false" viewAngle3D="91.258197287559" nextSceneIdentifier="21" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1080" height="1920" currentTimeline="3" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" objectsSnapTo="false" viewAngle3D="91.258197287559" nextSceneIdentifier="21" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false">
      <folders>
           <DOMFolderItem name="Component Assets" itemID="44e488a0-000016d6"/>
           <DOMFolderItem name="Component Assets/_private" itemID="4573a4bc-000003c6"/>
@@ -930,7 +930,7 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="places" color="#9933CC" locked="true" current="true" isSelected="true" autoNamed="false">
+                    <DOMLayer name="places" color="#9933CC" locked="true" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
@@ -1128,7 +1128,7 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="roads" color="#4FFF4F" autoNamed="false">
+                    <DOMLayer name="roads" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
@@ -1172,7 +1172,7 @@
                                         </DOMBitmapInstance>
                                         <DOMBitmapInstance libraryItemName="images/road-v.png">
                                              <matrix>
-                                                  <Matrix a="0.922897338867188" b="-0.385009765625" c="0.641830444335938" d="1.53848266601563" tx="236.45" ty="655.1"/>
+                                                  <Matrix a="0.922897338867188" b="-0.385009765625" c="0.641830444335938" d="1.53848266601563" tx="232.6" ty="655.1"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="44.5" y="201.5"/>
@@ -1256,7 +1256,7 @@
                                         </DOMBitmapInstance>
                                         <DOMBitmapInstance libraryItemName="images/road-v.png">
                                              <matrix>
-                                                  <Matrix a="0.922897338867188" b="-0.385009765625" c="0.641830444335938" d="1.53848266601563" tx="511.7" ty="655.1"/>
+                                                  <Matrix a="0.922897338867188" b="-0.385009765625" c="0.641830444335938" d="1.53848266601563" tx="504" ty="658.95"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="44.5" y="201.5"/>
@@ -1936,7 +1936,7 @@
                                                   <Matrix tx="697" ty="1214.95"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/building-plot.png">
+                                        <DOMBitmapInstance libraryItemName="images/building-plot.png">
                                              <matrix>
                                                   <Matrix tx="697" ty="537.4"/>
                                              </matrix>
@@ -1988,16 +1988,19 @@
      <persistentData>
           <PD n="flash.fla.filepath" v="C:/_projects/towers-projects/Towers-tools/quest-generator-files/arena-5/arena-5.xfl"/>
           <PD n="swf.folder.path" v="C:/_projects/towers-projects/Towers-tools/quest-generator-files/"/>
-          <PD n="com.air.artemis.pubcaptive" v="false"/>
           <PD n="com.air.artemis.pubipa" v="false"/>
+          <PD n="com.air.artemis.pubcaptive" v="false"/>
           <PD n="com.air.artemis.pubair" v="true"/>
           <PD n="flash.swf.basename" v="arena-5"/>
-          <PD n="com.air.artemis.pubexe" v="false"/>
           <PD n="com.air.sdk.path"/>
+          <PD n="com.air.artemis.pubexe" v="false"/>
           <PD n="com.air.artemis.airdest" v="arena-5.air"/>
      </persistentData>
      <PrinterSettings/>
      <publishHistory>
+          <PublishItem publishSize="481009" publishTime="1517664506"/>
+          <PublishItem publishSize="481010" publishTime="1517664495"/>
+          <PublishItem publishSize="481007" publishTime="1517664482"/>
           <PublishItem publishSize="474076" publishTime="1511953115"/>
      </publishHistory>
      <swcCache>

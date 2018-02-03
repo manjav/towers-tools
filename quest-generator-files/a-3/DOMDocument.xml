@@ -337,9 +337,9 @@
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMBitmapInstance libraryItemName="images/road-h.png">
+                                        <DOMBitmapInstance selected="true" libraryItemName="images/road-h.png">
                                              <matrix>
-                                                  <Matrix tx="332.1" ty="1146.35"/>
+                                                  <Matrix tx="332.1" ty="1165.55"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="207.3" y="39.55"/>
@@ -347,7 +347,7 @@
                                         </DOMBitmapInstance>
                                         <DOMBitmapInstance libraryItemName="images/road-h.png">
                                              <matrix>
-                                                  <Matrix tx="332.1" ty="668.55"/>
+                                                  <Matrix tx="332.1" ty="687.75"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="207.3" y="39.55"/>
@@ -994,7 +994,7 @@
                                         </DOMBitmapInstance>
                                         <DOMBitmapInstance libraryItemName="images/road-h.png">
                                              <matrix>
-                                                  <Matrix tx="332.1" ty="1146.35"/>
+                                                  <Matrix tx="332.1" ty="1165.55"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="207.3" y="39.55"/>
@@ -1002,7 +1002,7 @@
                                         </DOMBitmapInstance>
                                         <DOMBitmapInstance libraryItemName="images/road-h.png">
                                              <matrix>
-                                                  <Matrix tx="332.1" ty="668.55"/>
+                                                  <Matrix tx="332.1" ty="687.75"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="207.3" y="39.55"/>
@@ -1016,7 +1016,7 @@
                                                   <Point x="44.45" y="201.45"/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/road-h.png">
+                                        <DOMBitmapInstance libraryItemName="images/road-h.png">
                                              <matrix>
                                                   <Matrix a="0.52740478515625" b="-0.4918212890625" c="0.681976318359375" d="0.7313232421875" tx="280" ty="686.6"/>
                                              </matrix>
@@ -2925,7 +2925,7 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="places" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+                    <DOMLayer name="places" color="#9933CC" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
@@ -2953,7 +2953,7 @@
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="place_mc" selected="true" centerPoint3DX="347" centerPoint3DY="1250">
+                                        <DOMSymbolInstance libraryItemName="place_mc" centerPoint3DX="347" centerPoint3DY="1250">
                                              <matrix>
                                                   <Matrix tx="297" ty="1200"/>
                                              </matrix>
@@ -3059,13 +3059,13 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="images" color="#FF4FFF" autoNamed="false">
+                    <DOMLayer name="images" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
                                         <DOMBitmapInstance libraryItemName="images/road-h.png">
                                              <matrix>
-                                                  <Matrix tx="332.1" ty="1146.35"/>
+                                                  <Matrix tx="332.1" ty="1165.55"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="207.3" y="39.55"/>
@@ -3073,7 +3073,7 @@
                                         </DOMBitmapInstance>
                                         <DOMBitmapInstance libraryItemName="images/road-h.png">
                                              <matrix>
-                                                  <Matrix tx="332.1" ty="668.55"/>
+                                                  <Matrix tx="332.1" ty="687.75"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="207.3" y="39.55"/>
@@ -3619,19 +3619,21 @@
           </DOMTimeline>
      </timelines>
      <persistentData>
-          <PD n="TestMovieChecked" v="ADLDesktop"/>
           <PD n="flash.fla.filepath" v="C:/_projects/towers-projects/Towers-tools/quest-generator-files/arena-1/arena-1.xfl"/>
+          <PD n="TestMovieChecked" v="ADLDesktop"/>
           <PD n="swf.folder.path" v="C:/_projects/towers-projects/Towers-tools/quest-generator-files/"/>
-          <PD n="com.air.artemis.pubipa" v="false"/>
           <PD n="com.air.artemis.pubcaptive" v="false"/>
+          <PD n="com.air.artemis.pubipa" v="false"/>
           <PD n="com.air.artemis.pubair" v="true"/>
           <PD n="flash.swf.basename" v="arena-1"/>
-          <PD n="com.air.artemis.pubexe" v="false"/>
           <PD n="com.air.sdk.path"/>
+          <PD n="com.air.artemis.pubexe" v="false"/>
           <PD n="com.air.artemis.airdest" v="arena-1.air"/>
      </persistentData>
      <PrinterSettings/>
      <publishHistory>
+          <PublishItem publishSize="549000" publishTime="1517662735"/>
+          <PublishItem publishSize="549000" publishTime="1517662703"/>
           <PublishItem publishSize="598337" publishTime="1517576896"/>
           <PublishItem publishSize="674753" publishTime="1517568826"/>
           <PublishItem publishSize="674747" publishTime="1517568768"/>
@@ -3650,8 +3652,6 @@
           <PublishItem publishSize="667364" publishTime="1513353439"/>
           <PublishItem publishSize="667370" publishTime="1513353359"/>
           <PublishItem publishSize="667369" publishTime="1513353319"/>
-          <PublishItem publishSize="667367" publishTime="1513353221"/>
-          <PublishItem publishSize="667369" publishTime="1513353160"/>
      </publishHistory>
      <swcCache>
           <Swc hashKey="k718tUOF1.A1OSpQnqdJJ0" href="btrso67ge.swc">

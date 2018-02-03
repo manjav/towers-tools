@@ -1,4 +1,4 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1080" height="1920" currentTimeline="10" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" objectsSnapTo="false" viewAngle3D="91.258197287559" nextSceneIdentifier="13" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1080" height="1920" currentTimeline="7" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" objectsSnapTo="false" viewAngle3D="91.258197287559" nextSceneIdentifier="13" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false">
      <folders>
           <DOMFolderItem name="Component Assets" itemID="44e488a0-000016d6"/>
           <DOMFolderItem name="Component Assets/_private" itemID="4573a4bc-000003c6"/>
@@ -148,7 +148,7 @@
                </customIcon>
                <SwcItem name="fl.core.ComponentShim" version="1292423059" isTopLevel="true"/>
           </DOMCompiledClipItem>
-          <DOMBitmapItem name="images/damage-range.png" itemID="595a007c-000002ab" sourceExternalFilepath="../../quest-generator/LIBRARY/images/damage-range.png" sourceLastImported="1496594265" originalCompressionType="lossless" quality="50" href="images/damage-range.png" bitmapDataHRef="M 43 1511945869.dat" frameRight="4000" frameBottom="4000"/>
+          <DOMBitmapItem name="images/damage-range.png" itemID="5a324913-0000065b" sourceExternalFilepath="../../arena-2/LIBRARY/images/damage-range.png" sourceLastImported="1496590666" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/damage-range.png" bitmapDataHRef="M 104 1513244696.dat" frameRight="4000" frameBottom="4000"/>
           <DOMBitmapItem name="images/ground-228.png" itemID="5939b72c-00000337" sourceExternalFilepath="../../quest-generator/LIBRARY/images/ground-228.png" sourceLastImported="1496651187" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/ground-228.png" bitmapDataHRef="M 56 1511945869.dat" frameRight="4560" frameBottom="4560"/>
           <DOMBitmapItem name="images/hole-0.png" itemID="5a14403e-00000388" sourceExternalFilepath="../../battle-generator/LIBRARY/images/hole-0.png" sourceLastImported="1511275560" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/hole-0.png" bitmapDataHRef="M 61 1511946106.dat" frameRight="2800" frameBottom="2740"/>
           <DOMBitmapItem name="images/hole-2.png" itemID="5a14403e-0000038a" sourceExternalFilepath="../../battle-generator/LIBRARY/images/hole-2.png" sourceLastImported="1511275300" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/hole-2.png" bitmapDataHRef="M 48 1511945869.dat" frameRight="1660" frameBottom="1580"/>
@@ -160,14 +160,14 @@
           <DOMBitmapItem name="images/rock-5.png" itemID="5a14403e-00000397" sourceExternalFilepath="../../battle-generator/LIBRARY/images/rock-5.png" sourceLastImported="1511275462" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/rock-5.png" bitmapDataHRef="M 55 1511945869.dat" frameRight="1520" frameBottom="1700"/>
           <DOMBitmapItem name="images/rock-6-.png" itemID="5a14403e-00000398" sourceExternalFilepath="../../battle-generator/LIBRARY/images/rock-6-.png" sourceLastImported="1511276362" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/rock-6-.png" bitmapDataHRef="M 59 1511945992.dat" frameRight="2180" frameBottom="1820"/>
           <DOMBitmapItem name="images/tree-0.png" itemID="5a324913-0000066e" sourceExternalFilepath="../../arena-1/LIBRARY/images/tree-0.png" sourceLastImported="1513244563" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/tree-0.png" bitmapDataHRef="M 84 1513244696.dat" frameRight="2180" frameBottom="2240"/>
-          <DOMBitmapItem name="images/tree-1.png" itemID="5a324913-0000066f" sourceExternalFilepath="../../arena-1/LIBRARY/images/tree-1.png" sourceLastImported="1513244564" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/tree-1.png" bitmapDataHRef="M 85 1513244696.dat" frameRight="1780" frameBottom="1820"/>
-          <DOMBitmapItem name="images/tree-2.png" itemID="5a324913-00000670" sourceExternalFilepath="../../arena-1/LIBRARY/images/tree-2.png" sourceLastImported="1513244564" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/tree-2.png" bitmapDataHRef="M 86 1513244696.dat" frameRight="1260" frameBottom="1260"/>
+          <DOMBitmapItem name="images/tree-1.png" itemID="5a324913-0000066f" sourceExternalFilepath="../../arena-1/LIBRARY/images/tree-1.png" sourceLastImported="1513244564" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/tree-1.png" bitmapDataHRef="M 85 1513244696.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="images/tree-2.png" itemID="5a324913-00000670" sourceExternalFilepath="../../arena-1/LIBRARY/images/tree-2.png" sourceLastImported="1513244564" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/tree-2.png" bitmapDataHRef="M 86 1513244696.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
           <DOMBitmapItem name="images/tree-3.png" itemID="5a324c05-000006d2" sourceExternalFilepath="../../arena-1/LIBRARY/images/tree-3.png" sourceLastImported="1513245572" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/tree-3.png" bitmapDataHRef="M 124 1513245586.dat" frameRight="1940" frameBottom="1860"/>
           <DOMBitmapItem name="images/tree-4.png" itemID="5a324c05-000006d3" sourceExternalFilepath="../../arena-1/LIBRARY/images/tree-4.png" sourceLastImported="1513245572" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/tree-4.png" bitmapDataHRef="M 123 1513245586.dat" frameRight="1760" frameBottom="1720"/>
      </media>
      <symbols>
           <Include href="arrow_btn.xml" loadImmediate="false" itemID="5937b4f1-000001f7" lastModified="1496826979"/>
-          <Include href="building-body.xml" loadImmediate="false" itemID="59384391-00000463" lastModified="1511597497"/>
+          <Include href="building-body.xml" loadImmediate="false" itemID="59384391-00000463" lastModified="1514048063"/>
           <Include href="CheckBox.xml" itemID="44b19f0d-00000018" lastModified="1497084291"/>
           <Include href="Component Assets/_private/Component_avatar.xml" loadImmediate="false" itemID="44f89322-00000020" lastModified="1168286780"/>
           <Include href="Component Assets/CheckBoxSkins/CheckBox_disabledIcon.xml" itemID="43970702-00000af1" lastModified="1168287061"/>
@@ -182,12 +182,12 @@
           <Include href="Component Assets/Shared/focusRectSkin.xml" itemID="44d8b6f8-00000055" lastModified="1168290361"/>
           <Include href="num_btn.xml" loadImmediate="false" itemID="5936f75d-00000aea" lastModified="1497456646"/>
           <Include href="num_input.xml" loadImmediate="false" itemID="595a2711-000002b2" lastModified="1499755959"/>
-          <Include href="place_mc.xml" itemID="5936f750-00000ae9" lastModified="1511279429"/>
-          <Include href="radius_mc.xml" loadImmediate="false" itemID="5959ff74-000002aa" lastModified="1511279423"/>
+          <Include href="place_mc.xml" itemID="5936f750-00000ae9" lastModified="1514048099"/>
+          <Include href="radius_mc.xml" loadImmediate="false" itemID="5959ff74-000002aa" lastModified="1513251243"/>
           <Include href="simple_btn.xml" loadImmediate="false" itemID="5937c230-00000210" lastModified="1496827068"/>
      </symbols>
      <timelines>
-          <DOMTimeline name="battle_301">
+          <DOMTimeline name="battle_401">
                <layers>
                     <DOMLayer name="action" color="#4FFF4F" autoNamed="false">
                          <frames>
@@ -349,7 +349,7 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="images" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+                    <DOMLayer name="images" color="#FF4FFF" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
@@ -753,7 +753,7 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="roads" color="#9933CC" autoNamed="false">
+                    <DOMLayer name="roads" color="#9933CC" current="true" isSelected="true" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
@@ -769,15 +769,15 @@
                                         </DOMBitmapInstance>
                                         <DOMBitmapInstance libraryItemName="images/road-h.png">
                                              <matrix>
-                                                  <Matrix a="0.839202880859375" b="0.543807983398438" c="-0.543807983398438" d="0.839202880859375" tx="393.35" ty="807.8"/>
+                                                  <Matrix a="0.906494140625" b="0.422210693359375" c="-0.422210693359375" d="0.906494140625" tx="367.05" ty="837.95"/>
                                              </matrix>
                                              <transformationPoint>
-                                                  <Point x="207.55" y="39.35"/>
+                                                  <Point x="207.55" y="39.4"/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
                                         <DOMBitmapInstance libraryItemName="images/road-v.png">
                                              <matrix>
-                                                  <Matrix d="1.44770812988281" tx="275.55" ty="559.65"/>
+                                                  <Matrix d="1.44769287109375" tx="275.55" ty="559.65"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="44.5" y="201.5"/>
@@ -862,7 +862,7 @@
                     </DOMLayer>
                </layers>
           </DOMTimeline>
-          <DOMTimeline name="battle_302">
+          <DOMTimeline name="battle_402">
                <layers>
                     <DOMLayer name="action" color="#4FFF4F" autoNamed="false">
                          <frames>
@@ -874,11 +874,11 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="places" color="#9933CC" locked="true" current="true" isSelected="true" autoNamed="false">
+                    <DOMLayer name="places" color="#9933CC" locked="true" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="place_mc" selected="true" centerPoint3DX="370" centerPoint3DY="1250">
+                                        <DOMSymbolInstance libraryItemName="place_mc" centerPoint3DX="370" centerPoint3DY="1250">
                                              <matrix>
                                                   <Matrix tx="320" ty="1200"/>
                                              </matrix>
@@ -902,7 +902,7 @@
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="place_mc" selected="true" centerPoint3DX="370" centerPoint3DY="570">
+                                        <DOMSymbolInstance libraryItemName="place_mc" centerPoint3DX="370" centerPoint3DY="570">
                                              <matrix>
                                                   <Matrix tx="320" ty="520"/>
                                              </matrix>
@@ -910,7 +910,7 @@
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="place_mc" selected="true" centerPoint3DX="810" centerPoint3DY="776.65">
+                                        <DOMSymbolInstance libraryItemName="place_mc" centerPoint3DX="810" centerPoint3DY="776.65">
                                              <matrix>
                                                   <Matrix tx="760" ty="726.65"/>
                                              </matrix>
@@ -918,7 +918,7 @@
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="place_mc" selected="true" centerPoint3DX="370" centerPoint3DY="910">
+                                        <DOMSymbolInstance libraryItemName="place_mc" centerPoint3DX="370" centerPoint3DY="910">
                                              <matrix>
                                                   <Matrix tx="320" ty="860"/>
                                              </matrix>
@@ -926,7 +926,7 @@
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="place_mc" selected="true" centerPoint3DX="810" centerPoint3DY="1113.3">
+                                        <DOMSymbolInstance libraryItemName="place_mc" centerPoint3DX="810" centerPoint3DY="1113.3">
                                              <matrix>
                                                   <Matrix tx="760" ty="1063.3"/>
                                              </matrix>
@@ -934,7 +934,7 @@
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="place_mc" selected="true" centerPoint3DX="810" centerPoint3DY="440">
+                                        <DOMSymbolInstance libraryItemName="place_mc" centerPoint3DX="810" centerPoint3DY="440">
                                              <matrix>
                                                   <Matrix tx="760" ty="390"/>
                                              </matrix>
@@ -1210,11 +1210,11 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="roads" color="#9933CC" locked="true" autoNamed="false">
+                    <DOMLayer name="roads" color="#9933CC" locked="true" current="true" isSelected="true" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/road-h.png">
+                                        <DOMBitmapInstance libraryItemName="images/road-h.png">
                                              <matrix>
                                                   <Matrix a="0.960098266601563" b="-0.279647827148438" c="0.279647827148438" d="0.960098266601563" tx="341.3" ty="471.8"/>
                                              </matrix>
@@ -1224,12 +1224,12 @@
                                                   <Matrix a="0.960098266601563" b="-0.279647827148438" c="0.279647827148438" d="0.960098266601563" tx="341.3" ty="1487.9"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/road-h.png">
+                                        <DOMBitmapInstance libraryItemName="images/road-h.png">
                                              <matrix>
                                                   <Matrix a="0.960098266601563" b="-0.279647827148438" c="0.279647827148438" d="0.960098266601563" tx="341.3" ty="1149.2"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/road-h.png">
+                                        <DOMBitmapInstance libraryItemName="images/road-h.png">
                                              <matrix>
                                                   <Matrix a="0.960098266601563" b="-0.279647827148438" c="0.279647827148438" d="0.960098266601563" tx="341.3" ty="810.5"/>
                                              </matrix>
@@ -1242,7 +1242,7 @@
                                                   <Point x="44.5" y="201.5"/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/road-v.png">
+                                        <DOMBitmapInstance libraryItemName="images/road-v.png">
                                              <matrix>
                                                   <Matrix d="1.60148620605469" tx="712.15" ty="441.55"/>
                                              </matrix>
@@ -1321,9 +1321,9 @@
                     </DOMLayer>
                </layers>
           </DOMTimeline>
-          <DOMTimeline name="battle_303">
+          <DOMTimeline name="battle_403">
                <layers>
-                    <DOMLayer name="action" color="#4FFF4F" autoNamed="false">
+                    <DOMLayer name="action" color="#4FFF4F" locked="true" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <Actionscript>
@@ -1337,7 +1337,7 @@
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="place_mc" selected="true" centerPoint3DX="370" centerPoint3DY="1250">
+                                        <DOMSymbolInstance libraryItemName="place_mc" centerPoint3DX="370" centerPoint3DY="1250">
                                              <matrix>
                                                   <Matrix tx="320" ty="1200"/>
                                              </matrix>
@@ -1345,7 +1345,7 @@
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="place_mc" selected="true" centerPoint3DX="810" centerPoint3DY="1450">
+                                        <DOMSymbolInstance libraryItemName="place_mc" centerPoint3DX="810" centerPoint3DY="1450">
                                              <matrix>
                                                   <Matrix tx="760" ty="1400"/>
                                              </matrix>
@@ -1353,7 +1353,7 @@
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="place_mc" selected="true" centerPoint3DX="370" centerPoint3DY="1590">
+                                        <DOMSymbolInstance libraryItemName="place_mc" centerPoint3DX="370" centerPoint3DY="1590">
                                              <matrix>
                                                   <Matrix tx="320" ty="1540"/>
                                              </matrix>
@@ -1361,7 +1361,7 @@
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="place_mc" selected="true" centerPoint3DX="370" centerPoint3DY="570">
+                                        <DOMSymbolInstance libraryItemName="place_mc" centerPoint3DX="370" centerPoint3DY="570">
                                              <matrix>
                                                   <Matrix tx="320" ty="520"/>
                                              </matrix>
@@ -1369,7 +1369,7 @@
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="place_mc" selected="true" centerPoint3DX="810" centerPoint3DY="776.65">
+                                        <DOMSymbolInstance libraryItemName="place_mc" centerPoint3DX="810" centerPoint3DY="776.65">
                                              <matrix>
                                                   <Matrix tx="760" ty="726.65"/>
                                              </matrix>
@@ -1377,7 +1377,7 @@
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="place_mc" selected="true" centerPoint3DX="370" centerPoint3DY="910">
+                                        <DOMSymbolInstance libraryItemName="place_mc" centerPoint3DX="370" centerPoint3DY="910">
                                              <matrix>
                                                   <Matrix tx="320" ty="860"/>
                                              </matrix>
@@ -1385,7 +1385,7 @@
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="place_mc" selected="true" centerPoint3DX="810" centerPoint3DY="1113.3">
+                                        <DOMSymbolInstance libraryItemName="place_mc" centerPoint3DX="810" centerPoint3DY="1113.3">
                                              <matrix>
                                                   <Matrix tx="760" ty="1063.3"/>
                                              </matrix>
@@ -1393,7 +1393,7 @@
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="place_mc" selected="true" centerPoint3DX="810" centerPoint3DY="440">
+                                        <DOMSymbolInstance libraryItemName="place_mc" centerPoint3DX="810" centerPoint3DY="440">
                                              <matrix>
                                                   <Matrix tx="760" ty="390"/>
                                              </matrix>
@@ -1405,7 +1405,7 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="controls" color="#FF800A" autoNamed="false">
+                    <DOMLayer name="controls" color="#FF800A" locked="true" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
@@ -1646,7 +1646,7 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="roads" color="#9933CC" locked="true" current="true" isSelected="true" autoNamed="false">
+                    <DOMLayer name="roads" color="#9933CC" current="true" isSelected="true" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
@@ -1666,7 +1666,7 @@
                                                   <Point x="44.5" y="201.6"/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/road-v.png">
+                                        <DOMBitmapInstance libraryItemName="images/road-v.png">
                                              <matrix>
                                                   <Matrix tx="279.05" ty="1168.35"/>
                                              </matrix>
@@ -1694,17 +1694,17 @@
                                         </DOMBitmapInstance>
                                         <DOMBitmapInstance libraryItemName="images/road-h.png">
                                              <matrix>
-                                                  <Matrix a="0.89739990234375" b="0.44122314453125" c="-0.44122314453125" d="0.89739990234375" tx="362.75" ty="487.65"/>
+                                                  <Matrix a="0.89739990234375" b="0.44122314453125" c="-0.44122314453125" d="0.89739990234375" tx="358.95" ty="491.45"/>
                                              </matrix>
                                         </DOMBitmapInstance>
                                         <DOMBitmapInstance libraryItemName="images/road-h.png">
                                              <matrix>
-                                                  <Matrix a="0.89739990234375" b="0.44122314453125" c="-0.44122314453125" d="0.89739990234375" tx="360.4" ty="1161.7"/>
+                                                  <Matrix a="0.89739990234375" b="0.44122314453125" c="-0.44122314453125" d="0.89739990234375" tx="356.6" ty="1165.5"/>
                                              </matrix>
                                         </DOMBitmapInstance>
                                         <DOMBitmapInstance libraryItemName="images/road-h.png">
                                              <matrix>
-                                                  <Matrix a="0.89739990234375" b="0.44122314453125" c="-0.44122314453125" d="0.89739990234375" tx="376.15" ty="824.65"/>
+                                                  <Matrix a="0.89739990234375" b="0.44122314453125" c="-0.44122314453125" d="0.89739990234375" tx="368.55" ty="832.25"/>
                                              </matrix>
                                         </DOMBitmapInstance>
                                         <DOMBitmapInstance libraryItemName="images/building-plot.png">
@@ -1740,7 +1740,7 @@
                                                   <Matrix tx="645.65" ty="979.4"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/building-plot.png">
+                                        <DOMBitmapInstance libraryItemName="images/building-plot.png">
                                              <matrix>
                                                   <Matrix tx="204.15" ty="1455.35"/>
                                              </matrix>
@@ -1778,7 +1778,7 @@
                     </DOMLayer>
                </layers>
           </DOMTimeline>
-          <DOMTimeline name="battle_304">
+          <DOMTimeline name="battle_404">
                <layers>
                     <DOMLayer name="action" color="#4FFF4F" autoNamed="false">
                          <frames>
@@ -2239,7 +2239,7 @@
                     </DOMLayer>
                </layers>
           </DOMTimeline>
-          <DOMTimeline name="battle_305">
+          <DOMTimeline name="battle_405">
                <layers>
                     <DOMLayer name="action" color="#4FFF4F" autoNamed="false">
                          <frames>
@@ -2677,7 +2677,7 @@
                                                   <Matrix tx="645.65" ty="979.4"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/building-plot.png">
+                                        <DOMBitmapInstance libraryItemName="images/building-plot.png">
                                              <matrix>
                                                   <Matrix tx="204.15" ty="1455.35"/>
                                              </matrix>
@@ -2715,7 +2715,7 @@
                     </DOMLayer>
                </layers>
           </DOMTimeline>
-          <DOMTimeline name="battle_306">
+          <DOMTimeline name="battle_406">
                <layers>
                     <DOMLayer name="action" color="#4FFF4F" locked="true" autoNamed="false">
                          <frames>
@@ -3183,9 +3183,9 @@
                     </DOMLayer>
                </layers>
           </DOMTimeline>
-          <DOMTimeline name="battle_307">
+          <DOMTimeline name="battle_407">
                <layers>
-                    <DOMLayer name="action" color="#4FFF4F" locked="true" autoNamed="false">
+                    <DOMLayer name="action" color="#4FFF4F" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <Actionscript>
@@ -3195,7 +3195,14 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="places" color="#9933CC" locked="true" autoNamed="false">
+                    <DOMLayer name="places" color="#9933CC" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 24" color="#FF4F4F">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
@@ -3872,7 +3879,7 @@
                     </DOMLayer>
                </layers>
           </DOMTimeline>
-          <DOMTimeline name="battle_308">
+          <DOMTimeline name="battle_408">
                <layers>
                     <DOMLayer name="action" color="#4FFF4F" locked="true" autoNamed="false">
                          <frames>
@@ -4578,18 +4585,30 @@
           </DOMTimeline>
      </timelines>
      <persistentData>
+          <PD n="TestMovieChecked" v="ADLDesktop"/>
           <PD n="flash.fla.filepath" v="C:/_projects/towers-projects/Towers-tools/quest-generator-files/arena-3/arena-3.xfl"/>
           <PD n="swf.folder.path" v="C:/_projects/towers-projects/Towers-tools/quest-generator-files/"/>
-          <PD n="com.air.artemis.pubipa" v="false"/>
           <PD n="com.air.artemis.pubcaptive" v="false"/>
+          <PD n="com.air.artemis.pubipa" v="false"/>
           <PD n="com.air.artemis.pubair" v="true"/>
           <PD n="flash.swf.basename" v="arena-3"/>
-          <PD n="com.air.artemis.pubexe" v="false"/>
           <PD n="com.air.sdk.path"/>
+          <PD n="com.air.artemis.pubexe" v="false"/>
           <PD n="com.air.artemis.airdest" v="arena-3.air"/>
      </persistentData>
      <PrinterSettings/>
-     <publishHistory/>
+     <publishHistory>
+          <PublishItem publishSize="590857" publishTime="1517664202"/>
+          <PublishItem publishSize="590701" publishTime="1517664073"/>
+          <PublishItem publishSize="590852" publishTime="1517663910"/>
+          <PublishItem publishSize="590857" publishTime="1517663883"/>
+          <PublishItem publishSize="590857" publishTime="1517663854"/>
+          <PublishItem publishSize="590857" publishTime="1517663775"/>
+          <PublishItem publishSize="590855" publishTime="1517663314"/>
+          <PublishItem publishSize="590833" publishTime="1517663290"/>
+          <PublishItem publishSize="590819" publishTime="1517663126"/>
+          <PublishItem publishSize="590822" publishTime="1517663065"/>
+     </publishHistory>
      <swcCache>
           <Swc hashKey="k718tUOF1.A1OSpQnqdJJ0" href="cz02968xt.swc">
                <classDefinitions>

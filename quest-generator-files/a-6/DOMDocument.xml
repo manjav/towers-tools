@@ -1,4 +1,4 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1080" height="1920" currentTimeline="20" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" objectsSnapTo="false" viewAngle3D="91.258197287559" nextSceneIdentifier="30" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1080" height="1920" currentTimeline="10" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" objectsSnapTo="false" viewAngle3D="91.258197287559" nextSceneIdentifier="30" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false">
      <folders>
           <DOMFolderItem name="Component Assets" itemID="44e488a0-000016d6"/>
           <DOMFolderItem name="Component Assets/_private" itemID="4573a4bc-000003c6"/>
@@ -55,7 +55,7 @@
           <DOMBitmapItem name="images/bush-4.png" itemID="5a324912-00000655" sourceExternalFilepath="../../arena-5/LIBRARY/images/bush-4.png" sourceLastImported="1511275427" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/bush-4.png" bitmapDataHRef="M 93 1513244696.dat" frameRight="1120" frameBottom="1280"/>
           <DOMBitmapItem name="images/bush-5.png" itemID="5a14403e-0000037f" sourceExternalFilepath="../../battle-generator/LIBRARY/images/bush-5.png" sourceLastImported="1511275535" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/bush-5.png" bitmapDataHRef="M 56 1511947099.dat" frameRight="700" frameBottom="760"/>
           <DOMBitmapItem name="images/bush-7.png" itemID="5a324912-00000658" sourceExternalFilepath="../../arena-5/LIBRARY/images/bush-7.png" sourceLastImported="1511275543" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/bush-7.png" bitmapDataHRef="M 96 1513244696.dat" frameRight="620" frameBottom="560"/>
-          <DOMBitmapItem name="images/chair-0.png" itemID="5a14403e-00000382" sourceExternalFilepath="../../arena-5/LIBRARY/images/chair-0.png" sourceLastImported="1511275310" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/chair-0.png" bitmapDataHRef="M 58 1511944460.dat" frameRight="800" frameBottom="740"/>
+          <DOMBitmapItem name="images/chair-0.png" itemID="5a14403e-00000382" sourceExternalFilepath="../../arena-5/LIBRARY/images/chair-0.png" sourceLastImported="1511275310" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/chair-0.png" bitmapDataHRef="M 58 1511944460.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
           <DOMCompiledClipItem name="Component Assets/_private/ComponentShim" itemID="4d08cfa8-000001ee" linkageExportForAS="true" linkageClassName="fl.core.ComponentShim" sourceExternalFilepath="../../arena-5/LIBRARY/Component Assets/_private/ComponentShim" sourceLastImported="1292423080" displayAsComponent="false" customIconID="0" actionscriptClass="fl.core.ComponentShim" swfScmHRef="kbx0udh422.swf" swfScmSourceFilename="C:\Users\jkamerer\AppData\Local\Adobe\Flash CS5.5\en_US\Configuration\TMPkavphdh40p..swf" persistLivePreview11="true" livePreview11ScmHRef="kbx0udh4221.swf" livePreview11ScmSourceFilename="C:\Users\jkamerer\AppData\Local\Adobe\Flash CS5.5\en_US\Configuration\TMPkavphdh40p..swf" editFrameIndex="1" requiredMinimumPlayerVersion="0" requiredMinimumASVersion="0" parametersAreLocked="true" swcPath="Component Assets/_private/ComponentShim.xml" rootSymbolLinkageID="fl.core.ComponentShim" playerVersion="9" actionscriptVersion="3" hashKey="k718tUOF1.A1OSpQnqdJJ0">
                <classProperties><![CDATA[<component id="fl/core/ComponentShim" class="fl.core.ComponentShim" modified="1292423059130">
 <movieBounds xmin="0" xmax="0" ymin="0" ymax="0" />
@@ -150,11 +150,11 @@
           <DOMBitmapItem name="images/damage-range.png" itemID="5a324913-0000065b" sourceExternalFilepath="../../arena-5/LIBRARY/images/damage-range.png" sourceLastImported="1496590666" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/damage-range.png" bitmapDataHRef="M 104 1513244696.dat" frameRight="4000" frameBottom="4000"/>
           <DOMBitmapItem name="images/ground-228.png" itemID="5939b72c-00000337" sourceExternalFilepath="../../arena-5/LIBRARY/images/ground-228.png" sourceLastImported="1496651187" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/ground-228.png" bitmapDataHRef="M 45 1511946742.dat" frameRight="4560" frameBottom="4560"/>
           <DOMBitmapItem name="images/hole-2.png" itemID="5a14403e-0000038a" sourceExternalFilepath="../../battle-generator/LIBRARY/images/hole-2.png" sourceLastImported="1511275300" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/hole-2.png" bitmapDataHRef="M 53 1511947099.dat" frameRight="1660" frameBottom="1580"/>
-          <DOMBitmapItem name="images/hut-0.png" itemID="5a14403e-0000038b" sourceExternalFilepath="../../battle-generator/LIBRARY/images/hut-0.png" sourceLastImported="1511275380" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/hut-0.png" bitmapDataHRef="M 64 1517574553.dat" frameRight="3340" frameBottom="2060"/>
+          <DOMBitmapItem name="images/hut-0.png" itemID="5a14403e-0000038b" sourceExternalFilepath="../../battle-generator/LIBRARY/images/hut-0.png" sourceLastImported="1511275380" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/hut-0.png" bitmapDataHRef="M 64 1517574553.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
           <DOMBitmapItem name="images/road-h.png" itemID="5a14403e-00000390" sourceExternalFilepath="../../arena-5/LIBRARY/images/road-h.png" sourceLastImported="1497024148" originalCompressionType="lossless" quality="50" href="images/road-h.png" bitmapDataHRef="M 47 1511946742.dat" frameRight="8300" frameBottom="1580"/>
           <DOMBitmapItem name="images/road-v.png" itemID="5a324913-00000665" sourceExternalFilepath="../../arena-5/LIBRARY/images/road-v.png" sourceLastImported="1513243288" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/road-v.png" bitmapDataHRef="M 119 1513244697.dat" frameRight="1780" frameBottom="8060"/>
           <DOMBitmapItem name="images/rock-0.png" itemID="5a14403e-00000394" sourceExternalFilepath="../../battle-generator/LIBRARY/images/rock-0.png" sourceLastImported="1511275479" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/rock-0.png" bitmapDataHRef="M 52 1511947099.dat" frameRight="1700" frameBottom="1320"/>
-          <DOMBitmapItem name="images/rock-1.png" itemID="5a14403e-00000395" sourceExternalFilepath="../../arena-5/LIBRARY/images/rock-1.png" sourceLastImported="1511275445" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/rock-1.png" bitmapDataHRef="M 50 1511946742.dat" frameRight="1300" frameBottom="1160"/>
+          <DOMBitmapItem name="images/rock-1.png" itemID="5a14403e-00000395" sourceExternalFilepath="../../arena-5/LIBRARY/images/rock-1.png" sourceLastImported="1511275445" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/rock-1.png" bitmapDataHRef="M 50 1511946742.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
           <DOMBitmapItem name="images/rock-5.png" itemID="5a14403e-00000397" sourceExternalFilepath="../../arena-5/LIBRARY/images/rock-5.png" sourceLastImported="1511275462" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/rock-5.png" bitmapDataHRef="M 51 1511946742.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
           <DOMBitmapItem name="images/tree-0.png" itemID="5a324913-0000066e" sourceExternalFilepath="../../arena-5/LIBRARY/images/tree-0.png" sourceLastImported="1513244563" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="images/tree-0.png" bitmapDataHRef="M 84 1513244696.dat" frameRight="2180" frameBottom="2240"/>
      </media>
@@ -358,7 +358,7 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="images" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+                    <DOMLayer name="images" color="#FF4FFF" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
@@ -744,7 +744,7 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="roads" color="#4FFF4F" autoNamed="false">
+                    <DOMLayer name="roads" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
@@ -805,7 +805,7 @@
                                                   <Matrix tx="648" ty="1257.95"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/building-plot.png">
+                                        <DOMBitmapInstance selected="true" libraryItemName="images/building-plot.png">
                                              <matrix>
                                                   <Matrix tx="429" ty="1447"/>
                                              </matrix>
@@ -1622,7 +1622,7 @@
                                                   <Point x="-1.15" y="-46.25"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="place_mc" selected="true" centerPoint3DX="538.95" centerPoint3DY="1103.65">
+                                        <DOMSymbolInstance libraryItemName="place_mc" centerPoint3DX="538.95" centerPoint3DY="1103.65">
                                              <matrix>
                                                   <Matrix tx="540" ty="1150"/>
                                              </matrix>
@@ -2803,7 +2803,7 @@
                                         </DOMBitmapInstance>
                                         <DOMBitmapInstance selected="true" libraryItemName="images/road-v.png">
                                              <matrix>
-                                                  <Matrix d="1.70173645019531" tx="713.75" ty="608.6"/>
+                                                  <Matrix d="1.70172119140625" tx="713.75" ty="608.6"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="44.5" y="201.5"/>
@@ -5062,292 +5062,292 @@
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="150.4" ty="332.5"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="863.55" ty="659.05"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="960" ty="1024.5"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="565" ty="1644.8"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="958.15" ty="1166.8"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="958.15" ty="1512.05"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="93.55" ty="1566.7"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="247.15" ty="1488.4"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="109" ty="771.05"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="972.55" ty="574.5"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="972.55" ty="709.1"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="911.75" ty="478.95"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="116.95" ty="1423.95"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="911.75" ty="801.05"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="851" ty="1390.8"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="825.2" ty="183"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="930" ty="112.75"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="483.5" ty="1275.25"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix ty="1476.25"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="91" ty="38"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="716.2" ty="1644.8"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="225.95" ty="1623.7"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="284.5" ty="260.45"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="960" ty="254.95"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="972.55" ty="366.95"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="960" ty="1353.3"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="379.3" ty="1625"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="-2.25" ty="622.05"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="727.95" ty="1513"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="791.55" ty="38"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="694.5" ty="244"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="669.95" ty="117.55"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="602.35" ty="11.75"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="-32.65" ty="740.5"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="76.35" ty="468.85"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="4.85" ty="906.15"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="-32.65" ty="411.45"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="17.15" ty="1014.05"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="247.15" ty="11.75"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="-2.25" ty="278.05"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="185.35" ty="123.75"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="138.15" ty="1013.25"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="-7.5" ty="135.7"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="126.15" ty="224.75"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="863.55" ty="1588.25"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="4.85" ty="1342.3"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix ty="1118.65"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="126.15" ty="1128.1"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="-1.3" ty="1237.3"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="483.5" ty="503.7"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="844.5" ty="1126.05"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="887.4" ty="1278.8"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="891.5" ty="928.65"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="123.9" ty="606.6"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="507" ty="158.1"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="830" ty="306.3"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="342.65" ty="123.75"/>
                                              </matrix>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance selected="true" libraryItemName="images/tree-0.png">
+                                        <DOMBitmapInstance libraryItemName="images/tree-0.png">
                                              <matrix>
                                                   <Matrix tx="429" ty="11.75"/>
                                              </matrix>
@@ -5575,7 +5575,7 @@
                                                   <Point x="-1.15" y="-46.25"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="place_mc" selected="true" centerPoint3DX="538.95" centerPoint3DY="1103.65">
+                                        <DOMSymbolInstance libraryItemName="place_mc" centerPoint3DX="538.95" centerPoint3DY="1103.65">
                                              <matrix>
                                                   <Matrix tx="540" ty="1150"/>
                                              </matrix>
@@ -6392,7 +6392,7 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="images" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+                    <DOMLayer name="images" color="#FF4FFF" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
@@ -6781,7 +6781,7 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="roads" color="#4FFF4F" autoNamed="false">
+                    <DOMLayer name="roads" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
@@ -6803,7 +6803,7 @@
                                         </DOMBitmapInstance>
                                         <DOMBitmapInstance libraryItemName="images/road-h.png">
                                              <matrix>
-                                                  <Matrix tx="311.6" ty="913.05"/>
+                                                  <Matrix tx="311.6" ty="920.75"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="207.45" y="39.45"/>
@@ -6811,7 +6811,7 @@
                                         </DOMBitmapInstance>
                                         <DOMBitmapInstance libraryItemName="images/road-h.png">
                                              <matrix>
-                                                  <Matrix tx="311.6" ty="1290.8"/>
+                                                  <Matrix tx="311.6" ty="1298.5"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="207.45" y="39.45"/>
@@ -6859,9 +6859,9 @@
                                                   <Point x="207.45" y="39.5"/>
                                              </transformationPoint>
                                         </DOMBitmapInstance>
-                                        <DOMBitmapInstance libraryItemName="images/road-h.png">
+                                        <DOMBitmapInstance selected="true" libraryItemName="images/road-h.png">
                                              <matrix>
-                                                  <Matrix tx="309.05" ty="531.9"/>
+                                                  <Matrix tx="309.05" ty="539.6"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="207.45" y="39.45"/>
@@ -6993,7 +6993,7 @@
                                                   <Point x="-1.15" y="-46.2"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="place_mc" selected="true" centerPoint3DX="318.85" centerPoint3DY="913.65">
+                                        <DOMSymbolInstance libraryItemName="place_mc" centerPoint3DX="318.85" centerPoint3DY="913.65">
                                              <matrix>
                                                   <Matrix tx="320" ty="960"/>
                                              </matrix>
@@ -7673,7 +7673,7 @@
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="place_mc" selected="true" centerPoint3DX="538.95" centerPoint3DY="343.45">
+                                        <DOMSymbolInstance libraryItemName="place_mc" centerPoint3DX="538.95" centerPoint3DY="343.45">
                                              <matrix>
                                                   <Matrix tx="540" ty="390"/>
                                              </matrix>
@@ -9085,16 +9085,22 @@
      <persistentData>
           <PD n="flash.fla.filepath" v="C:/_projects/towers-projects/Towers-tools/quest-generator-files/arena-5/arena-5.xfl"/>
           <PD n="swf.folder.path" v="C:/_projects/towers-projects/Towers-tools/quest-generator-files/"/>
-          <PD n="com.air.artemis.pubipa" v="false"/>
           <PD n="com.air.artemis.pubcaptive" v="false"/>
+          <PD n="com.air.artemis.pubipa" v="false"/>
           <PD n="com.air.artemis.pubair" v="true"/>
           <PD n="flash.swf.basename" v="arena-5"/>
-          <PD n="com.air.sdk.path"/>
           <PD n="com.air.artemis.pubexe" v="false"/>
+          <PD n="com.air.sdk.path"/>
           <PD n="com.air.artemis.airdest" v="arena-5.air"/>
      </persistentData>
      <PrinterSettings/>
      <publishHistory>
+          <PublishItem publishSize="496612" publishTime="1517667115"/>
+          <PublishItem publishSize="496612" publishTime="1517666087"/>
+          <PublishItem publishSize="496613" publishTime="1517666060"/>
+          <PublishItem publishSize="496603" publishTime="1517665669"/>
+          <PublishItem publishSize="496606" publishTime="1517665537"/>
+          <PublishItem publishSize="496605" publishTime="1517665497"/>
           <PublishItem publishSize="474076" publishTime="1511953115"/>
      </publishHistory>
      <swcCache>
